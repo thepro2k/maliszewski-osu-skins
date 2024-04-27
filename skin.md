@@ -1,8 +1,8 @@
-# Compilation of skins maliszewski has used since around early 2023 (wich is when i started playing)
+# Compilation of skins maliszewski has used since around early 2023 (which is when i started playing)
  ‎ ‎ 
- # my profile: https://osu.ppy.sh/users/16323209
+ # My profile: https://osu.ppy.sh/users/16323209
  ‎ 
-# - Includes skins he has used on stream, in yt videos and in twitter clips
+# - Includes skins malisz used on stream, in yt videos and in twitter clips
 # - Most of the skins in this doc are remakes
 # - The real name of some skins is unknown
 # - Needless to say, this list is not perfect - wether i simply missed a skin or decided not to ramake it simply because I tought it was extremely ugly
