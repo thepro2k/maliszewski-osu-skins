@@ -165,6 +165,9 @@
 # [tko](https://drive.google.com/file/d/1rLJkvNlVdsGOpnvghj1J9_d2b__lP7kx/view?usp=sharing)
 ![screenshot099](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9942b322-df84-4600-83d3-20436c093767)
 
+# [tkori_r2](https://drive.google.com/file/d/1Wq0oZVrOHd7EMZcMpbEponoMnJdTe0ml/view?usp=sharing)
+![screenshot103](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/66916473-a5e9-4045-b394-57882693a5c8)
+
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing)
 ![screenshot087](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4ba40bfe-6b91-4806-8417-fddde2416579)
 
