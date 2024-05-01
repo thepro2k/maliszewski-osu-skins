@@ -23,9 +23,12 @@
 
 # [axarious](https://drive.google.com/file/d/1YRz0tKIVgnrkVmK0KjNJGqUhVHcdol6W/view?usp=sharing)
 ![screenshot030](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ea04f6ef-514c-4423-86e0-222521648dbe)
- 
+
 # [azerino](https://drive.google.com/file/d/1BLeN_ivd_SX0TOr6K7B-EalUgkRPYaLT/view?usp=sharing)
 ![screenshot031](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/39010366-1143-4b3c-962d-bf6f20fb7628)
+ 
+# [azerino bomba](https://drive.google.com/file/d/1g_wyKXP0-HELUT3TnmhliHtfuuaUcFxg/view?usp=sharing)
+![screenshot126](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e3cea210-afb7-4c77-8f10-39070aca50cc)
 
 # [azerino2023 aristia-ish (?)](https://drive.google.com/file/d/1xyF6zwaungPnMljRIxRV5-UyLYEgAl0j/view?usp=sharing)
 ![screenshot034](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/7196404f-6c14-4131-a72a-c7aef27ef330)
