@@ -1,11 +1,11 @@
-# Compilation of skins Maliszewski has used since around mid 2023 (which is when i started playing)
+# Compilation of skins Maliszewski has used, mostly from after mid 2023 (which is when i started playing)
  ‎ ‎ 
  # My profile: https://osu.ppy.sh/users/16323209
  ‎ 
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
 # - Most of the skins in this doc are remakes - either by members of the community or me (if you want credit for a remake you made, reach out)
 # - If you see (?) it means the real name of a skin in unknown
-# - Needless to say, this list is not perfect - whether I simply missed a skin or decided not to remake it  because I tought it was extremely ugly
+# - Needless to say, this list is not perfect - whether I simply missed a skin or decided not to remake it  because I thought it was extremely ugly
 # - If you have a skin thats not in this doc and want to contribute, DM me on discord and ill add it and find a way to credit you: gtb_sg
 
 
@@ -176,6 +176,9 @@
 
 # [tekkito2 rektygon (?)](https://drive.google.com/file/d/1YX79kvYr4YUm_JIYd8hIB7IWf0310X7a/view?usp=sharing)
 ![screenshot084](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cc30cd0a-39f6-47e2-9726-be1165228baa)
+
+# [‎tekkito2 rrtyui (?)](https://drive.google.com/file/d/1PZISSnmfw8nawJ91m40UTKKQpmCmXpIN/view?usp=sharing)
+![screenshot120](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/019c9c07-7c70-43cd-bae0-5ab004732880)
 
 # [tko](https://drive.google.com/file/d/1rLJkvNlVdsGOpnvghj1J9_d2b__lP7kx/view?usp=sharing)
 ![screenshot099](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9942b322-df84-4600-83d3-20436c093767)
