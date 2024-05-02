@@ -8,7 +8,6 @@
 # - Needless to say, this list is not perfect - whether I simply missed a skin or decided not to remake it  because I thought it was extremely ugly
 # - If you have a skin thats not in this doc and want to contribute, DM me on discord and ill add it and find a way to credit you: gtb_sg
 
-
 # [‎#dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing)
 ![screenshot024](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8a760cc4-65ea-4cf3-a3ee-51b38366ff5e)
 
@@ -128,6 +127,9 @@
 
 # [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing)
 ![screenshot067](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/bc40c357-1c6f-4f12-8a71-f603c664540d)
+
+# [MISKAMODELKA](https://drive.google.com/file/d/1uomr7JWFQHLk_vYm11SpDkz8-etudY0n/view?usp=sharing)
+![screenshot128](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/0700e681-286e-4ad7-b135-89a2f6758b6b)
 
 # [MonkoGlassTest](https://drive.google.com/file/d/1HHECSnz0t6dvGq_I-gD3pjdlBUw-p0Ed/view?usp=sharing)
 ![screenshot068](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e3207863-9b2e-4a80-9d40-52c40bcc5d59)
