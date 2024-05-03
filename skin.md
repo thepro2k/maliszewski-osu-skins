@@ -128,8 +128,8 @@
 # [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing)
 ![screenshot067](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/bc40c357-1c6f-4f12-8a71-f603c664540d)
 
-# [MISKAMODELKA](https://drive.google.com/file/d/1uomr7JWFQHLk_vYm11SpDkz8-etudY0n/view?usp=sharing)
-![screenshot128](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/0700e681-286e-4ad7-b135-89a2f6758b6b)
+# [MISKAMODELKA](https://drive.google.com/file/d/1bWU0HKjkSmpryUYV_ZE5NFo89bUKq6iy/view?usp=sharing)
+![screenshot131](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3f02f32c-cabc-4ce1-a544-3390fbbadeb8)
 
 # [MonkoGlassTest](https://drive.google.com/file/d/1HHECSnz0t6dvGq_I-gD3pjdlBUw-p0Ed/view?usp=sharing)
 ![screenshot068](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e3207863-9b2e-4a80-9d40-52c40bcc5d59)
