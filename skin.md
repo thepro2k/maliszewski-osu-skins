@@ -14,7 +14,7 @@
 # [afsd](https://drive.google.com/file/d/1li7pqk6R6TmyGK-7kL5cMVOJaAEpq1_P/view?usp=sharing)
 ![screenshot029](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/2b06c61b-37f6-435c-aa98-06720233f41e)
 
-# [afsdkjlh (?)](https://drive.google.com/file/d/1DD6lBQhdPWtTHGsNLw1PReIf9400nS5L/view?usp=sharing)
+# [afsdkjlh](https://drive.google.com/file/d/1DD6lBQhdPWtTHGsNLw1PReIf9400nS5L/view?usp=sharing)
 ![screenshot136](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/46ccddad-e9a7-45de-b1fb-8c2de79f190e)
 
 # [aristekk](https://drive.google.com/file/d/1Bts7KEskvZGuO7CbKCadQu1wbvkgrN_c/view?usp=sharing)
