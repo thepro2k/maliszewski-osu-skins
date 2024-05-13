@@ -29,7 +29,7 @@
 # [azerino](https://drive.google.com/file/d/1BLeN_ivd_SX0TOr6K7B-EalUgkRPYaLT/view?usp=sharing)
 ![screenshot031](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/39010366-1143-4b3c-962d-bf6f20fb7628)
  
-# [azerino bomba](https://drive.google.com/file/d/1g_wyKXP0-HELUT3TnmhliHtfuuaUcFxg/view?usp=sharing)
+# [azerino bomba (?)](https://drive.google.com/file/d/1g_wyKXP0-HELUT3TnmhliHtfuuaUcFxg/view?usp=sharing)
 ![screenshot126](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e3cea210-afb7-4c77-8f10-39070aca50cc)
 
 # [azerino stare](https://drive.google.com/file/d/1Af_2_QDmK0rkmxgTXDwA78FZrt5VZsTm/view?usp=sharing)
@@ -137,6 +137,9 @@
 # [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing)
 ![screenshot067](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/bc40c357-1c6f-4f12-8a71-f603c664540d)
 
+# [misia](https://drive.google.com/file/d/1RYm2yTeZBGkyp-ne83JfQwUCBBXNuhVz/view?usp=sharing)
+![screenshot140](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/362fc118-3393-412f-a1de-215a406631d7)
+
 # [MISKAMODELKA](https://drive.google.com/file/d/1bWU0HKjkSmpryUYV_ZE5NFo89bUKq6iy/view?usp=sharing)
 ![screenshot131](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3f02f32c-cabc-4ce1-a544-3390fbbadeb8)
 
@@ -205,6 +208,9 @@
 
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing)
 ![screenshot087](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4ba40bfe-6b91-4806-8417-fddde2416579)
+
+# [want u back dt fc 1x100](https://drive.google.com/file/d/128huM3S9zxOzPG65laj7vN_Weex-id2K/view?usp=sharing)
+![screenshot141](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/04fb65d4-1b4c-428b-af74-812ddfac006c)
 
 # [whypan azerino](https://drive.google.com/file/d/1lG_9dMHLieoRYdV-j-aiCapE9O-euOuJ/view?usp=sharing)
 ![screenshot088](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/5caae1f7-e1fd-4fc8-bbec-fff778561e57)
