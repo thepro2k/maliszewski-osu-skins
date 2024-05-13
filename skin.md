@@ -119,6 +119,9 @@
 # [lugia dt](https://drive.google.com/file/d/1j1zpq9uU_SjPcjRbO_maoEcZdTCStYRq/view?usp=sharing)
 ![screenshot061](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8fd1124c-fe9e-47f7-ab03-7403fbb469e8)
 
+# [malisz_azerino_editnov](https://drive.google.com/file/d/1Ux1HaAhXDaGF84B7M4jS0yaaml28psOc/view?usp=sharing)
+![screenshot146](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f97fc654-64a8-422f-9baa-2c06ceace626)
+
 # [maliszewski](https://drive.google.com/file/d/1MF0gQ2zhzZQVdOvaJfAR0L21g60MvFo9/view?usp=sharing)
 ![screenshot062](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/54082252-d5bd-4251-8cdd-da7a290e4d5f)
 
