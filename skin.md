@@ -101,6 +101,9 @@
 # [f8 edit](https://drive.google.com/file/d/14uSm18zRC7JwkBEpMJeDlZzncLT3jPMe/view?usp=sharing)
 ![screenshot056](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c731bf7c-a2ab-4b81-8dde-b9023f2b7a0b)
 
+# [fukari alt edit](https://drive.google.com/file/d/1v6lLh7UwU_Tw0IgJXNtWdkJlaTV83DQN/view?usp=sharing)
+![screenshot149](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/34c31797-3018-4bfb-be87-b13f45fa9984)
+
 # [hyeokedit](https://drive.google.com/file/d/1als2rWBM3ZX00VF0dw7r74UgXYI75ylM/view?usp=sharing)
 ![screenshot057](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8b1f7124-e49f-4b22-afe9-2c74db236f1f)
 
