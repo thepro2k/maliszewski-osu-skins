@@ -50,6 +50,9 @@
 # [azerino2023](https://drive.google.com/file/d/1AGpJchi-45tWSV17RkNsznGPlibSrpzh/view?usp=sharing)
 ![screenshot032](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4175e551-4656-4fd9-9f97-31e1b610d1ea)
  
+# [azerino2023 rekty](https://drive.google.com/file/d/1qN-844_mVM3rp5VnaYqLA0TVzN20BhGo/view?usp=sharing)
+![screenshot150](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/2c103be2-f80f-4464-9eb2-4b673728860c)
+
 # [azerinobombardeditowany](https://drive.google.com/file/d/1GGRBCYQ23uN6vKcXKvDlCZVKtv-U-Hip/view?usp=sharing)
 ![screenshot041](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c687d39c-6336-45e4-9230-820fefa86003)
 
