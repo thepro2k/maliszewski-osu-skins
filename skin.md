@@ -245,5 +245,8 @@
 # [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1RGA5CrsohxgTLOAhKeckhBziS-EdwwLp/view?usp=sharing)
 ![screenshot094](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3655bb99-1df8-41d3-aa19-0b5e636ef07a)
 
+# [zwykly_tekkito](https://drive.google.com/file/d/1OZOC-wdsiJSPqD9pS9Nj1xOsE4Gw72o9/view?usp=sharing )
+![screenshot152](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/45a16054-d936-4047-b893-42d8dcd5cce9)
+
 # [‎zylice inne hitsoundy](https://drive.google.com/file/d/1EtsKHLHWfft6K5PgxjEsIbKbKXNUKjns/view?usp=sharing)
 ![screenshot097](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/00ad3144-90fb-4eb2-9954-04a3d3e38b01)
