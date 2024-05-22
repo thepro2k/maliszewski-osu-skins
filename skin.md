@@ -206,6 +206,9 @@
 # [‎tekkito2 rrtyui (?)](https://drive.google.com/file/d/1PZISSnmfw8nawJ91m40UTKKQpmCmXpIN/view?usp=sharing)
 ![screenshot120](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/019c9c07-7c70-43cd-bae0-5ab004732880)
 
+# [‎tekkito2_rafis](https://drive.google.com/file/d/1J9QMfkLAaJK2aDMeUqwIdOve6rwulO_t/view?usp=sharing)
+![screenshot157](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/77f928c8-f0fe-4df6-b80c-881c0bed1394)
+
 # [tko](https://drive.google.com/file/d/1rLJkvNlVdsGOpnvghj1J9_d2b__lP7kx/view?usp=sharing)
 ![screenshot099](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9942b322-df84-4600-83d3-20436c093767)
 
@@ -223,6 +226,9 @@
 
 # [whypan azerino](https://drive.google.com/file/d/1lG_9dMHLieoRYdV-j-aiCapE9O-euOuJ/view?usp=sharing)
 ![screenshot088](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/5caae1f7-e1fd-4fc8-bbec-fff778561e57)
+
+# [wooz](https://drive.google.com/file/d/1Y0dHl9Nlqo7ePhYW-WkqwpMX6xQMu-Sm/view?usp=sharing)
+![screenshot158](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/98dd7c06-cf74-4aad-96ee-8d6f8ff54165)
 
 # [xact](https://drive.google.com/file/d/1jGSp8e1mRfYtYu8Xb1Wqspfruv4Za822/view?usp=sharing)
 ![screenshot114](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/477e0fc2-217c-4b9d-a75d-4d1e046bb99a)
@@ -245,7 +251,7 @@
 # [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1RGA5CrsohxgTLOAhKeckhBziS-EdwwLp/view?usp=sharing)
 ![screenshot094](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3655bb99-1df8-41d3-aa19-0b5e636ef07a)
 
-# [zwykly_tekkito](https://drive.google.com/file/d/1OZOC-wdsiJSPqD9pS9Nj1xOsE4Gw72o9/view?usp=sharing )
+# [zwykly tekkito](https://drive.google.com/file/d/1OZOC-wdsiJSPqD9pS9Nj1xOsE4Gw72o9/view?usp=sharing )
 ![screenshot152](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/45a16054-d936-4047-b893-42d8dcd5cce9)
 
 # [‎zylice inne hitsoundy](https://drive.google.com/file/d/1EtsKHLHWfft6K5PgxjEsIbKbKXNUKjns/view?usp=sharing)
