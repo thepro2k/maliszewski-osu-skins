@@ -227,7 +227,7 @@
 # [whypan azerino](https://drive.google.com/file/d/1lG_9dMHLieoRYdV-j-aiCapE9O-euOuJ/view?usp=sharing)
 ![screenshot088](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/5caae1f7-e1fd-4fc8-bbec-fff778561e57)
 
-# [wooz](https://drive.google.com/file/d/1JJRppSrYBie5zV5gnccAS1s2sDa18H9r/view?usp=sharing)
+# [wooz](https://drive.google.com/file/d/1I6ZF9_wuKJhRZcNlUkQpylp0Ujc2rSnB/view?usp=sharing)
 ![screenshot158](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/98dd7c06-cf74-4aad-96ee-8d6f8ff54165)
 
 # [xact](https://drive.google.com/file/d/1jGSp8e1mRfYtYu8Xb1Wqspfruv4Za822/view?usp=sharing)
