@@ -1,12 +1,15 @@
-# Compilation of skins Maliszewski has used, mostly from after mid 2023 (which is when i started playing)
- ‎ ‎ 
+# Compilation of over 80 skins Maliszewski has used, mostly from after mid 2023 
+
+ 
  # My profile: https://osu.ppy.sh/users/16323209
  ‎ 
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
-# - Most of the skins in this doc are remakes - either by members of the community or me (if you want credit for a remake you made, reach out)
-# - If you see (?) it means the real name of a skin in unknown
-# - Needless to say, this list is not perfect - whether I simply missed a skin or decided not to remake it  because I thought it was extremely ugly
-# - If you have a skin thats not in this doc and want to contribute, DM me on discord and ill add it and find a way to credit you: gtb_sg
+# - Almost all skins in this doc are remakes - mostly by me with some corrections from members of the community
+# - If you see (?) it means the real name of a skin in unknown or just reused the name of other edit
+# - Needless to say, I can't guarentee every remake is 100% accurate - but if you see any flaws I strongly encourage you to let me know
+# - If you have a skin thats not in this doc and want to contribute, DM me on discord: gtb_sg
+
+# - Not associated with Maliszewski - here is his official skinhub https://github.com/Emejzink/Malisz/blob/main/skins.md
 
 # [‎#dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing)
 ![screenshot024](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8a760cc4-65ea-4cf3-a3ee-51b38366ff5e)
