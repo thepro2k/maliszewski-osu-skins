@@ -119,8 +119,8 @@
 # [ietherial](https://drive.google.com/file/d/1Vy_jSVC40bq5YbzAoOsjcMMCWys9rFha/view?usp=sharing)
 ![screenshot101](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d3d0d2f2-9565-44c4-aca1-ef0ced522e85)
 
-# [ietherial nowy](https://drive.google.com/file/d/15wiq4WrHq_cZdlS2mKDDvAcj_3E6aBKz/view?usp=sharing)
-![screenshot162](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d4416d45-6a2f-44bc-b17d-64dba2cc9eda)
+# [ietherial nowy](https://drive.google.com/file/d/1WfNg4UIgYguDf_gdr4QqbyiGph0sp06s/view?usp=sharing)
+![screenshot163](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ab15e5a5-55f9-4e9c-a44c-e2d01f5b7e0d)
 
 # [kurwa](https://drive.google.com/file/d/1zPqnI3j8UpuKGiXThp2f527bLKKtAmzI/view?usp=sharing)
 ![screenshot059](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b94fa0b0-f6da-4b01-8b22-dc83e960e5f0)
