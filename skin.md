@@ -116,11 +116,11 @@
 # [hyeokedit3](https://drive.google.com/file/d/1bgx0m26HTvxxa5Ai1ID86QdF2PydowBl/view?usp=sharing)
 ![screenshot058](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e5c03237-8494-437f-8873-18a39c0259d5)
 
-# [ietherial nowy](https://drive.google.com/file/d/15wiq4WrHq_cZdlS2mKDDvAcj_3E6aBKz/view?usp=sharing)
-![screenshot162](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d4416d45-6a2f-44bc-b17d-64dba2cc9eda)
-
 # [ietherial](https://drive.google.com/file/d/1Vy_jSVC40bq5YbzAoOsjcMMCWys9rFha/view?usp=sharing)
 ![screenshot101](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d3d0d2f2-9565-44c4-aca1-ef0ced522e85)
+
+# [ietherial nowy](https://drive.google.com/file/d/15wiq4WrHq_cZdlS2mKDDvAcj_3E6aBKz/view?usp=sharing)
+![screenshot162](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d4416d45-6a2f-44bc-b17d-64dba2cc9eda)
 
 # [kurwa](https://drive.google.com/file/d/1zPqnI3j8UpuKGiXThp2f527bLKKtAmzI/view?usp=sharing)
 ![screenshot059](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b94fa0b0-f6da-4b01-8b22-dc83e960e5f0)
