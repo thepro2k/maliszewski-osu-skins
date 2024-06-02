@@ -62,7 +62,7 @@
 # [azerinobombardeditowany](https://drive.google.com/file/d/1GGRBCYQ23uN6vKcXKvDlCZVKtv-U-Hip/view?usp=sharing)
 ![screenshot041](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c687d39c-6336-45e4-9230-820fefa86003)
 
-# [‎‎azerino-whypan malis edit (?)](https://drive.google.com/file/d/1YeQ02W7P9xQNYZbR6Y9gOAxhNXEbglZx/view?usp=sharing)
+# [‎‎azerino-whypan malisz edit (?)](https://drive.google.com/file/d/1YeQ02W7P9xQNYZbR6Y9gOAxhNXEbglZx/view?usp=sharing)
 ![screenshot042](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f57a74bb-694c-4f86-aa2e-cd25e20bfc4c)
 
 # [bobiakk](https://drive.google.com/file/d/1V6CYjWH79wB9tm9jnA6j7PlgxOIvmy2Y/view?usp=sharing)
