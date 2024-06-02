@@ -14,6 +14,9 @@
 # [‎#dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing)
 ![screenshot024](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8a760cc4-65ea-4cf3-a3ee-51b38366ff5e)
 
+# [adrian nowak zalno](https://drive.google.com/file/d/113DWVrd6koka4j1Ld9uNvVnHDov0V-M5/view?usp=sharing)
+![screenshot167](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8b82aefb-4ded-436e-bdff-e46c183c09ec)
+
 # [afsd](https://drive.google.com/file/d/1li7pqk6R6TmyGK-7kL5cMVOJaAEpq1_P/view?usp=sharing)
 ![screenshot029](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/2b06c61b-37f6-435c-aa98-06720233f41e)
 
@@ -197,6 +200,9 @@
 # [super skin](https://drive.google.com/file/d/1Xef77EeSk7K9Y_HyTvtKkKNfK01T6tPz/view?usp=sharing)
 ![screenshot079](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/dad9cda3-aa2c-4a95-844e-cf2fc42519a5)
 
+# [swirson michael](https://drive.google.com/file/d/1iGCKozZbqwgYFPCInBhjqDenWEjjztAm/view?usp=sharing)
+![screenshot166](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/6fb03c57-cf7c-4e3e-9e56-c60ef52bc849)
+
 # [tekk kabl](https://drive.google.com/file/d/1qJNQs_2Ebacgr_5siKJfMRoUVjD1M3eN/view?usp=sharing)
 ![screenshot080](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/23c014b4-28c2-46d0-a62a-366eec8aef4a)
 
@@ -223,9 +229,6 @@
 
 # [tkori_r2 (?)](https://drive.google.com/file/d/1uyGKxgZMZedUimyi6Mgxr1t6rJO_DJrU/view?usp=sharing)
 ![screenshot123](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/be35741c-784c-4f46-9a6d-436d22653738)
-
-# [twice - cheer up first dt fc (?)](https://drive.google.com/file/d/1BMcktEkMY5V0jXvDhLGhALenESB3UFAT/view?usp=sharing)
-![screenshot165](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/bef8260c-53fb-41e6-8b5c-6b1aedc84581)
 
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing)
 ![screenshot087](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4ba40bfe-6b91-4806-8417-fddde2416579)
