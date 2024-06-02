@@ -56,7 +56,7 @@
 # [azerino2023](https://drive.google.com/file/d/1AGpJchi-45tWSV17RkNsznGPlibSrpzh/view?usp=sharing)
 ![screenshot032](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4175e551-4656-4fd9-9f97-31e1b610d1ea)
  
-# [azerino2023 rekty](https://drive.google.com/file/d/1qN-844_mVM3rp5VnaYqLA0TVzN20BhGo/view?usp=sharing)
+# [azerino2023 rekty (?)](https://drive.google.com/file/d/1qN-844_mVM3rp5VnaYqLA0TVzN20BhGo/view?usp=sharing)
 ![screenshot150](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/2c103be2-f80f-4464-9eb2-4b673728860c)
 
 # [azerinobombardeditowany](https://drive.google.com/file/d/1GGRBCYQ23uN6vKcXKvDlCZVKtv-U-Hip/view?usp=sharing)
@@ -92,16 +92,16 @@
 # [dinglekito](https://drive.google.com/file/d/1vt2aAdGoF53Vaame0ZK_MSRPhcSZtQ0p/view?usp=sharing)
 ![screenshot051](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4f154a02-be40-42f0-97a4-1890c858473f)
 
-# [dinglekito malisz edit (?)](https://drive.google.com/file/d/1h4baWjhvM7dBeL7AlhVDLhYnMyZ44-G-/view?usp=sharing)
+# [dinglekito aim star (?)](https://drive.google.com/file/d/1h4baWjhvM7dBeL7AlhVDLhYnMyZ44-G-/view?usp=sharing)
 ![screenshot052](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/fb4d7fd0-2e3d-49ca-bc57-8f429fcccf03)
 
 # [essazerino](https://drive.google.com/file/d/1lk2VDQ6D-TJjXcLeWjttRp-KGH36NOT2/view?usp=sharing)
 ![screenshot116](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/fced08d6-69e2-4d95-bd4a-a285155a21ac)
 
-# [essazerino black (?)](https://drive.google.com/file/d/11Wf98MbRTBZSfj_ZHFbo0KnjDi7lD22k/view?usp=sharing)
+# [essazerino grej (?)](https://drive.google.com/file/d/11Wf98MbRTBZSfj_ZHFbo0KnjDi7lD22k/view?usp=sharing)
 ![screenshot054](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a10caba0-7a30-45da-8bf5-ef1740a384b0)
 
-# [essazerino black 2 (?)](https://drive.google.com/file/d/17ogkx5AM1N85vqI1zwIsoIMOA5y85ICK/view?usp=sharing)
+# [essazerino grej 2 (?)](https://drive.google.com/file/d/17ogkx5AM1N85vqI1zwIsoIMOA5y85ICK/view?usp=sharing)
 ![screenshot055](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/5d83ee0f-6b1b-4e8b-8920-fe4d18a4aca4)
 
 # [essamamka](https://drive.google.com/file/d/1jZaKQahJ15OkwHPAdg2qkzmJSW5vN5EO/view?usp=sharing)
@@ -116,7 +116,7 @@
 # [hyeokedit](https://drive.google.com/file/d/1als2rWBM3ZX00VF0dw7r74UgXYI75ylM/view?usp=sharing)
 ![screenshot057](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8b1f7124-e49f-4b22-afe9-2c74db236f1f)
 
-# [hyeokedit3](https://drive.google.com/file/d/1bgx0m26HTvxxa5Ai1ID86QdF2PydowBl/view?usp=sharing)
+# [hyeokedit](https://drive.google.com/file/d/1bgx0m26HTvxxa5Ai1ID86QdF2PydowBl/view?usp=sharing)
 ![screenshot058](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e5c03237-8494-437f-8873-18a39c0259d5)
 
 # [ietherial](https://drive.google.com/file/d/1Vy_jSVC40bq5YbzAoOsjcMMCWys9rFha/view?usp=sharing)
@@ -200,9 +200,6 @@
 # [tekk kabl](https://drive.google.com/file/d/1qJNQs_2Ebacgr_5siKJfMRoUVjD1M3eN/view?usp=sharing)
 ![screenshot080](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/23c014b4-28c2-46d0-a62a-366eec8aef4a)
 
-# [tekkito zibi_grej](https://drive.google.com/file/d/1Nibn65zfxkTYzztL-JQycCWpUnNMKBiP/view?usp=sharing)
-![screenshot082](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d67eb32f-49b6-4929-b935-86aedff04686)
-
 # [tekkito legoshii](https://drive.google.com/file/d/1cUlxTYmEmDJGsHeD4XKPM7xEdLQKSGIP/view?usp=sharing )
 ![screenshot083](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8520a74d-a01f-4d19-85e9-b0009adfc7d8)
 
@@ -224,8 +221,11 @@
 # [tkori_r2](https://drive.google.com/file/d/1Wq0oZVrOHd7EMZcMpbEponoMnJdTe0ml/view?usp=sharing)
 ![screenshot103](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/66916473-a5e9-4045-b394-57882693a5c8)
 
-# [tkori_r2 enri edit](https://drive.google.com/file/d/1uyGKxgZMZedUimyi6Mgxr1t6rJO_DJrU/view?usp=sharing)
+# [tkori_r2 (?)](https://drive.google.com/file/d/1uyGKxgZMZedUimyi6Mgxr1t6rJO_DJrU/view?usp=sharing)
 ![screenshot123](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/be35741c-784c-4f46-9a6d-436d22653738)
+
+# [twice - cheer up first dt fc (?)](https://drive.google.com/file/d/1BMcktEkMY5V0jXvDhLGhALenESB3UFAT/view?usp=sharing)
+![screenshot165](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/bef8260c-53fb-41e6-8b5c-6b1aedc84581)
 
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing)
 ![screenshot087](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4ba40bfe-6b91-4806-8417-fddde2416579)
@@ -259,6 +259,9 @@
 
 # [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1RGA5CrsohxgTLOAhKeckhBziS-EdwwLp/view?usp=sharing)
 ![screenshot094](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3655bb99-1df8-41d3-aa19-0b5e636ef07a)
+
+# [zibi_grej](https://drive.google.com/file/d/1Nibn65zfxkTYzztL-JQycCWpUnNMKBiP/view?usp=sharing)
+![screenshot082](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d67eb32f-49b6-4929-b935-86aedff04686)
 
 # [zwykly tekkito](https://drive.google.com/file/d/1OZOC-wdsiJSPqD9pS9Nj1xOsE4Gw72o9/view?usp=sharing )
 ![screenshot152](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/45a16054-d936-4047-b893-42d8dcd5cce9)
