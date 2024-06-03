@@ -14,6 +14,9 @@
 # [‎#dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing)
 ![screenshot024](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8a760cc4-65ea-4cf3-a3ee-51b38366ff5e)
 
+# [‎a (splity edit) malisz edit (?)](https://drive.google.com/file/d/1Y2ccbeUOPPAZhGAQZ61eEshjOvKmENkb/view?usp=sharing)
+![screenshot168](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d44dc47f-60c4-427f-bbcb-64bf1ff60633)
+
 # [adrian nowak zalno](https://drive.google.com/file/d/113DWVrd6koka4j1Ld9uNvVnHDov0V-M5/view?usp=sharing)
 ![screenshot167](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8b82aefb-4ded-436e-bdff-e46c183c09ec)
 
@@ -28,6 +31,9 @@
 
 # [aristekk](https://drive.google.com/file/d/1Bts7KEskvZGuO7CbKCadQu1wbvkgrN_c/view?usp=sharing)
 ![screenshot113](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8ad0a11f-cd3e-40dc-9bcf-5a01ef3bb4cb)
+
+# [Aristia aknzx glizwhite blue (malisz edit) (?)](https://drive.google.com/file/d/1Ye6CgPZH3n-2gVXYlPceq9QPozGpjv3P/view?usp=sharing)
+![screenshot171](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f41563a0-275d-40dd-836f-7044291af5a4)
 
 # [arstk921](https://drive.google.com/file/d/1INpA9KzUGBxYqNlfXZ49LSdzuRTBqO8n/view?usp=sharing)
 ![screenshot112](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/0061a3a9-0208-4df0-bfbd-2e7b1437e671)
