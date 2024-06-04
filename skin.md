@@ -35,7 +35,7 @@
 # [Aristia aknzx glizwhite blue (malisz edit) (?)](https://drive.google.com/file/d/1Ye6CgPZH3n-2gVXYlPceq9QPozGpjv3P/view?usp=sharing)
 ![screenshot171](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f41563a0-275d-40dd-836f-7044291af5a4)
 
-# [Aristia aknzx glizwhite blue (malisz edit 2) (?)](https://drive.google.com/file/d/1iMhkSYxwLJITvmPGwJ5uXsH3RFLM0p09/view?usp=sharing)
+# [Aristia aknzx glizwhite blue (malisz edit 2) (?)](https://drive.google.com/file/d/1VKhXek509KDdaZWWXtUDaMINfG2xWt-3/view?usp=sharing)
 ![screenshot172](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/83313b7f-d459-492c-a3ee-c1b6e3c4a2a6)
 
 # [arstk921](https://drive.google.com/file/d/1INpA9KzUGBxYqNlfXZ49LSdzuRTBqO8n/view?usp=sharing)
