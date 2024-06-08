@@ -38,7 +38,7 @@
 # [aristia poddymiona](https://drive.google.com/file/d/1caX7X-2HWiNkGTmweZsEmEEv89b_owpZ/view?usp=sharing)
 ![screenshot173](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/93bd4cf6-2eb7-4e53-885d-5e0c4964affa)
 
-# [aristia dg thing (?)](https://drive.google.com/file/d/1szTkrvtrRfX3dQanJiztmr82CJwcZyVP/view?usp=sharing)
+# [aristia poddymiona(?)](https://drive.google.com/file/d/1szTkrvtrRfX3dQanJiztmr82CJwcZyVP/view?usp=sharing)
 ![screenshot276](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/1d441785-ae9d-4532-86a5-89d10543af91)
 
 # [arstk921](https://drive.google.com/file/d/1INpA9KzUGBxYqNlfXZ49LSdzuRTBqO8n/view?usp=sharing)
