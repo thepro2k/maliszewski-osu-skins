@@ -68,7 +68,7 @@
 # [azerino malisz edit (?)](https://drive.google.com/file/d/1L1oSDfuOmQyGjei1m88tZwEU2-ubViOc/view?usp=sharing) (10/2023)
 ![screenshot186](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e6f0bed2-513a-4951-8c0f-b76e89edbfe9)
 
-# [azerino2023](https://drive.google.com/file/d/1AGpJchi-45tWSV17RkNsznGPlibSrpzh/view?usp=sharing) (06/2023)
+# [azerino2023](https://drive.google.com/file/d/1AGpJchi-45tWSV17RkNsznGPlibSrpzh/view?usp=sharing) (05/2023)
  ![screenshot187](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c69a250d-188f-4304-b346-7ab606dc01e4)
 
 # [azerino2023 rekty (?)](https://drive.google.com/file/d/1qN-844_mVM3rp5VnaYqLA0TVzN20BhGo/view?usp=sharing) (07/2023)
