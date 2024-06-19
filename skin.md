@@ -23,7 +23,7 @@
 # [afsd](https://drive.google.com/file/d/1li7pqk6R6TmyGK-7kL5cMVOJaAEpq1_P/view?usp=sharing) (11/2023)
 ![screenshot176](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f3bf5974-9bfa-4050-b4b3-fe03f98ea687)
 
-# [afsdkjlh](https://drive.google.com/file/d/1DD6lBQhdPWtTHGsNLw1PReIf9400nS5L/view?usp=sharing)
+# [afsdkjlh](https://drive.google.com/file/d/1DD6lBQhdPWtTHGsNLw1PReIf9400nS5L/view?usp=sharing) (?/2023)
 ![screenshot136](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/46ccddad-e9a7-45de-b1fb-8c2de79f190e)
 
 # [all my turn fc (?)](https://drive.google.com/file/d/10v7G1_tI_fbKnmzW2RyUmHBinhXmyOrC/view?usp=sharing) (05/2024)
@@ -176,7 +176,7 @@
 # [MISKAMODELKA](https://drive.google.com/file/d/1bWU0HKjkSmpryUYV_ZE5NFo89bUKq6iy/view?usp=sharing) (05/2024)
 ![screenshot131](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3f02f32c-cabc-4ce1-a544-3390fbbadeb8)
 
-# [MonkoGlassTest](https://drive.google.com/file/d/1HHECSnz0t6dvGq_I-gD3pjdlBUw-p0Ed/view?usp=sharing)
+# [MonkoGlassTest](https://drive.google.com/file/d/1HHECSnz0t6dvGq_I-gD3pjdlBUw-p0Ed/view?usp=sharing) (?/2023)
 ![screenshot240](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4d040aff-1263-45f6-be25-d72a28dfb7c9)
 
 # [MonkoGlassTest malisz edit (?)](https://drive.google.com/file/d/1gZeePpLmbKJb4V5GtCSWQGeQG4Rfz3ax/view?usp=sharing) (10/2023)
@@ -185,10 +185,10 @@
 # [‎Rafis 2017-08-10](https://drive.google.com/file/d/1-G8gsKRGP0DpUTnLlFUzwSYQ6cj2TNB0/view?usp=sharing)
 ![screenshot242](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b41fb60f-3025-4103-9617-13aa053e9d8f)
 
-# [Rafis but zylice](https://drive.google.com/file/d/1QHNCSrh2wbU1hc1MHUEEauadQjOrbHKE/view?usp=sharing)
+# [Rafis but zylice](https://drive.google.com/file/d/1QHNCSrh2wbU1hc1MHUEEauadQjOrbHKE/view?usp=sharing) (03/2023)
 ![screenshot243](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/95fdcd1f-ee0b-4835-a2c8-bba089f385a1)
 
-# [red_pixel](https://drive.google.com/file/d/13dilcfKyzhhElbk3XnAcdRclFx5EAnuN/view?usp=sharing) 
+# [red_pixel](https://drive.google.com/file/d/13dilcfKyzhhElbk3XnAcdRclFx5EAnuN/view?usp=sharing)  (10/2022)
 ![screenshot244](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9bed8c6f-4285-4f47-8b62-02cb81401067)
 
 # [rektygonmiska](https://drive.google.com/file/d/1rmA6p6lcBp9P0XNagTJ0Htuza9dcjoQf/view?usp=sharing) (02/2024)
@@ -203,10 +203,10 @@
 # [ryuk](https://drive.google.com/file/d/1Ts00TIhCg00SOfKrg-y-Ni70dhljW-ZA/view?usp=sharing) (03/2024)
 ![screenshot248](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c8c27bd2-e3d0-465c-abbf-1cf73009b1a1)
 
-# [‎shii_ekoro](https://drive.google.com/file/d/1vPtsIF8UtGkBq-zLwlJBmeKcxfJXLTvi/view?usp=sharing) 
+# [‎shii_ekoro](https://drive.google.com/file/d/1vPtsIF8UtGkBq-zLwlJBmeKcxfJXLTvi/view?usp=sharing) (04/2024)
 ![screenshot250](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d2ce60a7-153d-4b33-ba01-c24935163bc0)
 
-# [sumire rafis dt (?)](https://drive.google.com/file/d/12gP0DTKuH-TJ2lCWJlUuI-iiwIbxnYIP/view?usp=sharing) 
+# [sumire rafis dt (?)](https://drive.google.com/file/d/12gP0DTKuH-TJ2lCWJlUuI-iiwIbxnYIP/view?usp=sharing) (10/2023) 
 ![screenshot251](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/39470dac-1c54-4736-b7c3-bb8235a1e1e2)
 
 # [super skin](https://drive.google.com/file/d/1Xef77EeSk7K9Y_HyTvtKkKNfK01T6tPz/view?usp=sharing) (03/2024)
@@ -224,7 +224,7 @@
 # [tekkito2](https://drive.google.com/file/d/1D5duU7V_mkFj81vos5xhGkjYSTiwML0A/view?usp=sharing) (07/2023)
 ![screenshot255](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/dbf2c712-3a67-46ab-9ad9-153fb2477d6d)
 
-# [tekkito2 rektygon (?)](https://drive.google.com/file/d/1YX79kvYr4YUm_JIYd8hIB7IWf0310X7a/view?usp=sharing) 
+# [tekkito2 rektygon (?)](https://drive.google.com/file/d/1YX79kvYr4YUm_JIYd8hIB7IWf0310X7a/view?usp=sharing) (?/2023)
 ![screenshot256](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cdb0a11a-6ae7-4ea6-80c2-b59c4bdacbde)
 
 # [‎tekkito2 rrtyui (?)](https://drive.google.com/file/d/1PZISSnmfw8nawJ91m40UTKKQpmCmXpIN/view?usp=sharing) (01/2023)
