@@ -269,6 +269,9 @@
 # [red_pixel](https://drive.google.com/file/d/13dilcfKyzhhElbk3XnAcdRclFx5EAnuN/view?usp=sharing)  (10/2022) and [‎#dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing) (10/2022) (just different hs)
 ![screenshot244](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9bed8c6f-4285-4f47-8b62-02cb81401067)
 
+# [arstk921](https://drive.google.com/file/d/1INpA9KzUGBxYqNlfXZ49LSdzuRTBqO8n/view?usp=sharing) (10/2022)
+![screenshot178](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ad88067f-81e4-476f-a2d0-d4aeee4817a9)
+
 # [aristekk](https://drive.google.com/file/d/1Bts7KEskvZGuO7CbKCadQu1wbvkgrN_c/view?usp=sharing)  (10/2022)
 ![screenshot177](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d3d7a592-85db-4179-bcc1-3c64e137d32f)
 
