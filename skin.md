@@ -149,7 +149,7 @@
 # [lugia dt](https://drive.google.com/file/d/1j1zpq9uU_SjPcjRbO_maoEcZdTCStYRq/view?usp=sharing) (12/2023)
 ![screenshot231](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/12da96a8-4d17-483f-a9cf-bb9dc7c3528b)
 
-# [malisz_azerino_editnov](https://drive.google.com/file/d/1Ux1HaAhXDaGF84B7M4jS0yaaml28psOc/view?usp=sharing) (11/2023)
+# [malisz_azerino_editnov](https://drive.google.com/file/d/1Ux1HaAhXDaGF84B7M4jS0yaaml28psOc/view?usp=sharing) (10/2023)
 ![screenshot146](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f97fc654-64a8-422f-9baa-2c06ceace626)
 
 # [maliszewski](https://drive.google.com/file/d/1MF0gQ2zhzZQVdOvaJfAR0L21g60MvFo9/view?usp=sharing) (03/2023)
