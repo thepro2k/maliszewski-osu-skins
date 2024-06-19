@@ -140,7 +140,7 @@
 # [ietherial nowy](https://drive.google.com/file/d/1WfNg4UIgYguDf_gdr4QqbyiGph0sp06s/view?usp=sharing) (05/2024)
 ![screenshot163](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ab15e5a5-55f9-4e9c-a44c-e2d01f5b7e0d)
 
-# [kurwa](https://drive.google.com/file/d/1zPqnI3j8UpuKGiXThp2f527bLKKtAmzI/view?usp=sharing) (07/2024)
+# [kurwa](https://drive.google.com/file/d/1zPqnI3j8UpuKGiXThp2f527bLKKtAmzI/view?usp=sharing) (07/2023)
 ![screenshot227](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a22fab45-8b81-45c7-9f04-65a5c1a255b8)
 
 # [kusju](https://drive.google.com/file/d/1SDTbZd6qRhm1jC-K8shjR3XBiOUqapgL/view?usp=sharing) (07/2023)
