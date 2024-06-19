@@ -11,17 +11,28 @@
 
 # - Not associated with Maliszewski - here is his official skinhub https://github.com/Emejzink/Malisz/blob/main/skins.md
 
-# [Aristia aknzx glizwhite blue (malisz edit) (?)](https://drive.google.com/file/d/1Ye6CgPZH3n-2gVXYlPceq9QPozGpjv3P/view?usp=sharing)  (6/2024)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# [rektygon poddymiony](https://drive.google.com/file/d/1Viw2nHQkvXZdHpeq_bR8oKy1X8kc4rPM/view?usp=sharing) (06/2024)
+![screenshot280](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/6c47c9e6-3027-4ec7-a5ca-3e61d0a5979e)
+
+# [aristia aknzx glizwhite blue (malisz edit) (?)](https://drive.google.com/file/d/1Ye6CgPZH3n-2gVXYlPceq9QPozGpjv3P/view?usp=sharing)  (6/2024)
 ![screenshot171](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f41563a0-275d-40dd-836f-7044291af5a4)
 
 # [aristia poddymiona)](https://drive.google.com/file/d/1caX7X-2HWiNkGTmweZsEmEEv89b_owpZ/view?usp=sharing) (06/2024)
 ![screenshot173](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/93bd4cf6-2eb7-4e53-885d-5e0c4964affa)
 
-# [‎tekkito2_rafis](https://drive.google.com/file/d/1J9QMfkLAaJK2aDMeUqwIdOve6rwulO_t/view?usp=sharing) (06/2024)
-![screenshot157](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/77f928c8-f0fe-4df6-b80c-881c0bed1394)
-
 # [aristia poddymiona(?)](https://drive.google.com/file/d/1Rzw7VSrSFI1s6wkEDtFlAyhuD7ndXpVa/view?usp=sharing) (06/2024)
 ![screenshot277](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b8a6d07b-f9c1-4230-b89e-356bd637f538)
+
+# [‎tekkito2_rafis](https://drive.google.com/file/d/1J9QMfkLAaJK2aDMeUqwIdOve6rwulO_t/view?usp=sharing) (06/2024)
+![screenshot157](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/77f928c8-f0fe-4df6-b80c-881c0bed1394)
 
 # [adrian nowak zalno](https://drive.google.com/file/d/113DWVrd6koka4j1Ld9uNvVnHDov0V-M5/view?usp=sharing) (06/2024)
 ![screenshot167](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8b82aefb-4ded-436e-bdff-e46c183c09ec)
