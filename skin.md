@@ -229,8 +229,8 @@
 # [‎zylice inne hitsoundy](https://drive.google.com/file/d/1EtsKHLHWfft6K5PgxjEsIbKbKXNUKjns/view?usp=sharing) (30/07/2023)
 ![screenshot271](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/1d9d942d-1771-4bc9-a53d-baf87098b620)
 
-# [‎what (?)](https://drive.google.com/file/d/1iCBBJ4PoS7azM3JyL45-OI69HthKSy9z/view?usp=sharing) (27/07/2023)
-![screenshot292](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c60dc1a5-d740-41d7-9513-ad25e824836c)
+# [‎what (?)](https://drive.google.com/file/d/1wlkaWnPP_4G2HE7PVdkbNo0gW4UOf4i-/view?usp=sharing) (27/07/2023)
+![screenshot295](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/1fef9ce6-b437-4081-8277-68542069527e)
 
 # [kurwa](https://drive.google.com/file/d/1zPqnI3j8UpuKGiXThp2f527bLKKtAmzI/view?usp=sharing) (15/07/2023)
 ![screenshot227](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a22fab45-8b81-45c7-9f04-65a5c1a255b8)
