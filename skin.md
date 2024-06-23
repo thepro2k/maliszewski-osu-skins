@@ -4,10 +4,12 @@
  # My profile: https://osu.ppy.sh/users/16323209
  ‎ 
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
-# - Almost all skins in this doc are remakes - mostly by me with some corrections from members of the community
-# - If you see (?) it means the real name of a skin in unknown or just reused the name of other edit
+# - Most skins this doc are remakes
+# - If you see (?) it means the real name of a skin in unknown or just reused the name of another edit
 # - Needless to say, I can't guarantee every remake is 100% accurate - but if you see any flaws I strongly encourage you to let me know
 # - If you have a skin thats not in this doc and want to contribute, DM me on discord: gtb_sg
+
+<br>
 
 # - Not associated with Maliszewski - here is his official skinhub https://github.com/Emejzink/Malisz/blob/main/skins.md
 
@@ -175,6 +177,9 @@
 # [afsd](https://drive.google.com/file/d/1li7pqk6R6TmyGK-7kL5cMVOJaAEpq1_P/view?usp=sharing) (27/11/2023)
 ![screenshot176](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f3bf5974-9bfa-4050-b4b3-fe03f98ea687)
 
+# [adam fcledi mq (?)](https://drive.google.com/file/d/1W6VQhLx4TGjOZQX7gwo7JaVEv93dFI55/view?usp=sharing) (27/11/2023)
+![screenshot300](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cdac47b9-a756-46d6-a807-657432a36dbd)
+
 # [essazerino grej 2 (?)](https://drive.google.com/file/d/17ogkx5AM1N85vqI1zwIsoIMOA5y85ICK/view?usp=sharing) (22/11/2023)
 ![screenshot217](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/7e980a17-d799-4947-9521-f0daa8c99d1a)
 
@@ -183,6 +188,9 @@
 
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing) (20/11/2023)
 ![screenshot261](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/341255ed-b50d-4941-b91c-38a9a4335b43)
+
+# [essaazerino aq (?)](https://drive.google.com/file/d/1rLF3nC9K2DdzP96yvu-SDYAlIJ83NwAW/view?usp=sharing) (19/11/2023)
+![screenshot304](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cb93f52b-3334-4e2e-8c51-09c22dc47c78)
 
 # [essazerino](https://drive.google.com/file/d/1lk2VDQ6D-TJjXcLeWjttRp-KGH36NOT2/view?usp=sharing) (12/11/2023)
 ![screenshot215](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/bb56a97b-68f2-42ae-b4eb-31f59db99882)
@@ -205,11 +213,11 @@
 # [azerino malisz edit (?)](https://drive.google.com/file/d/1L1oSDfuOmQyGjei1m88tZwEU2-ubViOc/view?usp=sharing) (18/10/2023)
 ![screenshot186](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e6f0bed2-513a-4951-8c0f-b76e89edbfe9)
 
-# [MonkoGlassTest malisz edit (?)](https://drive.google.com/file/d/1gZeePpLmbKJb4V5GtCSWQGeQG4Rfz3ax/view?usp=sharing) (18/10/2023)
-![screenshot241](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c861c6aa-2d59-4bd8-b016-960164860438)
-
- # [azerino2023 aristia-ish (?)](https://drive.google.com/file/d/1xyF6zwaungPnMljRIxRV5-UyLYEgAl0j/view?usp=sharing) (14/10/2023)
+# [azerino2023 aristia-ish (?)](https://drive.google.com/file/d/1xyF6zwaungPnMljRIxRV5-UyLYEgAl0j/view?usp=sharing) (14/10/2023)
 ![screenshot184](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/92f76c84-bba6-4acd-8fa9-94bee1cd3f12)
+
+# [MonkoGlassTest malisz edit (?)](https://drive.google.com/file/d/1gZeePpLmbKJb4V5GtCSWQGeQG4Rfz3ax/view?usp=sharing) (8/10/2023)
+![screenshot241](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c861c6aa-2d59-4bd8-b016-960164860438)
 
 # [‎‎azerino-whypan malisz edit (?)](https://drive.google.com/file/d/1YeQ02W7P9xQNYZbR6Y9gOAxhNXEbglZx/view?usp=sharing) (23/09/2023)
 ![screenshot192](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b9e727e3-4ed1-452a-aa0d-d61395bb27ae)
@@ -258,6 +266,9 @@
 
 # [azerino2023](https://drive.google.com/file/d/1AGpJchi-45tWSV17RkNsznGPlibSrpzh/view?usp=sharing) (30/05/2023)
  ![screenshot187](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c69a250d-188f-4304-b346-7ab606dc01e4)
+
+# [tekkito2 vskf](https://drive.google.com/file/d/1f7z1FPcUitEE5EqAk-QMUhNDqdEWu3lc/view?usp=sharing) (2/05/2023) 
+![screenshot296](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/49b1bc8f-9bc3-4952-bf78-0276e2ec54d8)
 
 # [MonkoGlass](https://drive.google.com/file/d/1IZBUOvNdU_nDegJYIRNBKKwbWZPYqLbP/view?usp=sharing) (22/4/2023)
 ![screenshot290](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f6c74df8-4d38-4ee8-9e7a-ef3627a9fbcc)
