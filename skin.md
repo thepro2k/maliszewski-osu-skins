@@ -1,4 +1,4 @@
-# Compilation of over 90 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of over 100 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
