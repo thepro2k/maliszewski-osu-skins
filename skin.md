@@ -21,11 +21,11 @@
 <br>
 <br>
 
-# [turboczibul](https://drive.google.com/file/d/1fypkM66BwFyFIlmDE7fy9HTOWXPogWSV/view?usp=sharing) (23/06/2024)
-![screenshot308](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9dde608d-4724-47a7-b8ec-6903a9cded53)
+# [turboczibul](https://drive.google.com/file/d/16hqbE47u3oN5XSEk5LOmSfkHYIKUYUfp/view?usp=sharing) (23/06/2024)
+![screenshot313](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/7dd0f4e2-c570-4ae2-9dd8-988d3839d663)
 
-# [rektygon poddymiony](https://drive.google.com/file/d/1Viw2nHQkvXZdHpeq_bR8oKy1X8kc4rPM/view?usp=sharing) (20/06/2024)
-![screenshot280](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/6c47c9e6-3027-4ec7-a5ca-3e61d0a5979e)
+# [rektygon poddymiony](https://drive.google.com/file/d/1gOCHXAEMG3UrUOSZZYt369CM-uGReY_V/view?usp=sharing) (20/06/2024)
+![screenshot319](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/78a4fe32-f968-4427-8de4-62b56b426121)
 
 # [aristia poddymiona (?)](https://drive.google.com/file/d/1Rzw7VSrSFI1s6wkEDtFlAyhuD7ndXpVa/view?usp=sharing) (06/06/2024) 
 ![screenshot277](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b8a6d07b-f9c1-4230-b89e-356bd637f538)
