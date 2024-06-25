@@ -21,7 +21,7 @@
 <br>
 <br>
 
-# [if you can't hang (?)](https://drive.google.com/file/d/1fypkM66BwFyFIlmDE7fy9HTOWXPogWSV/view?usp=sharing) (23/06/2024)
+# [turboczibul](https://drive.google.com/file/d/1fypkM66BwFyFIlmDE7fy9HTOWXPogWSV/view?usp=sharing) (23/06/2024)
 ![screenshot308](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9dde608d-4724-47a7-b8ec-6903a9cded53)
 
 # [rektygon poddymiony](https://drive.google.com/file/d/1Viw2nHQkvXZdHpeq_bR8oKy1X8kc4rPM/view?usp=sharing) (20/06/2024)
