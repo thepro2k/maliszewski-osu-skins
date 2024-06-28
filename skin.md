@@ -6,9 +6,11 @@
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
 # - Most skins this doc are remakes
 # - If you see (?) it means the real name of a skin in unknown or just reused the name of another edit
-# - Needless to say, I can't guarantee every remake is 100% accurate - but if you see any flaws I strongly encourage you to let me know
+# - Needless to say, I can't guarantee every remake is 100% accurate
+# - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
 # - If you have a skin thats not in this doc and want to contribute, DM me on discord: gtb_sg
 
+<br>
 <br>
 
 # - Not associated with Maliszewski - here is his official skinhub https://github.com/Emejzink/Malisz/blob/main/skins.md
@@ -20,6 +22,9 @@
 <br>
 <br>
 <br>
+
+# [riot - overkill hr fc 99.77 (?)](https://drive.google.com/file/d/1gYpcfZ3jGoyM_UpleP07faRx2pDzZpo9/view?usp=sharing) (28/06/2024)
+![screenshot323](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/5433cb9a-a3c2-4af3-a8d6-4fed9baa1952)
 
 # [turboczibul](https://drive.google.com/file/d/16hqbE47u3oN5XSEk5LOmSfkHYIKUYUfp/view?usp=sharing) (23/06/2024)
 ![screenshot313](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/7dd0f4e2-c570-4ae2-9dd8-988d3839d663)
