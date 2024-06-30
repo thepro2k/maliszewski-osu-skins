@@ -77,7 +77,7 @@
 # [azerino stare](https://drive.google.com/file/d/1Af_2_QDmK0rkmxgTXDwA78FZrt5VZsTm/view?usp=sharing) (04/05/2024)
 ![screenshot132](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/92427ff2-e780-488c-b33f-bfc00229766e)
 
-# [MISKAMODELKA2(?) ](https://drive.google.com/file/d/1iyTX2H2udNuUklVqKzHItWeT1OSNmUw6/view?usp=sharing) (3/05/2024)
+# [MISKAMODELKA 2 (?) ](https://drive.google.com/file/d/1iyTX2H2udNuUklVqKzHItWeT1OSNmUw6/view?usp=sharing) (3/05/2024)
 ![screenshot325](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8913b2c0-6cf8-4705-b124-827ae466ba4d)
 
 # [fukari alt edit](https://drive.google.com/file/d/1v6lLh7UwU_Tw0IgJXNtWdkJlaTV83DQN/view?usp=sharing) (2/05/2024)
