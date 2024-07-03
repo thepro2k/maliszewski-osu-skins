@@ -23,6 +23,9 @@
 <br>
 <br>
 
+# [bdt-sb](https://www.mediafire.com/file/cl0x5hz3ggsxpho/bdt-sb.osk/file) (03/07/2024)
+![screenshot327](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/fb04b2f3-8c26-4630-9e54-1840bd4df211)
+
 # [riot - overkill hr fc 99.77 (?)](https://drive.google.com/file/d/1gYpcfZ3jGoyM_UpleP07faRx2pDzZpo9/view?usp=sharing) (28/06/2024)
 ![screenshot323](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/5433cb9a-a3c2-4af3-a8d6-4fed9baa1952)
 
