@@ -23,6 +23,9 @@
 <br>
 <br>
 
+# [[L] Rafis - DT_OWC [RK]](https://mega.nz/folder/vQM3TRpK#jjUTFAlfvE0NLq97pzT7_g/file/CMt3hLDR) (05/07/2024)
+![screenshot328](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/298e4743-fccc-4b56-9f97-442aa7e2c906)
+
 # [bdt-sb](https://www.mediafire.com/file/cl0x5hz3ggsxpho/bdt-sb.osk/file) (03/07/2024)
 ![screenshot327](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/fb04b2f3-8c26-4630-9e54-1840bd4df211)
 
