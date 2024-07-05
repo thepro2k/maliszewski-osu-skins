@@ -23,6 +23,9 @@
 <br>
 <br>
 
+# [Pge39B malisz edit (?)](https://drive.google.com/file/d/1H6BzFMHJRBdw1vS8CFDQ3k_oYHaUN-7l/view?usp=sharing) (05/07/2024)
+![screenshot331](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4a98220e-9250-46df-8693-f7ec006cb7c4)
+
 # [[L] Rafis - DT_OWC [RK]](https://mega.nz/folder/vQM3TRpK#jjUTFAlfvE0NLq97pzT7_g/file/CMt3hLDR) (05/07/2024)
 ![screenshot328](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/298e4743-fccc-4b56-9f97-442aa7e2c906)
 
