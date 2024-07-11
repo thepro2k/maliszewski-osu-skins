@@ -24,8 +24,11 @@
 <br>
 
 
-# [GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024)
+# [GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024) - malisz used this skin with beatmap combo colors
 ![screenshot333](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/08e75fad-ac16-4257-b895-3e23170f2f91)
+
+# [emo](https://drive.google.com/file/d/1mcmBAUwNWhTrpd9sxTeAWv3_AcD8HB_c/view?usp=sharing)  (10/7/2024) - malisz used this skin with beatmap combo colors
+![screenshot334](https://github.com/user-attachments/assets/15dc37f8-3534-4580-9177-88c69c87fe30)
 
 # [Prawilosc vJP edit](https://drive.google.com/file/d/1g_yAoAJK9iHvb1_nbNshYk9Lp9xkqUl4/view?usp=sharing) and [unedited](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view) -diff rev arrow and cursor (5/7/2024)
 ![screenshot332](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/40b86763-f222-4ab0-ae7a-fa916e240620)
