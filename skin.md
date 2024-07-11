@@ -24,7 +24,7 @@
 <br>
 
 
-# [GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024) - malisz used this skin with beatmap combo colors
+# [+GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024) - malisz used this skin with beatmap combo colors
 ![screenshot333](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/08e75fad-ac16-4257-b895-3e23170f2f91)
 
 # [emo](https://drive.google.com/file/d/1mcmBAUwNWhTrpd9sxTeAWv3_AcD8HB_c/view?usp=sharing)  (10/7/2024) - malisz used this skin with beatmap combo colors
