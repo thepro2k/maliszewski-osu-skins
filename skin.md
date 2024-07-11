@@ -24,7 +24,7 @@
 <br>
 
 
-# [GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (5/7/2024)
+# [GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024)
 ![screenshot333](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/08e75fad-ac16-4257-b895-3e23170f2f91)
 
 # [Prawilosc vJP edit](https://drive.google.com/file/d/1g_yAoAJK9iHvb1_nbNshYk9Lp9xkqUl4/view?usp=sharing) and [unedited](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view) -diff rev arrow and cursor (5/7/2024)
