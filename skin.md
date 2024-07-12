@@ -77,8 +77,8 @@
 # [all my turn fc (?)](https://drive.google.com/file/d/10v7G1_tI_fbKnmzW2RyUmHBinhXmyOrC/view?usp=sharing) (30/05/2024)
 ![screenshot208](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/80a73081-76c7-4c4a-a770-a75118288694)
 
-# [ietherial nowy](https://drive.google.com/file/d/1WfNg4UIgYguDf_gdr4QqbyiGph0sp06s/view?usp=sharing) (27/05/2024)
-![screenshot163](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ab15e5a5-55f9-4e9c-a44c-e2d01f5b7e0d)
+# [ietherial nowy](https://drive.google.com/file/d/10pTD-M9cn0HiAfWjtDL1TjEy5U7yqWYy/view?usp=sharing) (27/05/2024)
+![screenshot335](https://github.com/user-attachments/assets/208f5938-460c-4984-84ad-5d644358a47f)
 
 # [‎a (splity edit) malisz edit (?)](https://drive.google.com/file/d/1Y2ccbeUOPPAZhGAQZ61eEshjOvKmENkb/view?usp=sharing) (26/05/2024)
 ![screenshot168](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d44dc47f-60c4-427f-bbcb-64bf1ff60633)
