@@ -9,6 +9,7 @@
 # - Needless to say, I can't guarantee every remake is 100% accurate
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
 # - If you have a skin thats not in this doc and want to contribute, DM me on discord: gtb_sg
+# - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
 
 <br>
 <br>
@@ -33,13 +34,13 @@
 
 
 
-# [gn](https://drive.google.com/file/d/1-8JKK6GQ8oTWViGQyftASDyJ9DbKcYOz/view?usp=sharing) (23/7/2024) - diff ui and hitsounds
+# [gn](https://drive.google.com/file/d/108qa1-Ec5IqxS4DiLO8KgtgZV9KgiDOJ/view?usp=sharing) (23/7/2024) - diff ui and hitsounds vs the skin used on 10/7/24
 ![screenshot339](https://github.com/user-attachments/assets/60323a27-2f65-4cfb-aeba-365399defb90)
 
-# [aristia](https://drive.google.com/file/d/1Yt_Xbsa-yWqJWAKvsCDCpQCaYXl1YL9Y/view?usp=sharing) (23/7/2024) - diff ui and rev. arrow
+# [aristia](https://drive.google.com/file/d/1H_r03ilNU5yl7jVux6XZ-r9q7ln56ALm/view?usp=sharing) (23/7/2024) - diff ui and rev. arrow vs the skin used on 6/6/24
 ![screenshot341](https://github.com/user-attachments/assets/eded4d6f-ed7c-4ed0-bddb-92d4f85278b7)
 
-# [rafis](https://drive.google.com/file/d/1XYLy_WyJ1v-J3iU9J_oulcTTfpz6M4j9/view?usp=sharing) (23/7/2024) - diff ui
+# [rafis](https://drive.google.com/file/d/1c8cDNX5CdSliVOdVQdEzQ7QgrF9YmD-d/view?usp=sharing) (23/7/2024)
 ![screenshot336](https://github.com/user-attachments/assets/2c0c045e-0abb-4d18-8a95-502e7b847c85)
 
 # [+GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024) - malisz used this skin with beatmap combo colors
