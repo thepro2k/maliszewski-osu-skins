@@ -1,4 +1,4 @@
-# Compilation of over 100 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 114 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -33,7 +33,6 @@
 
 
 
-
 # [gn](https://drive.google.com/file/d/1-8JKK6GQ8oTWViGQyftASDyJ9DbKcYOz/view?usp=sharing) (23/7/2024) - diff ui and hitsounds
 ![screenshot339](https://github.com/user-attachments/assets/60323a27-2f65-4cfb-aeba-365399defb90)
 
@@ -49,7 +48,7 @@
 # [emo](https://drive.google.com/file/d/1mcmBAUwNWhTrpd9sxTeAWv3_AcD8HB_c/view?usp=sharing)  (10/7/2024) - malisz used this skin with beatmap combo colors
 ![screenshot334](https://github.com/user-attachments/assets/15dc37f8-3534-4580-9177-88c69c87fe30)
 
-# [Prawilosc vJP edit](https://drive.google.com/file/d/1g_yAoAJK9iHvb1_nbNshYk9Lp9xkqUl4/view?usp=sharing) and [unedited](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view) -diff rev arrow and cursor (5/7/2024)
+# [Prawilosc vJP edit](https://drive.google.com/file/d/1g_yAoAJK9iHvb1_nbNshYk9Lp9xkqUl4/view?usp=sharing) and [unedited](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view) (5/7/2024) -diff rev arrow and cursor
 ![screenshot332](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/40b86763-f222-4ab0-ae7a-fa916e240620)
 
 # [[L] Rafis - DT_OWC [RK]](https://mega.nz/folder/vQM3TRpK#jjUTFAlfvE0NLq97pzT7_g/file/CMt3hLDR) (05/07/2024)
