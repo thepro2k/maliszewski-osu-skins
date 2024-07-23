@@ -32,6 +32,17 @@
 <br>
 
 
+
+
+# [gn](https://drive.google.com/file/d/1-8JKK6GQ8oTWViGQyftASDyJ9DbKcYOz/view?usp=sharing) (23/7/2024) - diff ui and hitsounds
+![screenshot339](https://github.com/user-attachments/assets/60323a27-2f65-4cfb-aeba-365399defb90)
+
+# [aristia](https://drive.google.com/file/d/1Yt_Xbsa-yWqJWAKvsCDCpQCaYXl1YL9Y/view?usp=sharing) (23/7/2024) - diff ui and rev. arrow
+![screenshot341](https://github.com/user-attachments/assets/eded4d6f-ed7c-4ed0-bddb-92d4f85278b7)
+
+# [rafis](https://drive.google.com/file/d/1XYLy_WyJ1v-J3iU9J_oulcTTfpz6M4j9/view?usp=sharing) (23/7/2024) - diff ui
+![screenshot336](https://github.com/user-attachments/assets/2c0c045e-0abb-4d18-8a95-502e7b847c85)
+
 # [+GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024) - malisz used this skin with beatmap combo colors
 ![screenshot333](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/08e75fad-ac16-4257-b895-3e23170f2f91)
 
