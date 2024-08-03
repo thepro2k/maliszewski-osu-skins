@@ -8,7 +8,9 @@
 # - If you see (?) it means the real name of a skin in unknown or just reused the name of another edit
 # - Needless to say, I can't guarantee every remake is 100% accurate
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
-# - If you have a skin thats not in this doc and want to contribute, DM me on discord: gtb_sg
+
+<br>
+
 # - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
 
 <br>
@@ -337,7 +339,10 @@
 # [Rafis but zylice](https://drive.google.com/file/d/1QHNCSrh2wbU1hc1MHUEEauadQjOrbHKE/view?usp=sharing) (03/2023)
 ![screenshot243](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/95fdcd1f-ee0b-4835-a2c8-bba089f385a1)
 
-# [wfsfs (?)](https://drive.google.com/file/d/1PKeIxTNBgdILbyr5EXZjI9V5j2ojFSCo/view?usp=sharing) (20/02/2023)
+# [tekkito2e-exar (?)](https://drive.google.com/file/d/15Po-_QSD8h-dl1dIjVYC7in8qNwy9DBm/view?usp=drive_link) (25/02/2024)
+![screenshot348](https://github.com/user-attachments/assets/26df9287-41ef-4520-8824-34758c3949db)
+
+#[wfsfs (?)](https://drive.google.com/file/d/1PKeIxTNBgdILbyr5EXZjI9V5j2ojFSCo/view?usp=sharing) (20/02/2023)
 ![screenshot293](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8462a1bd-8d8c-4c80-bd40-7ba7bafd9db4)
 
 # [tekkito2default](https://drive.google.com/file/d/12wxMFXWSFuStqFHr6GfiEAS2s1oBzoff/view?usp=sharing) (29/01/2023)
