@@ -342,7 +342,7 @@
 # [tekkito2e-exar (?)](https://drive.google.com/file/d/15Po-_QSD8h-dl1dIjVYC7in8qNwy9DBm/view?usp=drive_link) (25/02/2024)
 ![screenshot348](https://github.com/user-attachments/assets/26df9287-41ef-4520-8824-34758c3949db)
 
-#[wfsfs (?)](https://drive.google.com/file/d/1PKeIxTNBgdILbyr5EXZjI9V5j2ojFSCo/view?usp=sharing) (20/02/2023)
+# [wfsfs (?)](https://drive.google.com/file/d/1PKeIxTNBgdILbyr5EXZjI9V5j2ojFSCo/view?usp=sharing) (20/02/2023)
 ![screenshot293](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8462a1bd-8d8c-4c80-bd40-7ba7bafd9db4)
 
 # [tekkito2default](https://drive.google.com/file/d/12wxMFXWSFuStqFHr6GfiEAS2s1oBzoff/view?usp=sharing) (29/01/2023)
