@@ -339,7 +339,7 @@
 # [Rafis but zylice](https://drive.google.com/file/d/1QHNCSrh2wbU1hc1MHUEEauadQjOrbHKE/view?usp=sharing) (03/2023)
 ![screenshot243](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/95fdcd1f-ee0b-4835-a2c8-bba089f385a1)
 
-# [tekkito2e-exar (?)](https://drive.google.com/file/d/15Po-_QSD8h-dl1dIjVYC7in8qNwy9DBm/view?usp=drive_link) (25/02/2024)
+# [tekkito2e-exar (?)](https://drive.google.com/file/d/15Po-_QSD8h-dl1dIjVYC7in8qNwy9DBm/view?usp=drive_link) (25/02/2023)
 ![screenshot348](https://github.com/user-attachments/assets/26df9287-41ef-4520-8824-34758c3949db)
 
 # [wfsfs (?)](https://drive.google.com/file/d/1PKeIxTNBgdILbyr5EXZjI9V5j2ojFSCo/view?usp=sharing) (20/02/2023)
