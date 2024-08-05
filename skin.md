@@ -1,4 +1,4 @@
-# Compilation of 116 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 117 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -107,6 +107,9 @@
 
 # [misia](https://drive.google.com/file/d/1RYm2yTeZBGkyp-ne83JfQwUCBBXNuhVz/view?usp=sharing) (10/05/2024)
 ![screenshot140](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/362fc118-3393-412f-a1de-215a406631d7)
+
+# [+GN](https://drive.google.com/file/d/1acEPTXfe_Mg5xn76aCg3aByJym2C-MiC/view?usp=sharing) (05/05/2024)
+![screenshot360](https://github.com/user-attachments/assets/1dbd2eb0-ee75-4457-a5bb-cab30bdb07f2)
 
 # [azerino stare + iethereal (?)](https://drive.google.com/file/d/1fa5fW3H5u78lNRvHiry8sbfqcyQhB1VK/view?usp=sharing) (04/05/2024)
 ![screenshot135](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/007151ab-4392-4caa-8d2d-3f87dce84baa)
