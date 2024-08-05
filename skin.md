@@ -123,8 +123,8 @@
 # [a_splity_edit](https://drive.google.com/file/d/18it3p-u29t_Bk45ED60NLreK_3inYlvn/view?usp=drive_link) (2/05/2024)
 ![screenshot357](https://github.com/user-attachments/assets/f10a73f2-f2a1-4324-a62c-3369901d0233)
 
-# [MISKAMODELKA](https://drive.google.com/file/d/1bWU0HKjkSmpryUYV_ZE5NFo89bUKq6iy/view?usp=sharing) (02/05/2024)
-![screenshot131](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3f02f32c-cabc-4ce1-a544-3390fbbadeb8)
+# [MISKAMODELKA](https://drive.google.com/file/d/19rAWAXO8jfukVpfSWhu6CmpnC-u228G0/view?usp=sharing) (02/05/2024)
+![screenshot358](https://github.com/user-attachments/assets/9f8864cf-7fb0-4a89-86cc-314b8c5de405)
 
 # [tkori_r2 (?)](https://drive.google.com/file/d/1uyGKxgZMZedUimyi6Mgxr1t6rJO_DJrU/view?usp=sharing) (01/05/2024)
 ![screenshot260](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ae3f03b0-0d95-4f3a-a69f-f0d5677f81b3)
