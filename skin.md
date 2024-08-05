@@ -1,4 +1,4 @@
-# Compilation of 114 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 115 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -36,7 +36,7 @@
 
 
 
-# [gn](https://drive.google.com/file/d/108qa1-Ec5IqxS4DiLO8KgtgZV9KgiDOJ/view?usp=sharing) (23/7/2024) - diff ui and hitsounds vs the skin used on 10/7/24
+# [gn](https://drive.google.com/file/d/1waK84k02GHrIJIjPSUyr62HyRk2VHn7x/view?usp=sharing) (23/7/2024) - diff ui and hitsounds vs the skin used on 10/7/24
 ![screenshot339](https://github.com/user-attachments/assets/60323a27-2f65-4cfb-aeba-365399defb90)
 
 # [aristia](https://drive.google.com/file/d/1H_r03ilNU5yl7jVux6XZ-r9q7ln56ALm/view?usp=sharing) (23/7/2024) - diff ui and rev. arrow vs the skin used on 6/6/24
