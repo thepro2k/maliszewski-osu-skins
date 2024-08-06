@@ -1,4 +1,4 @@
-# Compilation of 117 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 118 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -8,7 +8,7 @@
 # - If you see (?) it means the real name of a skin in unknown or just reused the name of another edit
 # - Needless to say, I can't guarantee every remake is 100% accurate
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
-
+# - For questions/suggestions/anything else DM me in discord or in game
 <br>
 
 # - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
