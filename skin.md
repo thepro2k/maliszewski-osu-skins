@@ -34,8 +34,8 @@
 <br>
 <br>
 
-# [whotttt (?)](https://drive.google.com/file/d/1gSMyARCp61_l2NMybWg5g9xmS_dENptU/view?usp=sharing) (06/08/2024)
-![screenshot361](https://github.com/user-attachments/assets/ea6db914-bd68-4d26-9032-7d939fdc37e1)
+# [whotttt (?)](https://drive.google.com/file/d/1B2qFHbx2CDdlGIHTBVAfWE8aliJ-SZ_-/view?usp=sharing) (06/08/2024)
+![screenshot363](https://github.com/user-attachments/assets/c0495cde-e49c-458e-a17f-58b174e9a487)
 
 # [gn](https://drive.google.com/file/d/1waK84k02GHrIJIjPSUyr62HyRk2VHn7x/view?usp=sharing) (23/7/2024) - diff ui and hitsounds vs the skin used on 10/7/24
 ![screenshot339](https://github.com/user-attachments/assets/60323a27-2f65-4cfb-aeba-365399defb90)
