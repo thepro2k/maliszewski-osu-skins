@@ -147,7 +147,7 @@
 # [cheebull](https://drive.google.com/file/d/118-3lY5UhsAj9BSqdPFt84qCiVT2Hz1Y/view?usp=sharing) (28/04/2024)
 ![screenshot209](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/89bd51de-4ce1-4406-bf28-0aba8ba70a04)
 
-# [f8 edit](https://drive.google.com/file/d/14uSm18zRC7JwkBEpMJeDlZzncLT3jPMe/view?usp=sharing) (25/04/2024)
+# [f8t edit](https://drive.google.com/file/d/14uSm18zRC7JwkBEpMJeDlZzncLT3jPMe/view?usp=sharing) (25/04/2024)
 ![screenshot222](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b790a99f-c56c-4858-b6f9-407a56aea58a)
 
 # [‎shii_ekoro](https://drive.google.com/file/d/1vPtsIF8UtGkBq-zLwlJBmeKcxfJXLTvi/view?usp=sharing) (25/04/2024)
