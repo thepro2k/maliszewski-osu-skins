@@ -1,4 +1,4 @@
-# Compilation of 118 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 119 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -9,8 +9,6 @@
 # - Needless to say, I can't guarantee every remake is 100% accurate
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
 # - For questions/suggestions/anything else DM me in discord or in game
-<br>
-
 # - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
 
 <br>
@@ -20,6 +18,8 @@
 
 <br>
 <br>
+<br>
+<br>
 <details>
   <summary></summary>
  
@@ -27,12 +27,8 @@
 
 </details>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+# [boop](https://drive.google.com/file/d/1aj7Oog7TXT1w0XnMZGhiXEoQaKXn9riV/view?usp=sharing) (08/08/2024)
+![screenshot365](https://github.com/user-attachments/assets/17b85460-e2d5-4982-8710-70f89ec85b4d)
 
 # [whotttt (?)](https://drive.google.com/file/d/1B2qFHbx2CDdlGIHTBVAfWE8aliJ-SZ_-/view?usp=sharing) (06/08/2024)
 ![screenshot363](https://github.com/user-attachments/assets/c0495cde-e49c-458e-a17f-58b174e9a487)
