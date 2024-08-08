@@ -28,7 +28,7 @@
 </details>
 
 # [boop](https://drive.google.com/file/d/1aj7Oog7TXT1w0XnMZGhiXEoQaKXn9riV/view?usp=sharing) (08/08/2024)
-![screenshot365](https://github.com/user-attachments/assets/17b85460-e2d5-4982-8710-70f89ec85b4d)
+![screenshot366](https://github.com/user-attachments/assets/98756618-2ec0-47ad-8112-70cc23c80586)
 
 # [whotttt (?)](https://drive.google.com/file/d/1B2qFHbx2CDdlGIHTBVAfWE8aliJ-SZ_-/view?usp=sharing) (06/08/2024)
 ![screenshot363](https://github.com/user-attachments/assets/c0495cde-e49c-458e-a17f-58b174e9a487)
