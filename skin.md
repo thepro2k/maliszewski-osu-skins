@@ -30,8 +30,8 @@
 # [boop inne hitsoundy](https://drive.google.com/file/d/11NgTv4rVgZqOORnEM4Dimb3ybMYoHtVu/view?usp=sharing) (10/08/2024) - diff cursor and hitsounds 
 ![screenshot375](https://github.com/user-attachments/assets/ef519b56-b52a-48ea-8510-63d5f10bb815)
 
-# [tekkito_ietherial (?)](https://drive.google.com/file/d/1UOx-FXxo49mLsExQCmWVO05H0wd2I9mi/view?usp=sharing) (10/08/2024)  - diff combocolors
-![screenshot373](https://github.com/user-attachments/assets/61b110dc-563f-411f-a794-aad70ed2b175)
+# [‎tekkitoietherialnowy](https://drive.google.com/file/d/1Dwu3Gnv-nnpGrMqywdQ2-PCGexj0VEQG/view?usp=sharing) (10/08/2024)
+![screenshot377](https://github.com/user-attachments/assets/ae96383d-cb23-4ade-8cfc-231c63bb8596)
 
 # [boop](https://drive.google.com/file/d/1lb7X2ifxQ902HcFWa5KG5-zmADHuIIYV/view?usp=sharing) (08/08/2024)
 ![screenshot369](https://github.com/user-attachments/assets/3592abc4-2141-4b56-86f7-752fa5947500)
