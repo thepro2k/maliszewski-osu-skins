@@ -1,4 +1,4 @@
-# Compilation of 123 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 124 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -26,6 +26,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [tekkito_ietherial - kopia](https://drive.google.com/file/d/14ECXEjAaZa3YK8JOMPZ3ZQEku6XDbPkR/view?usp=sharing) (11/08/2024) 
+![screenshot379](https://github.com/user-attachments/assets/c72859f4-fdc4-4e47-a450-e0a63f9c4619)
 
 # [boop inne hitsoundy](https://drive.google.com/file/d/11NgTv4rVgZqOORnEM4Dimb3ybMYoHtVu/view?usp=sharing) (10/08/2024) - diff cursor and hitsounds 
 ![screenshot375](https://github.com/user-attachments/assets/ef519b56-b52a-48ea-8510-63d5f10bb815)
