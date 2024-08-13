@@ -27,8 +27,8 @@
 
 </details>
 
-# [tekkito_ietherial - kopia](https://drive.google.com/file/d/14ECXEjAaZa3YK8JOMPZ3ZQEku6XDbPkR/view?usp=sharing) (11/08/2024) 
-![screenshot379](https://github.com/user-attachments/assets/c72859f4-fdc4-4e47-a450-e0a63f9c4619)
+# [tekkito_ietherial - kopia](https://drive.google.com/file/d/1LnMkar15_Qf3jB5l-F4DJ2RCjg_52QQZ/view?usp=sharing) (11/08/2024) 
+![screenshot381](https://github.com/user-attachments/assets/36d39e11-0972-4a17-aef8-21712f4fcf0f)
 
 # [boop inne hitsoundy](https://drive.google.com/file/d/11NgTv4rVgZqOORnEM4Dimb3ybMYoHtVu/view?usp=sharing) (10/08/2024) - diff cursor and hitsounds 
 ![screenshot375](https://github.com/user-attachments/assets/ef519b56-b52a-48ea-8510-63d5f10bb815)
