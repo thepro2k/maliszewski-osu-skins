@@ -27,6 +27,12 @@
 
 </details>
 
+# [rektygon_editnov](https://drive.google.com/file/d/1f-PjnpjZb7ZaH7t1xh4uwrI4qF2xZoN3/view?usp=sharing) (17/08/2024) 
+![screenshot384](https://github.com/user-attachments/assets/2a7dfd6c-a862-4969-9d31-6d8380a17165)
+
+# [tekkito_ietherial (?)](https://drive.google.com/file/d/1xhxKfXCjNTqp8_l-JkaozKkuDF8JEbqS/view?usp=sharing) (17/08/2024) 
+![screenshot382](https://github.com/user-attachments/assets/69318627-c742-4ad2-a0ff-afd4e0e90417)
+
 # [tekkito_ietherial - kopia](https://drive.google.com/file/d/1LnMkar15_Qf3jB5l-F4DJ2RCjg_52QQZ/view?usp=sharing) (11/08/2024) 
 ![screenshot381](https://github.com/user-attachments/assets/36d39e11-0972-4a17-aef8-21712f4fcf0f)
 
