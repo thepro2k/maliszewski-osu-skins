@@ -30,7 +30,7 @@
 # [rafis](https://drive.google.com/file/d/1U_7RANyCxqahrxEf3alTiWomuyosS536/view?usp=sharing) (24/08/2024)
 ![screenshot390](https://github.com/user-attachments/assets/28ae6b9f-b212-4972-8319-87c068ec0cb9)
 
-# [-  azerino](https://drive.google.com/file/d/1vXNWYW24noN4Q6xM0vURIexT4ESdvxmi/view?usp=sharing) (24/08/2024)
+# [-  azerino](https://drive.google.com/file/d/1UgO8k0D2srTDyfhhTYGQ1DCmUKBQilm6/view?usp=sharing) (24/08/2024)
 ![screenshot392](https://github.com/user-attachments/assets/e9163707-6280-4a00-8062-57e24ba5f3ff)
 
 # [zibi instafade](https://drive.google.com/file/d/1a9DuwsijwkC5yL7gaYfQXbp7HODZ6BNy/view?usp=sharing) (21/08/2024)
