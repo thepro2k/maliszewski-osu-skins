@@ -1,4 +1,4 @@
-# Compilation of 126 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 128 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -26,6 +26,12 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [zibi instafade](https://drive.google.com/file/d/1a9DuwsijwkC5yL7gaYfQXbp7HODZ6BNy/view?usp=sharing) (21/08/2024)
+![screenshot387](https://github.com/user-attachments/assets/c53094b3-7232-4120-8aa7-572da26312c0) 
+
+# [rektygon edit inne hitsoundy](https://drive.google.com/file/d/1Ro0oODC9li-g4GHOYCp4pzJVk4_8J_JX/view?usp=sharing) (21/8/2024) dif hsounds and followcircle
+![screenshot388](https://github.com/user-attachments/assets/1016b127-6b85-4817-9259-d159932d4285)
 
 # [rektygon_editnov](https://drive.google.com/file/d/1f-PjnpjZb7ZaH7t1xh4uwrI4qF2xZoN3/view?usp=sharing) (17/08/2024) 
 ![screenshot384](https://github.com/user-attachments/assets/2a7dfd6c-a862-4969-9d31-6d8380a17165)
