@@ -1,4 +1,4 @@
-# Compilation of 128 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 130 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -26,6 +26,12 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [rafis](https://drive.google.com/file/d/1U_7RANyCxqahrxEf3alTiWomuyosS536/view?usp=sharing) (24/08/2024)
+![screenshot390](https://github.com/user-attachments/assets/28ae6b9f-b212-4972-8319-87c068ec0cb9)
+
+# [-  azerino](https://drive.google.com/file/d/1U_7RANyCxqahrxEf3alTiWomuyosS536/view?usp=sharing) (24/08/2024)
+![screenshot391](https://github.com/user-attachments/assets/32805032-74f8-45ce-b866-c0927d851b88)
 
 # [zibi instafade](https://drive.google.com/file/d/1a9DuwsijwkC5yL7gaYfQXbp7HODZ6BNy/view?usp=sharing) (21/08/2024)
 ![screenshot387](https://github.com/user-attachments/assets/c53094b3-7232-4120-8aa7-572da26312c0) 
