@@ -27,14 +27,14 @@
 
 </details>
 
-# [azerino nowszy edit](https://drive.google.com/file/d/1vgLez_OLdBcjMzj-mlF2AS9CZ_vtRNvG/view?usp=sharing) (24/08/2024)
-![screenshot393](https://github.com/user-attachments/assets/6861131b-8b68-492a-9920-ecde59d9581a)
+# [azerino nowszy edit](https://drive.google.com/file/d/1CdwFoluCBpM1zeNLoIoKqVnPKkzlTMOv/view?usp=sharing) (25/08/2024)
+![screenshot395](https://github.com/user-attachments/assets/19d3ca28-164b-44d6-86a3-a359d3f588f7)
 
 # [rafis](https://drive.google.com/file/d/1U_7RANyCxqahrxEf3alTiWomuyosS536/view?usp=sharing) (24/08/2024)
 ![screenshot390](https://github.com/user-attachments/assets/28ae6b9f-b212-4972-8319-87c068ec0cb9)
 
-# [-  azerino](https://drive.google.com/file/d/1UgO8k0D2srTDyfhhTYGQ1DCmUKBQilm6/view?usp=sharing) (24/08/2024)
-![screenshot392](https://github.com/user-attachments/assets/e9163707-6280-4a00-8062-57e24ba5f3ff)
+# [-  azerino](https://drive.google.com/file/d/1puEAG1xRwHKN71CUaIj2gQmewICZ4ZRm/view?usp=sharing) (24/08/2024)
+![screenshot394](https://github.com/user-attachments/assets/34ee3c48-7c98-4f4b-9cf2-e1ae1e83cb83)
 
 # [zibi instafade](https://drive.google.com/file/d/1a9DuwsijwkC5yL7gaYfQXbp7HODZ6BNy/view?usp=sharing) (21/08/2024)
 ![screenshot387](https://github.com/user-attachments/assets/c53094b3-7232-4120-8aa7-572da26312c0) 
