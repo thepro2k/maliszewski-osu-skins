@@ -129,7 +129,7 @@
 # [ietherial nowy](https://drive.google.com/file/d/10pTD-M9cn0HiAfWjtDL1TjEy5U7yqWYy/view?usp=sharing) (27/05/2024)
 ![screenshot335](https://github.com/user-attachments/assets/208f5938-460c-4984-84ad-5d644358a47f)
 
-# [‎a (splity edit) malisz edit (?)](https://drive.google.com/file/d/1Y2ccbeUOPPAZhGAQZ61eEshjOvKmENkb/view?usp=sharing) (26/05/2024)
+# [‎a (splity edit) malisz edit (?)](https://drive.google.com/file/d/1e5vTf923Tw5BYF6ZMdel6A9fhOQJ_IiA/view?usp=sharing) (26/05/2024)
 ![screenshot168](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d44dc47f-60c4-427f-bbcb-64bf1ff60633)
 
 # [wooz](https://drive.google.com/file/d/1Hzzey7ZOlvU7S2fncGfrz5KA8KuSS5D-/view?usp=sharing) (22/05/2024)
