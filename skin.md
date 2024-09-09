@@ -14,8 +14,18 @@
 <br>
 <br>
 
-# - Not associated with Maliszewski - here is his official skinhub https://github.com/Emejzink/Malisz/blob/main/skins.md
+<p align="center">
 
+<strong> 
+ 
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB https://github.com/Emejzink/Malisz/blob/main/skins.md
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB https://github.com/Emejzink/Malisz/blob/main/skins.md
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB https://github.com/Emejzink/Malisz/blob/main/skins.md
+
+ </strong>
+
+
+</p>
 <br>
 <br>
 <br>
