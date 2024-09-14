@@ -1,4 +1,4 @@
-# Compilation of 131 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 132 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -37,7 +37,11 @@
 
 </details>
 
-# [ tekkito_ietherial blue (?)](https://drive.google.com/file/d/1YOQeQLU_n7MsDD-mMNBRWksqmpiqcPJZ/view?usp=sharing) (01/09/2024)
+
+# [parannoul gold river SS(?)](https://drive.google.com/file/d/1mY2bPM07RjjiYGRN7UikHr0Lv78GOmbo/view?usp=sharing) (14/09/2024)
+![screenshot405](https://github.com/user-attachments/assets/81693e3a-2972-42b2-9cce-336d8cae848c)
+
+# [tekkito_ietherial blue (?)](https://drive.google.com/file/d/1YOQeQLU_n7MsDD-mMNBRWksqmpiqcPJZ/view?usp=sharing) (01/09/2024)
 ![screenshot404](https://github.com/user-attachments/assets/b8b61a31-edf1-42ea-a612-d92cd6c1d070)
 
 # [azerino nowszy edit](https://drive.google.com/file/d/1CdwFoluCBpM1zeNLoIoKqVnPKkzlTMOv/view?usp=sharing) (25/08/2024)
