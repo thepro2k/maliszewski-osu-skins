@@ -38,7 +38,7 @@
 </details>
 
 
-# [parannoul gold river SS(?)](https://drive.google.com/file/d/1mY2bPM07RjjiYGRN7UikHr0Lv78GOmbo/view?usp=sharing) (14/09/2024)
+# [parannoul gold river SS(?)](https://drive.google.com/file/d/1G1U7qAtoYtZCRpQiY105mD4vX76FqPHD/view?usp=sharing) (14/09/2024)
 ![screenshot405](https://github.com/user-attachments/assets/81693e3a-2972-42b2-9cce-336d8cae848c)
 
 # [tekkito_ietherial blue (?)](https://drive.google.com/file/d/1YOQeQLU_n7MsDD-mMNBRWksqmpiqcPJZ/view?usp=sharing) (01/09/2024)
