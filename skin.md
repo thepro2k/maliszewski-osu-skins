@@ -233,6 +233,9 @@
 # [super skin](https://drive.google.com/file/d/1Xef77EeSk7K9Y_HyTvtKkKNfK01T6tPz/view?usp=sharing) (20/03/2024)
 ![screenshot252](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4fcce491-95df-4309-be21-38701d4573d4)
 
+# [reedkatt but good](https://drive.google.com/file/d/1NGwi6HmibHfpV-fzzAOdwFS_XKe4S3dA/view?usp=sharing) (20/03/2024)
+![screenshot407](https://github.com/user-attachments/assets/565a212c-73c0-493f-a103-c2ece974bc7a)
+
 # [tko](https://drive.google.com/file/d/1rLJkvNlVdsGOpnvghj1J9_d2b__lP7kx/view?usp=sharing) (05/03/2024)
 ![screenshot258](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/2f3728dc-ba81-4142-b2a8-a5779181a698)
 
