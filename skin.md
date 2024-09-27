@@ -37,10 +37,10 @@
 
 </details>
 
-# [ama mess mess mess (?)](https://drive.google.com/file/d/1tJ8VCNe6RcDKYgZMNJFsu9yLuP_aPwgq/view?usp=sharing) (27/09/2024)  - replay w/ beatmap hitsounds
-![screenshot409](https://github.com/user-attachments/assets/a79e7e3f-d7ed-4bce-89a2-2e2d3f09390e)
+# [ama mess mess mess (?)](https://drive.google.com/file/d/1KkWsrtOvn6cQrPUVhHo9XCoxGnc8aWZS/view?usp=sharing) (27/09/2024)  - replay w/ beatmap hitsounds
+![screenshot410](https://github.com/user-attachments/assets/83b78fc1-7de7-44a2-9baf-04e6286e5d3c)
 
-# [parannoul gold river SS(?)](https://drive.google.com/file/d/1G1U7qAtoYtZCRpQiY105mD4vX76FqPHD/view?usp=sharing) (14/09/2024)
+# [parannoul gold river SS (?)](https://drive.google.com/file/d/1G1U7qAtoYtZCRpQiY105mD4vX76FqPHD/view?usp=sharing) (14/09/2024)
 ![screenshot405](https://github.com/user-attachments/assets/81693e3a-2972-42b2-9cce-336d8cae848c)
 
 # [tekkito_ietherial blue (?)](https://drive.google.com/file/d/1YOQeQLU_n7MsDD-mMNBRWksqmpiqcPJZ/view?usp=sharing) (01/09/2024)
