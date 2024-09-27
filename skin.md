@@ -1,4 +1,4 @@
-# Compilation of 133 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 134 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -18,9 +18,9 @@
 
 <strong> 
  
-#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB https://github.com/Emejzink/Malisz/blob/main/skins.md
-#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB https://github.com/Emejzink/Malisz/blob/main/skins.md
-#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB https://github.com/Emejzink/Malisz/blob/main/skins.md
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB: https://github.com/Emejzink/Malisz/blob/main/skins.md
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB: https://github.com/Emejzink/Malisz/blob/main/skins.md
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB: https://github.com/Emejzink/Malisz/blob/main/skins.md
 
  </strong>
 
@@ -37,6 +37,8 @@
 
 </details>
 
+# [ama mess mess mess(?)](https://drive.google.com/file/d/1tJ8VCNe6RcDKYgZMNJFsu9yLuP_aPwgq/view?usp=sharing) (27/09/2024)  - replay w/ beatmap hitsounds
+![screenshot409](https://github.com/user-attachments/assets/a79e7e3f-d7ed-4bce-89a2-2e2d3f09390e)
 
 # [parannoul gold river SS(?)](https://drive.google.com/file/d/1G1U7qAtoYtZCRpQiY105mD4vX76FqPHD/view?usp=sharing) (14/09/2024)
 ![screenshot405](https://github.com/user-attachments/assets/81693e3a-2972-42b2-9cce-336d8cae848c)
