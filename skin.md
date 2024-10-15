@@ -37,6 +37,8 @@
 
 </details>
 
+# Malisz is taking a break from the game and also privated his yt vids so sadly chances are there will be very few new skins (if any) until next year when he comes back
+
 # [-GN 2017-09-16](https://drive.google.com/file/d/1YnNSEHX83YSJnMVca4S3-b6jaQR4xyO5/view?usp=sharing) (05/10/2024)
 ![screenshot412](https://github.com/user-attachments/assets/7e0d9506-0fc6-40b5-8f7d-58a73dc37b72)
 
