@@ -1,4 +1,4 @@
-# Compilation of 142 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 147 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -346,11 +346,26 @@
 # [MonkoGlassTest malisz edit (?)](https://drive.google.com/file/d/1gZeePpLmbKJb4V5GtCSWQGeQG4Rfz3ax/view?usp=sharing) (8/10/2023)
 ![screenshot241](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c861c6aa-2d59-4bd8-b016-960164860438)
 
-# [‎‎azerino-whypan malisz edit (?)](https://drive.google.com/file/d/1YeQ02W7P9xQNYZbR6Y9gOAxhNXEbglZx/view?usp=sharing) (23/09/2023)
+# [tekkitoyeowch](https://drive.google.com/file/d/1yw2hIMdbegAMhzkb5YmejiMOJ3BYJsJ6/view?usp=drive_link) (27/09/2023)
+![screenshot426](https://github.com/user-attachments/assets/6dbb1ee7-9d45-4bca-932f-51cfd6c5fd19)
+
+# [pinguinzi](https://drive.google.com/file/d/1xXds5lqpMEJaFjvxp-phbbLMtZe2NkE8/view?usp=sharing) (27/09/2023)
+![screenshot425](https://github.com/user-attachments/assets/99b2e614-ebc1-40a2-bd1b-0d1f495974db)
+
+# [‎‎azerino-whypan malisz edit (?)](https://drive.google.com/file/d/1YeQ02W7P9xQNYZbR6Y9gOAxhNXEbglZx/view?usp=sharing) (18/09/2023)
 ![screenshot192](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b9e727e3-4ed1-452a-aa0d-d61395bb27ae)
+
+# [‎‎willy edit(?)](https://drive.google.com/file/d/1FcDscRD-GeUrsgyb7apGLsZwenLNxtRo/view?usp=sharing) (15/09/2023)
+![screenshot424](https://github.com/user-attachments/assets/7f99a35f-9b6d-405b-a97e-5d4222b3ccfd)
 
 # [azerino2023 enrisliderb (?)](https://drive.google.com/file/d/1iHvBOrfpJXI28Mt083soMtzGAz4IwxRA/view?usp=sharing) (27/08/2023)
 ![screenshot185](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/94b1f97b-ef1c-4feb-b99f-e3e3fe84bc34)
+
+# [lugia](https://drive.google.com/file/d/1YKFkTkPnjhoDRU6McX_qvbZZDhBnQQpD/view?usp=sharing) (21/08/2023)
+![screenshot422](https://github.com/user-attachments/assets/9e216068-4f2c-4507-bb76-356e2fa730b0)
+
+# [aristia trail](https://drive.google.com/file/d/1a9VLLs56N8XuGvkx2cqzUynQaYxwjF4X/view?usp=sharing) (21/08/2023)
+![screenshot423](https://github.com/user-attachments/assets/f86111d5-754d-4e88-a270-53838f70a8b4)
 
 # [zibi_grej](https://drive.google.com/file/d/1Nibn65zfxkTYzztL-JQycCWpUnNMKBiP/view?usp=sharing) (15/08/2023)
 ![screenshot270](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cb6d7108-493c-49b4-9342-b7a397fff910)
