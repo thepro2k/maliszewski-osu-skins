@@ -1,4 +1,4 @@
-# Compilation of 147 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 150 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -301,16 +301,19 @@
 # [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1RGA5CrsohxgTLOAhKeckhBziS-EdwwLp/view?usp=sharing) (21/12/2023)
 ![screenshot269](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8bd29757-6ed3-41cd-bad2-a2ae353411bc)
 
-# [afsd](https://drive.google.com/file/d/1li7pqk6R6TmyGK-7kL5cMVOJaAEpq1_P/view?usp=sharing) (27/11/2023)
-![screenshot176](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f3bf5974-9bfa-4050-b4b3-fe03f98ea687)
-
 # [adam fcledi mq (?)](https://drive.google.com/file/d/1W6VQhLx4TGjOZQX7gwo7JaVEv93dFI55/view?usp=sharing) (27/11/2023)
 ![screenshot300](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cdac47b9-a756-46d6-a807-657432a36dbd)
 
-# [essazerino grej 2 (?)](https://drive.google.com/file/d/17ogkx5AM1N85vqI1zwIsoIMOA5y85ICK/view?usp=sharing) (22/11/2023)
+# [monko tecza](https://drive.google.com/file/d/1VaRAB14gFqsLwWmPYoWsJFRVyHh4lGUF/view?usp=sharing) (26/11/2023)
+![screenshot435](https://github.com/user-attachments/assets/1b228847-2b34-4378-8f04-fe88e6e7293f)
+
+# [afsd](https://drive.google.com/file/d/1li7pqk6R6TmyGK-7kL5cMVOJaAEpq1_P/view?usp=sharing) (24/11/2023)
+![screenshot176](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f3bf5974-9bfa-4050-b4b3-fe03f98ea687)
+
+# [essaazerino grej 2 (?)](https://drive.google.com/file/d/17ogkx5AM1N85vqI1zwIsoIMOA5y85ICK/view?usp=sharing) (22/11/2023)
 ![screenshot217](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/7e980a17-d799-4947-9521-f0daa8c99d1a)
 
-# [essazerino grej (?)](https://drive.google.com/file/d/11Wf98MbRTBZSfj_ZHFbo0KnjDi7lD22k/view?usp=sharing) (22/11/2023)
+# [essaazerino grej (?)](https://drive.google.com/file/d/11Wf98MbRTBZSfj_ZHFbo0KnjDi7lD22k/view?usp=sharing) (22/11/2023)
 ![screenshot216](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3c1400c9-d9e9-4d71-99e5-2299b6ae900a)
 
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing) (20/11/2023)
@@ -319,8 +322,14 @@
 # [essaazerino aq (?)](https://drive.google.com/file/d/1rLF3nC9K2DdzP96yvu-SDYAlIJ83NwAW/view?usp=sharing) (19/11/2023)
 ![screenshot304](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cb93f52b-3334-4e2e-8c51-09c22dc47c78)
 
-# [essazerino](https://drive.google.com/file/d/1lk2VDQ6D-TJjXcLeWjttRp-KGH36NOT2/view?usp=sharing) (12/11/2023)
+# [essahaga](https://drive.google.com/file/d/1UY-MJKfPJ7z0yYs50d07h472pR79nCNq/view?usp=sharing) (18/11/2023)
+![screenshot436](https://github.com/user-attachments/assets/a571c576-2698-436c-bfd0-f3593743116e)
+
+# [essaazerino](https://drive.google.com/file/d/1lk2VDQ6D-TJjXcLeWjttRp-KGH36NOT2/view?usp=sharing) (12/11/2023)
 ![screenshot215](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/bb56a97b-68f2-42ae-b4eb-31f59db99882)
+
+# [essaazerino kabl(?)](https://drive.google.com/file/d/1ZWPFAYav56YsRNxd17GqeLopiLJeFvSY/view?usp=sharing) (05/11/2023)
+![screenshot428](https://github.com/user-attachments/assets/7fb3cc54-dbb4-4fa9-a10b-b14d19af92bc)
 
 # [azerino](https://drive.google.com/file/d/1QMk5JxNw6sP6Igy2TK4Nd5g4LpRy49jh/view?usp=sharing) (28/10/2023)
  ![screenshot182](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/2b7ddc01-6539-4e85-a3bc-6d87eb7a7ccf)
@@ -343,8 +352,8 @@
 # [azerino2023 aristia-ish (?)](https://drive.google.com/file/d/1xyF6zwaungPnMljRIxRV5-UyLYEgAl0j/view?usp=sharing) (14/10/2023)
 ![screenshot184](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/92f76c84-bba6-4acd-8fa9-94bee1cd3f12)
 
-# [MonkoGlassTest malisz edit (?)](https://drive.google.com/file/d/1gZeePpLmbKJb4V5GtCSWQGeQG4Rfz3ax/view?usp=sharing) (8/10/2023)
-![screenshot241](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c861c6aa-2d59-4bd8-b016-960164860438)
+# [rektygon zedytowany](https://drive.google.com/file/d/1ODueiHpi2Zx99UUcCsC0PTj_QkfVuImL/view?usp=sharing) (8/10/2023)
+![screenshot429](https://github.com/user-attachments/assets/5f760ca6-0b69-40e0-8406-e26516d628ab)
 
 # [tekkitoyeowch](https://drive.google.com/file/d/1yw2hIMdbegAMhzkb5YmejiMOJ3BYJsJ6/view?usp=drive_link) (27/09/2023)
 ![screenshot426](https://github.com/user-attachments/assets/6dbb1ee7-9d45-4bca-932f-51cfd6c5fd19)
