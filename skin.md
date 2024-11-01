@@ -1,4 +1,4 @@
-# Compilation of 155 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 156 skins Maliszewski has used, mostly from after mid 2023 
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -466,6 +466,9 @@
 # [‎tekkito2 rrtyui (?)](https://drive.google.com/file/d/1PZISSnmfw8nawJ91m40UTKKQpmCmXpIN/view?usp=sharing) (09/01/2023)
 ![screenshot257](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/402d0566-f317-4ff9-932c-5986e7bace1c)
 
+# [mathi_pompa](https://drive.google.com/file/d/1KbPKTIpndZEwwyBSioxHei9K2hp4SUff/view?usp=sharing) (20/12/2022)
+![screenshot451](https://github.com/user-attachments/assets/92e5ffa0-8890-4f58-b039-f0123bfd41b7)
+
 # [boop maliszewski (?)](https://drive.google.com/file/d/1q4Mo9ZVTw1s35ZKIxH5gjJBMdcS9keyr/view?usp=sharing) (20/12/2022)
 ![screenshot196](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4438f54c-ea83-4b83-8b21-bf68160f11a7)
 
@@ -495,6 +498,9 @@
 
 # [‎#dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing) (23/10/2022) and [red_pixel](https://drive.google.com/file/d/13dilcfKyzhhElbk3XnAcdRclFx5EAnuN/view?usp=sharing) (10/11/2022) (just different hs) 
 ![screenshot244](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9bed8c6f-4285-4f47-8b62-02cb81401067)
+
+# [mastasz](https://drive.google.com/file/d/1Y8wFEXZGmxeLAREbClpgT-x6ihTtq_lC/view?usp=sharing)  (12/10/2022)
+![screenshot450](https://github.com/user-attachments/assets/e3c2ea3c-adf8-4145-a47f-77e35b2e9ced)
 
 # [aristekk](https://drive.google.com/file/d/1Bts7KEskvZGuO7CbKCadQu1wbvkgrN_c/view?usp=sharing)  (08/10/2022)
 ![screenshot177](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d3d7a592-85db-4179-bcc1-3c64e137d32f)
