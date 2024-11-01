@@ -1,4 +1,4 @@
-# Compilation of 160 skins Maliszewski has used, mostly from after mid 2023 
+# Compilation of 160 skins Maliszewski has used
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -490,7 +490,7 @@
 # [mathi](https://drive.google.com/file/d/1fa8Vkwo-eS45fB3tK4WzZEgu2S6TYNB0/view?usp=sharing) (21/11/2022)
 ![screenshot418](https://github.com/user-attachments/assets/c3084e26-91c0-4115-8c68-a16131ac49e4)
 
-# [rammu](https://drive.google.com/file/d/1SRCLG2JQSv52BkDcyP_PE5SvhKzxb1Z6/view?usp=sharing) (17/11/2022)
+# [rammu](https://drive.google.com/file/d/1VGb99Dz73V9Ykgc_zLLQ9NV1sZ6Ha-TQ/view?usp=sharing) (17/11/2022)
 ![screenshot447](https://github.com/user-attachments/assets/d59d8a60-105b-414a-878e-f12a51e166b5)
 
 # [xact](https://drive.google.com/file/d/1jGSp8e1mRfYtYu8Xb1Wqspfruv4Za822/view?usp=sharing) (10/11/2022)
