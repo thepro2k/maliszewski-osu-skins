@@ -1,4 +1,4 @@
-# Compilation of 165 skins Maliszewski has used
+# Compilation of 166 skins Maliszewski has used
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -203,9 +203,6 @@
 # [ietherial](https://drive.google.com/file/d/1Vy_jSVC40bq5YbzAoOsjcMMCWys9rFha/view?usp=sharing) (29/04/2024)
 ![screenshot226](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/0f4263b8-203a-4bc2-8933-ba09413bd55f)
 
-# [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing) (28/04/2024)
-![screenshot238](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a9256372-5be3-477e-ad1c-0682471475f1)
-
 # [bobiakk](https://drive.google.com/file/d/1V6CYjWH79wB9tm9jnA6j7PlgxOIvmy2Y/view?usp=sharing) (28/04/2024)
 ![screenshot193](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ac331cfc-c264-4b7b-8f40-4bf2b0176be3)
 
@@ -368,6 +365,9 @@
 # [azerino2023 enrisliderb (?)](https://drive.google.com/file/d/1iHvBOrfpJXI28Mt083soMtzGAz4IwxRA/view?usp=sharing) (27/08/2023)
 ![screenshot185](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/94b1f97b-ef1c-4feb-b99f-e3e3fe84bc34)
 
+# [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing) (26/08/2023)
+![screenshot238](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a9256372-5be3-477e-ad1c-0682471475f1)
+
 # [lugia](https://drive.google.com/file/d/1YKFkTkPnjhoDRU6McX_qvbZZDhBnQQpD/view?usp=sharing) (21/08/2023)
 ![screenshot422](https://github.com/user-attachments/assets/9e216068-4f2c-4507-bb76-356e2fa730b0)
 
@@ -386,8 +386,11 @@
 # [‎zylice inne hitsoundy](https://drive.google.com/file/d/1EtsKHLHWfft6K5PgxjEsIbKbKXNUKjns/view?usp=sharing) (30/07/2023)
 ![screenshot271](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/1d9d942d-1771-4bc9-a53d-baf87098b620)
 
-# [‎what (?)](https://drive.google.com/file/d/1wlkaWnPP_4G2HE7PVdkbNo0gW4UOf4i-/view?usp=sharing) (27/07/2023)
-![screenshot295](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/1fef9ce6-b437-4081-8277-68542069527e)
+# [‎tekkito2lugia rekty(?)](https://drive.google.com/file/d/17UhtcgRYraaYS_UV9cvhZQbi2XUFR-pV/view?usp=sharing) (27/07/2023)
+![screenshot465](https://github.com/user-attachments/assets/7e149432-dcdc-44bc-9ec9-d55c6bf37415)
+
+# [‎tekkito2lugia](https://drive.google.com/file/d/1JkSc6rmAxmaPQNn1gjscJGyejEZf_uWS/view?usp=sharing) (20/07/2023)
+![screenshot463](https://github.com/user-attachments/assets/eb7985a8-8ad0-41a7-b7f7-e726254b4c18)
 
 # [kurwa](https://drive.google.com/file/d/1zPqnI3j8UpuKGiXThp2f527bLKKtAmzI/view?usp=sharing) (15/07/2023)
 ![screenshot227](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a22fab45-8b81-45c7-9f04-65a5c1a255b8)
