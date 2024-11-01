@@ -448,6 +448,12 @@
 # [Rafis but zylice](https://drive.google.com/file/d/1QHNCSrh2wbU1hc1MHUEEauadQjOrbHKE/view?usp=sharing) (03/2023)
 ![screenshot243](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/95fdcd1f-ee0b-4835-a2c8-bba089f385a1)
 
+# [lucianoaristia](https://drive.google.com/file/d/1APkEOEyWDPBEc-kjkrv2Oz-RHlSx0kGu/view?usp=sharing) (26/02/2023)
+![screenshot456](https://github.com/user-attachments/assets/5a92785d-3dde-488b-bc28-392b409a0058)
+
+# [azerino nowe](https://drive.google.com/file/d/1Zbk5C1DlDKSAJ5zQs3zHywNUUMdyZU6Y/view?usp=sharing) (26/02/2023)
+![screenshot457](https://github.com/user-attachments/assets/cf079891-0523-42dd-a3a8-4078fc19f942)
+
 # [tekkito2e-exar (?)](https://drive.google.com/file/d/15Po-_QSD8h-dl1dIjVYC7in8qNwy9DBm/view?usp=drive_link) (25/02/2023)
 ![screenshot348](https://github.com/user-attachments/assets/26df9287-41ef-4520-8824-34758c3949db)
 
@@ -457,7 +463,7 @@
 # [‎tekkito2 bomba (?)](https://drive.google.com/file/d/1-0zqABhaNVrUTEXO5KvoKIWwDothwKvG/view?usp=sharing) (31/01/2023)
 ![screenshot398](https://github.com/user-attachments/assets/5c4681d3-ec55-4892-9ad7-c2b1872fed0d)
 
-# [tekkito2default](https://drive.google.com/file/d/12wxMFXWSFuStqFHr6GfiEAS2s1oBzoff/view?usp=sharing) (29/01/2023)
+# [tekkito2default](https://drive.google.com/file/d/12wxMFXWSFuStqFHr6GfiEAS2s1oBzoff/view?usp=sharing) (21/01/2023)
 ![screenshot294](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c3859f63-205e-4739-92e3-79fc0049c697)
 
 # [azerino bomba (?)](https://drive.google.com/file/d/1vP8cR0nZ5ba3j9xedNcdp3XBzqwahC88/view?usp=sharing) (20/01/2023)
@@ -468,6 +474,9 @@
 
 # [tekkitoshigetora](https://drive.google.com/file/d/1Pbe42dnKZPk1DNlvXoEpNenzSFDb-a-_/view?usp=drive_link) (29/12/2022)
 ![screenshot453](https://github.com/user-attachments/assets/1be1996a-d3ac-4fc0-8455-efa69874e143)
+
+# [‎tekkito2](https://drive.google.com/file/d/1MTuN7GmGXoGWVgVcDCu_vi_Atov0KtGY/view?usp=sharing) (26/12/2022)
+![screenshot455](https://github.com/user-attachments/assets/907cfdd8-aaaa-41e3-b642-64fdf58282ef)
 
 # [tekkitoshigetora blue (?)](https://drive.google.com/file/d/10W5tqx4DTvPIJGsICK5JV0SM7KYhiJV8/view?usp=sharing) (20/12/2022)
 ![screenshot452](https://github.com/user-attachments/assets/c5554903-ccbb-48a6-b8c5-22babf1ac8fd)
@@ -481,7 +490,7 @@
 # [bombalowju](https://drive.google.com/file/d/1Zq4gElxyFoAVhI1s7ygQmQVFJp0o2uGc/view?usp=sharing) (27/11/2022)
 ![screenshot449](https://github.com/user-attachments/assets/2676270a-f2e1-4209-af35-d31cb795a640)
 
-# [crezz](https://drive.google.com/file/d/17yMb1DuoTiPPVCJU_sIuoONqQN7IxXPO/view?usp=sharing) (26/11/2022)
+# [crezz](https://drive.google.com/file/d/1Iim4AzKjBi7oCed-0UOfl0-A74zDJ09W/view?usp=sharing) (26/11/2022)
 ![screenshot454](https://github.com/user-attachments/assets/ec39141a-eddc-4ca4-a56f-375a0389a974)
 
 # [maliszkarcher (?)](https://drive.google.com/file/d/1_OS43WVIlCX6NnBgWK_mzG_02kgOiVuJ/view?usp=sharing) (26/11/2022)
