@@ -319,8 +319,8 @@
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing) (20/11/2023)
 ![screenshot261](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/341255ed-b50d-4941-b91c-38a9a4335b43)
 
-# [essaazerino aq (?)](https://drive.google.com/file/d/1rLF3nC9K2DdzP96yvu-SDYAlIJ83NwAW/view?usp=sharing) (19/11/2023)
-![screenshot304](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cb93f52b-3334-4e2e-8c51-09c22dc47c78)
+# [essaazerino aq (?)](https://drive.google.com/file/d/16UEIBa27wezgFkTz8wimW9fyU3JCl4oD/view?usp=drive_link) (19/11/2023)
+![screenshot439](https://github.com/user-attachments/assets/511ba598-fb4d-4ba7-b673-4e7a5160ee33)
 
 # [essahaga](https://drive.google.com/file/d/1UY-MJKfPJ7z0yYs50d07h472pR79nCNq/view?usp=sharing) (18/11/2023)
 ![screenshot436](https://github.com/user-attachments/assets/a571c576-2698-436c-bfd0-f3593743116e)
