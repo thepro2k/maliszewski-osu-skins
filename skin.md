@@ -460,11 +460,11 @@
 # [Rafis but zylice](https://drive.google.com/file/d/1QHNCSrh2wbU1hc1MHUEEauadQjOrbHKE/view?usp=sharing) (03/2023)
 ![screenshot243](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/95fdcd1f-ee0b-4835-a2c8-bba089f385a1)
 
-# [lucianoaristia](https://drive.google.com/file/d/1APkEOEyWDPBEc-kjkrv2Oz-RHlSx0kGu/view?usp=sharing) (26/02/2023)
-![screenshot456](https://github.com/user-attachments/assets/5a92785d-3dde-488b-bc28-392b409a0058)
+# [lucianoaristia](https://drive.google.com/file/d/1pSrblpPAycGuCZFF6xcPzdyUF5fdpDC2/view?usp=sharing) (26/02/2023)
+![screenshot475](https://github.com/user-attachments/assets/f7995e61-ca08-44d3-9f12-51203ec5422a)
 
-# [azerino nowe](https://drive.google.com/file/d/1Zbk5C1DlDKSAJ5zQs3zHywNUUMdyZU6Y/view?usp=sharing) (26/02/2023)
-![screenshot457](https://github.com/user-attachments/assets/cf079891-0523-42dd-a3a8-4078fc19f942)
+# [azerino nowe](https://drive.google.com/file/d/1roAfkihMow7r8fcydb2EtF3WejGNxmoG/view?usp=sharing) (26/02/2023)
+![screenshot473](https://github.com/user-attachments/assets/96df925a-268c-4ff5-a4d0-04935ea730aa)
 
 # [tekkito2e-exar (?)](https://drive.google.com/file/d/15Po-_QSD8h-dl1dIjVYC7in8qNwy9DBm/view?usp=drive_link) (25/02/2023)
 ![screenshot348](https://github.com/user-attachments/assets/26df9287-41ef-4520-8824-34758c3949db)
