@@ -5,10 +5,9 @@
  ‎ 
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
 # - Most skins this doc are remakes
-# - If you see (?) it means the real name of a skin in unknown or just reused the name of another edit
+# - If you see (?) it means the real name of a skin in unknown or just reused the name of another skin
 # - Needless to say, I can't guarantee every remake is 100% accurate
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
-# - Take the dates attached to old skins with a big grain of salt
 # - For questions/suggestions/anything else DM me in discord or in game
 # - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
 
@@ -305,17 +304,20 @@
 # [afsd](https://drive.google.com/file/d/1li7pqk6R6TmyGK-7kL5cMVOJaAEpq1_P/view?usp=sharing) (24/11/2023)
 ![screenshot176](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f3bf5974-9bfa-4050-b4b3-fe03f98ea687)
 
-# [essaazerino grej 2 (?)](https://drive.google.com/file/d/17ogkx5AM1N85vqI1zwIsoIMOA5y85ICK/view?usp=sharing) (22/11/2023)
-![screenshot217](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/7e980a17-d799-4947-9521-f0daa8c99d1a)
+# [essaazerino grej 2 (?)](https://drive.google.com/file/d/1aOuWRSGpQoTYB1FtGcHlvYXRrVNqjGJ6/view?usp=sharing) (22/11/2023)
+![screenshot472](https://github.com/user-attachments/assets/f6236a62-1756-45f4-a6d0-b03e337fbf5a)
 
-# [essaazerino grej (?)](https://drive.google.com/file/d/11Wf98MbRTBZSfj_ZHFbo0KnjDi7lD22k/view?usp=sharing) (22/11/2023)
-![screenshot216](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/3c1400c9-d9e9-4d71-99e5-2299b6ae900a)
+# [essaazerino karmazynowy(?)](https://drive.google.com/file/d/1ggdyQ2D-r3d2vFJbpRWlxTAZjZ6ENz7E/view?usp=sharing) (22/11/2023)
+![screenshot470](https://github.com/user-attachments/assets/11927078-ddd4-4f6a-afcd-5ad871bcb1e0)
+
+# [essaazerino grej (?)](https://drive.google.com/file/d/1c-cAu7F5OAkE3YtbfubBl_MMtzi_QvDl/view?usp=sharing) (22/11/2023)
+![screenshot466](https://github.com/user-attachments/assets/cb82066e-bfee-4a7a-bd91-c268a301d5fc)
 
 # [v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing) (20/11/2023)
 ![screenshot261](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/341255ed-b50d-4941-b91c-38a9a4335b43)
 
-# [essaazerino aq (?)](https://drive.google.com/file/d/16UEIBa27wezgFkTz8wimW9fyU3JCl4oD/view?usp=drive_link) (19/11/2023)
-![screenshot439](https://github.com/user-attachments/assets/511ba598-fb4d-4ba7-b673-4e7a5160ee33)
+# [essaazerino aq (?)](https://drive.google.com/file/d/1RrX1RIH53syioc3Yq3xJiZyrOnSQy5Kb/view?usp=sharing) (19/11/2023)
+![screenshot468](https://github.com/user-attachments/assets/61fd3537-e3ec-4a15-8325-21d777ab5bd8)
 
 # [essahaga](https://drive.google.com/file/d/1UY-MJKfPJ7z0yYs50d07h472pR79nCNq/view?usp=sharing) (18/11/2023)
 ![screenshot436](https://github.com/user-attachments/assets/a571c576-2698-436c-bfd0-f3593743116e)
@@ -341,7 +343,7 @@
 # [Michni DT Bambique](https://drive.google.com/file/d/1EtcMNRPrioa2pwHfn-WB5VPdvoJ884fr/view?usp=sharing) (22/10/2023)
 ![screenshot236](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/76ccbbec-f0af-4775-970a-4665eaa77e9c)
 
-# [azerino malisz edit (?)](https://drive.google.com/file/d/1L1oSDfuOmQyGjei1m88tZwEU2-ubViOc/view?usp=sharing) (18/10/2023)
+# [azerino zedytowany(?)](https://drive.google.com/file/d/1L1oSDfuOmQyGjei1m88tZwEU2-ubViOc/view?usp=sharing) (15/10/2023)
 ![screenshot186](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e6f0bed2-513a-4951-8c0f-b76e89edbfe9)
 
 # [azerino2023 aristia-ish (?)](https://drive.google.com/file/d/1xyF6zwaungPnMljRIxRV5-UyLYEgAl0j/view?usp=sharing) (14/10/2023)
@@ -359,7 +361,7 @@
 # [‎‎azerino-whypan malisz edit (?)](https://drive.google.com/file/d/1YeQ02W7P9xQNYZbR6Y9gOAxhNXEbglZx/view?usp=sharing) (18/09/2023)
 ![screenshot192](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b9e727e3-4ed1-452a-aa0d-d61395bb27ae)
 
-# [‎‎willy edit(?)](https://drive.google.com/file/d/1FcDscRD-GeUrsgyb7apGLsZwenLNxtRo/view?usp=sharing) (15/09/2023)
+# [‎‎czysty do dt](https://drive.google.com/file/d/1FcDscRD-GeUrsgyb7apGLsZwenLNxtRo/view?usp=sharing) (15/09/2023)
 ![screenshot424](https://github.com/user-attachments/assets/7f99a35f-9b6d-405b-a97e-5d4222b3ccfd)
 
 # [azerino2023 enrisliderb (?)](https://drive.google.com/file/d/1iHvBOrfpJXI28Mt083soMtzGAz4IwxRA/view?usp=sharing) (27/08/2023)
@@ -440,11 +442,10 @@
 # [enriedit](https://drive.google.com/file/d/1Ug22wWx4i6pn53g7YEs7VJ5vXkeLiFp3/view?usp=sharing) (7/4/2023)
 ![screenshot289](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/216454b9-7792-4185-94c8-67a06d82f167)
 
-
 # [axarious](https://drive.google.com/file/d/1YRz0tKIVgnrkVmK0KjNJGqUhVHcdol6W/view?usp=sharing) (28/04/2023)
 ![screenshot179](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ad9999ad-0118-4978-872b-5a28a46954e5)
 
-# [maliszewski](https://drive.google.com/file/d/1MF0gQ2zhzZQVdOvaJfAR0L21g60MvFo9/view?usp=sharing) (17/03/2023)
+# [maliszewski](https://drive.google.com/file/d/1MF0gQ2zhzZQVdOvaJfAR0L21g60MvFo9/view?usp=sharing) (09/03/2023)
 ![screenshot232](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a60829e4-6da3-498e-aeac-17dce04293da)
 
 # [zibi instafade](https://drive.google.com/file/d/1a9DuwsijwkC5yL7gaYfQXbp7HODZ6BNy/view?usp=sharing) (05/03/2024)
