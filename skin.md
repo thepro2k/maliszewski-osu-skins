@@ -37,11 +37,8 @@
 
 </details>
 
-# [azerino stare Crazy SS Lol xD 👅 (?)](https://drive.google.com/file/d/1WI9PaFp5B0cHLHuSrA6ox2hMmj4bxgn2/view?usp=sharing) (05/10/2024)
+# [azerino stare Crazy SS Lol xD 👅 (?)](https://drive.google.com/file/d/1WI9PaFp5B0cHLHuSrA6ox2hMmj4bxgn2/view?usp=sharing) (02/11/2024)
 ![screenshot484](https://github.com/user-attachments/assets/119ce813-a807-4fff-886b-363b7ad161cf)
-
-# [-GN 2017-09-16](https://drive.google.com/file/d/1YnNSEHX83YSJnMVca4S3-b6jaQR4xyO5/view?usp=sharing) (05/10/2024)
-![screenshot412](https://github.com/user-attachments/assets/7e0d9506-0fc6-40b5-8f7d-58a73dc37b72)
 
 # [-GN 2017-09-16](https://drive.google.com/file/d/1YnNSEHX83YSJnMVca4S3-b6jaQR4xyO5/view?usp=sharing) (05/10/2024)
 ![screenshot412](https://github.com/user-attachments/assets/7e0d9506-0fc6-40b5-8f7d-58a73dc37b72)
