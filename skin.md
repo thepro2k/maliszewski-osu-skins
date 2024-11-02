@@ -1,4 +1,4 @@
-# Compilation of 168 skins Maliszewski has used
+# Compilation of 170 skins Maliszewski has used since mid 2022
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -6,7 +6,7 @@
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
 # - Most skins this doc are remakes
 # - If you see (?) it means the real name of a skin in unknown or just reused the name of another skin
-# - Needless to say, I can't guarantee every remake is 100% accurate
+# - Needless to say, I can't guarantee every remake is 100% accurate, especially bc the footage i have of some skins is really limited 
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
 # - For questions/suggestions/anything else DM me in discord or in game
 # - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
@@ -37,7 +37,11 @@
 
 </details>
 
-# Malisz is taking a break from the game and also privated his yt vids so sadly chances are there will be very few new skins (if any) until next year when he comes back. Its a shame bc he made some of my favorite skins during owc2023 and MGC, which were around this time of the year
+# [azerino stare Crazy SS Lol xD 👅 (?)](https://drive.google.com/file/d/1WI9PaFp5B0cHLHuSrA6ox2hMmj4bxgn2/view?usp=sharing) (05/10/2024)
+![screenshot484](https://github.com/user-attachments/assets/119ce813-a807-4fff-886b-363b7ad161cf)
+
+# [-GN 2017-09-16](https://drive.google.com/file/d/1YnNSEHX83YSJnMVca4S3-b6jaQR4xyO5/view?usp=sharing) (05/10/2024)
+![screenshot412](https://github.com/user-attachments/assets/7e0d9506-0fc6-40b5-8f7d-58a73dc37b72)
 
 # [-GN 2017-09-16](https://drive.google.com/file/d/1YnNSEHX83YSJnMVca4S3-b6jaQR4xyO5/view?usp=sharing) (05/10/2024)
 ![screenshot412](https://github.com/user-attachments/assets/7e0d9506-0fc6-40b5-8f7d-58a73dc37b72)
@@ -66,9 +70,8 @@
 # [rafis](https://drive.google.com/file/d/1U_7RANyCxqahrxEf3alTiWomuyosS536/view?usp=sharing) (24/08/2024)
 ![screenshot390](https://github.com/user-attachments/assets/28ae6b9f-b212-4972-8319-87c068ec0cb9)
 
-# [-  azerino](https://drive.google.com/file/d/1puEAG1xRwHKN71CUaIj2gQmewICZ4ZRm/view?usp=sharing) (24/08/2024)
-![screenshot394](https://github.com/user-attachments/assets/34ee3c48-7c98-4f4b-9cf2-e1ae1e83cb83)
-
+# [-  azerino](https://drive.google.com/file/d/14znEKH99vH5mQToWPQLzZwfqvhhjaCBh/view?usp=sharing) (24/08/2024)
+![screenshot479](https://github.com/user-attachments/assets/443a2692-3728-47a5-a086-1a1fa5f02933)
 
 # [rektygon edit inne hitsoundy](https://drive.google.com/file/d/1Ro0oODC9li-g4GHOYCp4pzJVk4_8J_JX/view?usp=sharing) (21/8/2024) dif hsounds and followcircle
 ![screenshot388](https://github.com/user-attachments/assets/1016b127-6b85-4817-9259-d159932d4285)
@@ -159,6 +162,9 @@
 
 # [‎a (splity edit) malisz edit (?)](https://drive.google.com/file/d/1e5vTf923Tw5BYF6ZMdel6A9fhOQJ_IiA/view?usp=sharing) (26/05/2024)
 ![screenshot168](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d44dc47f-60c4-427f-bbcb-64bf1ff60633)
+
+# [‎aristia g (?)](https://drive.google.com/file/d/1jLjdvkomrY4W6OLNk5oY9P5VB23HBPf1/view?usp=sharing) (26/05/2024)
+![screenshot478](https://github.com/user-attachments/assets/198a64f8-8137-47ee-8554-d4cc304858d2)
 
 # [wooz](https://drive.google.com/file/d/1Hzzey7ZOlvU7S2fncGfrz5KA8KuSS5D-/view?usp=sharing) (22/05/2024)
 ![screenshot158](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/98dd7c06-cf74-4aad-96ee-8d6f8ff54165)
@@ -541,8 +547,8 @@
 # [essamamka](https://drive.google.com/file/d/1jZaKQahJ15OkwHPAdg2qkzmJSW5vN5EO/view?usp=sharing) (08/10/2022)
 ![screenshot218](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/922e6845-49e4-46e1-8658-392406a9c165)
 
-# [Rafis but CZ](https://drive.google.com/file/d/1_JhTiD-v7loGCcK1sbcaYzsP_D3CtyqR/view?usp=sharing) (02/10/2022)
-![screenshot442](https://github.com/user-attachments/assets/e3226551-b501-47a7-84e2-0de8fc4b4abb)
-
 # [arstk921](https://drive.google.com/file/d/1INpA9KzUGBxYqNlfXZ49LSdzuRTBqO8n/view?usp=sharing) (27/09/2022)
 ![screenshot178](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ad88067f-81e4-476f-a2d0-d4aeee4817a9)
+
+# [Rafis but CZ](https://drive.google.com/file/d/1_JhTiD-v7loGCcK1sbcaYzsP_D3CtyqR/view?usp=sharing) (03/07/2022)
+![screenshot442](https://github.com/user-attachments/assets/e3226551-b501-47a7-84e2-0de8fc4b4abb)
