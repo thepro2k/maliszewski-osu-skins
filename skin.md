@@ -1,4 +1,4 @@
-# Compilation of 170 skins Maliszewski has used since mid 2022
+# Compilation of 172 skins Maliszewski has used since mid 2022
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -37,7 +37,7 @@
 
 </details>
 
-# [azerino stare Crazy SS Lol xD 👅 (?)](https://drive.google.com/file/d/1WI9PaFp5B0cHLHuSrA6ox2hMmj4bxgn2/view?usp=sharing) (02/11/2024)
+# [azerino stare Crazy SS Lol xD 👅 (?)](https://drive.google.com/file/d/1kv2B93PPRmtOP_iL7QQFDLgu4mMrORjp/view?usp=sharing) (02/11/2024)
 ![screenshot484](https://github.com/user-attachments/assets/119ce813-a807-4fff-886b-363b7ad161cf)
 
 # [-GN 2017-09-16](https://drive.google.com/file/d/1YnNSEHX83YSJnMVca4S3-b6jaQR4xyO5/view?usp=sharing) (05/10/2024)
@@ -244,11 +244,17 @@
 # [ryuk](https://drive.google.com/file/d/1Ts00TIhCg00SOfKrg-y-Ni70dhljW-ZA/view?usp=sharing) (24/03/2024)
 ![screenshot248](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c8c27bd2-e3d0-465c-abbf-1cf73009b1a1)
 
+# [shield tekkito edit](https://drive.google.com/file/d/1Zrugx8V_6u3DE5h09gNoLukc_E5arjN0/view?usp=sharing) (20/03/2024)
+![screenshot487](https://github.com/user-attachments/assets/5d59a053-a731-4606-874f-7f6763101f8b)
+
 # [super skin](https://drive.google.com/file/d/1Xef77EeSk7K9Y_HyTvtKkKNfK01T6tPz/view?usp=sharing) (20/03/2024)
 ![screenshot252](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/4fcce491-95df-4309-be21-38701d4573d4)
 
 # [reedkatt but good](https://drive.google.com/file/d/1NGwi6HmibHfpV-fzzAOdwFS_XKe4S3dA/view?usp=sharing) (20/03/2024)
 ![screenshot407](https://github.com/user-attachments/assets/565a212c-73c0-493f-a103-c2ece974bc7a)
+
+# [- Aristia (Edit)](https://drive.google.com/file/d/1dc1tiswJHYopFlxqVH7NK9_DyirI9OkI/view?usp=sharing) (17/03/2024)
+![screenshot488](https://github.com/user-attachments/assets/b447dd4d-f2e1-4f47-9eb5-cdc14acd3e45)
 
 # [tko](https://drive.google.com/file/d/1rLJkvNlVdsGOpnvghj1J9_d2b__lP7kx/view?usp=sharing) (05/03/2024)
 ![screenshot258](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/2f3728dc-ba81-4142-b2a8-a5779181a698)
