@@ -1,4 +1,4 @@
-# Compilation of 172 skins Maliszewski has used since mid 2022
+# Compilation of 173 skins Maliszewski has used since mid 2022
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -306,6 +306,9 @@
 
 # [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1RGA5CrsohxgTLOAhKeckhBziS-EdwwLp/view?usp=sharing) (21/12/2023)
 ![screenshot269](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8bd29757-6ed3-41cd-bad2-a2ae353411bc)
+
+# [MonkoGlassTest maliszewski (?)](https://drive.google.com/file/d/12hjzHZ8cWTb2XsRK82OAsllBc3xVf-4T/view?usp=sharing) (17/12/2023)
+![screenshot491](https://github.com/user-attachments/assets/8bdf3468-b2b4-4a59-92f2-e9203b58ab48)
 
 # [adam fcledi mq (?)](https://drive.google.com/file/d/1W6VQhLx4TGjOZQX7gwo7JaVEv93dFI55/view?usp=sharing) (27/11/2023)
 ![screenshot300](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/cdac47b9-a756-46d6-a807-657432a36dbd)
