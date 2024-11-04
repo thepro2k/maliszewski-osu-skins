@@ -295,8 +295,8 @@
 # [yebalnix rekty (?)](https://drive.google.com/file/d/1RhxTJyqJFPYE0shldIiH2-ByRGiQc0Fr/view?usp=sharing) (03/01/2024)
 ![screenshot265](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/058edd18-ec31-4092-9a34-dc78f65a7079)
 
-# [zedytowana Aristia](https://drive.google.com/file/d/1ATzQcqLLqBTLnadxfmHMXYOr9emGrhfW/view?usp=sharing) (29/12/2023)
-![screenshot268](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/75e23a6b-c2e6-4e65-8198-3d4a4817d531)
+# [zedytowana Aristia](https://drive.google.com/file/d/1y3tVaQ4pzK610jsLbh8Ew6nnAQZqoW03/view?usp=sharing) (29/12/2023)
+![screenshot493](https://github.com/user-attachments/assets/019d4a39-914a-46ba-8c86-2d124243c6b2)
 
 # [tekkito legoshii](https://drive.google.com/file/d/1cUlxTYmEmDJGsHeD4XKPM7xEdLQKSGIP/view?usp=sharing ) (28/12/2023)
 ![screenshot254](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/46ec6d8f-e513-47ab-a977-f0d518c4389e)
@@ -304,8 +304,8 @@
 # [yebalnix](https://drive.google.com/file/d/1RY1iofWjfD22XnPkrLzLu4uTUWiNCv7K/view?usp=sharing) (26/12/2023)
 ![screenshot264](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e51c1364-95ce-491c-af99-273872b96098)
 
-# [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1RGA5CrsohxgTLOAhKeckhBziS-EdwwLp/view?usp=sharing) (21/12/2023)
-![screenshot269](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8bd29757-6ed3-41cd-bad2-a2ae353411bc)
+# [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1uDctjxuJqzmUZzWsdlnIe-BR8yibxxex/view?usp=sharing) (21/12/2023)
+![screenshot494](https://github.com/user-attachments/assets/6cb571fd-7c72-4a17-930a-12aed8fa2580)
 
 # [MonkoGlassTest maliszewski (?)](https://drive.google.com/file/d/12hjzHZ8cWTb2XsRK82OAsllBc3xVf-4T/view?usp=sharing) (17/12/2023)
 ![screenshot491](https://github.com/user-attachments/assets/8bdf3468-b2b4-4a59-92f2-e9203b58ab48)
@@ -379,11 +379,11 @@
 # [‎‎czysty do dt](https://drive.google.com/file/d/1FcDscRD-GeUrsgyb7apGLsZwenLNxtRo/view?usp=sharing) (15/09/2023)
 ![screenshot424](https://github.com/user-attachments/assets/7f99a35f-9b6d-405b-a97e-5d4222b3ccfd)
 
-# [azerino2023 enrisliderb (?)](https://drive.google.com/file/d/1iHvBOrfpJXI28Mt083soMtzGAz4IwxRA/view?usp=sharing) (27/08/2023)
-![screenshot185](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/94b1f97b-ef1c-4feb-b99f-e3e3fe84bc34)
-
 # [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing) (26/08/2023)
 ![screenshot238](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a9256372-5be3-477e-ad1c-0682471475f1)
+
+# [azerino2023 enrisliderb (?)](https://drive.google.com/file/d/1lhtQtQkTLDKWhAnQHDacuYkiWbC2KWA1/view?usp=sharing) (23/08/2023)
+![screenshot492](https://github.com/user-attachments/assets/88ec03d0-2f99-4b4e-b17e-247d57c781be)
 
 # [lugia](https://drive.google.com/file/d/1YKFkTkPnjhoDRU6McX_qvbZZDhBnQQpD/view?usp=sharing) (21/08/2023)
 ![screenshot422](https://github.com/user-attachments/assets/9e216068-4f2c-4507-bb76-356e2fa730b0)
@@ -415,7 +415,7 @@
 # [czare](https://drive.google.com/file/d/1gQE9R_NjfWL8R1QuC2zFEtqzmUps-xQs/view?usp=sharing) (15/07/2023)
 ![screenshot199](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9be62e98-f500-46c7-bcf4-d927eb98dd0f)
 
-# [lugia dt](https://drive.google.com/file/d/1j1zpq9uU_SjPcjRbO_maoEcZdTCStYRq/view?usp=sharing) (14/07/2023)
+# [lugia dt](https://drive.google.com/file/d/1uDctjxuJqzmUZzWsdlnIe-BR8yibxxex/view?usp=sharing) (14/07/2023)
 ![screenshot231](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/12da96a8-4d17-483f-a9cf-bb9dc7c3528b)
 
 # [tekkito2](https://drive.google.com/file/d/1D5duU7V_mkFj81vos5xhGkjYSTiwML0A/view?usp=sharing) (13/07/2023)
