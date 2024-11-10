@@ -1,4 +1,4 @@
-# Compilation of 174 skins Maliszewski has used since mid 2022
+# Compilation of 175 skins Maliszewski has used since mid 2022
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -6,6 +6,7 @@
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
 # - Most skins this doc are remakes
 # - If you see (?) it means the real name of a skin in unknown or just reused the name of another skin
+# - Most skins with weird names are were named after the title of the yt vid where malisz used it
 # - Needless to say, I can't guarantee every remake is 100% accurate, especially bc the footage i have of some skins is really limited 
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
 # - For questions/suggestions/anything else DM me in discord or in game
@@ -36,6 +37,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [azerino stare A-L-I-E-N SS CHOKE LOL!! 3x100 slow part](https://drive.google.com/file/d/1b0VCRb_3nMHbHoNK0aMsBA-JGtguOI3o/view?usp=sharing) (10/11/2024)
+![screenshot513](https://github.com/user-attachments/assets/8b88afc1-f427-491a-9d91-3230982480a8)
 
 # [azerino stare Crazy SS Lol xD 👅 (?)](https://drive.google.com/file/d/1kv2B93PPRmtOP_iL7QQFDLgu4mMrORjp/view?usp=sharing) (02/11/2024)
 ![screenshot484](https://github.com/user-attachments/assets/119ce813-a807-4fff-886b-363b7ad161cf)
