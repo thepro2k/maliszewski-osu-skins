@@ -1,4 +1,4 @@
-# Compilation of 175 skins Maliszewski has used since mid 2022
+# Compilation of 176 skins Maliszewski has used since mid 2022
 
  
  # My profile: https://osu.ppy.sh/users/16323209
@@ -37,6 +37,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [azerino t (?)](https://drive.google.com/file/d/1ZyZbAzRMQqrwt_4K-aCDi2-ZXP7HwzsA/view?usp=sharing) (12/11/2024)
+![screenshot516](https://github.com/user-attachments/assets/05f8b706-95df-444c-b77d-ae78554a63b9)
 
 # [azerino stare A-L-I-E-N SS CHOKE LOL!! 3x100 slow part](https://drive.google.com/file/d/1b0VCRb_3nMHbHoNK0aMsBA-JGtguOI3o/view?usp=sharing) (10/11/2024)
 ![screenshot513](https://github.com/user-attachments/assets/8b88afc1-f427-491a-9d91-3230982480a8)
