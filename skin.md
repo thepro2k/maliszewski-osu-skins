@@ -1,5 +1,7 @@
-# Compilation of 176 skins Maliszewski has used since mid 2022
+ # Compilation of 177 skins Maliszewski has used since mid 2022
+ # maliszewski skins
 
+ <br>
  
  # My profile: https://osu.ppy.sh/users/16323209
  ‎ 
@@ -38,10 +40,13 @@
 
 </details>
 
-# [AZERINO](https://drive.google.com/file/d/1Z4eI7PGYCKDlghYKd1IH5qtJRfYznvNU/view?usp=sharing) (12/11/2024)
+# [azerino2023 deathwish 99.72 1sb + terminal cancer 👣](https://drive.google.com/file/d/1Z4eI7PGYCKDlghYKd1IH5qtJRfYznvNU/view?usp=sharing) (12/11/2024)
+![screenshot520](https://github.com/user-attachments/assets/0ce689e1-5131-4d78-b7e6-ccaeae9071d0)
+
+# [AZERINO](https://drive.google.com/file/d/1VXogb7aQo65Ttoy1vTh0mQ40qJBwuG_g/view?usp=drive_link) (12/11/2024)
 ![screenshot516](https://github.com/user-attachments/assets/05f8b706-95df-444c-b77d-ae78554a63b9)
 
-# [azerino stare A-L-I-E-N SS CHOKE LOL!! 3x100 slow part](https://drive.google.com/file/d/1eBaQh71PYkOXDYwi9M45Ho18yeIC-JX2/view?usp=sharing) (10/11/2024)
+# [azerino stare A-L-I-E-N SS CHOKE LOL!! 3x100 slow part](https://drive.google.com/file/d/1AiY6d5IMk7cg4Esw2S7j6jExQ5tU1PbE/view?usp=drive_link) (10/11/2024)
 ![screenshot513](https://github.com/user-attachments/assets/8b88afc1-f427-491a-9d91-3230982480a8)
 
 # [azerino stare Crazy SS Lol xD 👅 (?)](https://drive.google.com/file/d/1kv2B93PPRmtOP_iL7QQFDLgu4mMrORjp/view?usp=sharing) (02/11/2024)
@@ -134,7 +139,7 @@
 # [riot - overkill hr fc 99.77 (?)](https://drive.google.com/file/d/1gYpcfZ3jGoyM_UpleP07faRx2pDzZpo9/view?usp=sharing) (28/06/2024)
 ![screenshot323](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/5433cb9a-a3c2-4af3-a8d6-4fed9baa1952)
 
-# [turboczibul](https://drive.google.com/file/d/16hqbE47u3oN5XSEk5LOmSfkHYIKUYUfp/view?usp=sharing) (23/06/2024)
+# [turboczibul](https://drive.google.com/file/d/1b9-baJpBRn4UwQ41e3b3JOPhuPAqCb3_/view?usp=sharing) (23/06/2024)
 ![screenshot313](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/7dd0f4e2-c570-4ae2-9dd8-988d3839d663)
 
 # [rektygon poddymiony](https://drive.google.com/file/d/1gOCHXAEMG3UrUOSZZYt369CM-uGReY_V/view?usp=sharing) (19/06/2024)
