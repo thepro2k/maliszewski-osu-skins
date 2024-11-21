@@ -397,8 +397,8 @@
 # [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing) (26/08/2023)
 ![screenshot238](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/a9256372-5be3-477e-ad1c-0682471475f1)
 
-# [azerino2023 enrisliderb (?)](https://drive.google.com/file/d/1lhtQtQkTLDKWhAnQHDacuYkiWbC2KWA1/view?usp=sharing) (23/08/2023)
-![screenshot492](https://github.com/user-attachments/assets/88ec03d0-2f99-4b4e-b17e-247d57c781be)
+# [azerino2023 enrisliderb (?)](https://drive.google.com/file/d/1cN6Pamrg9TZc0yoxKvFAJ7B01NcKD-7f/view?usp=sharing) (23/08/2023)
+![screenshot522](https://github.com/user-attachments/assets/73dfd889-77e4-44be-8d3e-126e20fbb4ad)
 
 # [lugia](https://drive.google.com/file/d/1YKFkTkPnjhoDRU6McX_qvbZZDhBnQQpD/view?usp=sharing) (21/08/2023)
 ![screenshot422](https://github.com/user-attachments/assets/9e216068-4f2c-4507-bb76-356e2fa730b0)
