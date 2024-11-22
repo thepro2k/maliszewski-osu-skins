@@ -40,7 +40,7 @@
 
 </details>
 
-# [azerino2023 deathwish 99.72 1sb + terminal cancer 👣](https://drive.google.com/file/d/1SbF0p37BHb9ozchF5N87z-Z6FwK88E4f/view?usp=sharing) (18/11/2024)
+# [azerino2024](https://drive.google.com/file/d/19AD-tDJVzfrdN38SJWP_g1I57vlCJVKl/view?usp=sharing) (18/11/2024)
 ![screenshot520](https://github.com/user-attachments/assets/0ce689e1-5131-4d78-b7e6-ccaeae9071d0)
 
 # [AZERINO](https://drive.google.com/file/d/1VXogb7aQo65Ttoy1vTh0mQ40qJBwuG_g/view?usp=drive_link) (12/11/2024)
