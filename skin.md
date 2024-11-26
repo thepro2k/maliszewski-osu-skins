@@ -40,9 +40,9 @@
 
 </details>
 
-All malisz clips/vods/highlights/yt vids are now deleted/private
-with that, i really dont expect any new skins for a very long time (though this doc will be updated if there are)
-07
+# All malisz clips/vods/highlights/yt vids are now deleted/private
+# with that, i really dont expect any new skins for a very long time (though this doc will be updated if there are)
+# 07
 
 # [azerino2024](https://drive.google.com/file/d/19AD-tDJVzfrdN38SJWP_g1I57vlCJVKl/view?usp=sharing) (18/11/2024)
 ![screenshot520](https://github.com/user-attachments/assets/0ce689e1-5131-4d78-b7e6-ccaeae9071d0)
