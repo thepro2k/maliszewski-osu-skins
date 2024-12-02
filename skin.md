@@ -1,4 +1,4 @@
- # Compilation of 178 skins Maliszewski has used since mid 2022
+ # Compilation of 179 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -39,6 +39,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [rafis](https://drive.google.com/file/d/1pV_ZmTaHBMHhT8_9VvGPgbvvofqahve6/view?usp=sharing) (02/12/2024)
+![screenshot524](https://github.com/user-attachments/assets/1b18675d-8a35-4926-8b96-83a08de4c2ba)
 
 # [malteser](https://drive.google.com/file/d/1WsiFbLJH7mxWIqayoMezptUZE2mTF6fH/view?usp=sharing) (02/12/2024)
 ![screenshot523](https://github.com/user-attachments/assets/d3b764ad-31fc-42e1-ab13-69e9af3dacab)
