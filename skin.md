@@ -1,4 +1,4 @@
- # Compilation of 177 skins Maliszewski has used since mid 2022
+ # Compilation of 178 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -40,8 +40,8 @@
 
 </details>
 
-# All malisz clips/vods/highlights/yt vids are now deleted/private
-# with that, i really dont expect any new skins for a very long time (though this doc will be updated if there are any)
+# [malteser](https://drive.google.com/file/d/1WsiFbLJH7mxWIqayoMezptUZE2mTF6fH/view?usp=sharing) (02/12/2024)
+![screenshot523](https://github.com/user-attachments/assets/d3b764ad-31fc-42e1-ab13-69e9af3dacab)
 
 # [azerino2024](https://drive.google.com/file/d/19AD-tDJVzfrdN38SJWP_g1I57vlCJVKl/view?usp=sharing) (18/11/2024)
 ![screenshot520](https://github.com/user-attachments/assets/0ce689e1-5131-4d78-b7e6-ccaeae9071d0)
