@@ -1,4 +1,4 @@
- # Compilation of 180 skins Maliszewski has used since mid 2022
+ # Compilation of 181 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -8,7 +8,7 @@
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
 # - Most skins this doc are remakes
 # - If you see (?) it means the real name of a skin in unknown or just reused the name of another skin
-# - Most skins with weird names are were named after the title of the yt vid where malisz used it
+# - Most skins with weird names were named after the title of the yt vid where malisz used them
 # - Needless to say, I can't guarantee every remake is 100% accurate, especially bc the footage i have of some skins is really limited 
 # - Skins tagged with the symbol ☑ were exported by malisz
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
@@ -41,7 +41,7 @@
 
 </details>
 
-# [☑malteser](https://drive.google.com/file/d/1Hut1nDYvfWjqGzNjnrSqUfVJx-ReHBzG/view?usp=sharing) (diff hitcircleoverlay, ranks and combobreak (4/12/2024)
+# [☑malteser](https://drive.google.com/file/d/1Hut1nDYvfWjqGzNjnrSqUfVJx-ReHBzG/view?usp=sharing) (4/12/2024) - diff hitcircleoverlay, ranks and combobreak
 ![screenshot526](https://github.com/user-attachments/assets/dfdb75e3-c40c-4b3e-aabe-7bcefb923ca6)
 
 # [Tio Rene](https://drive.google.com/file/d/1Ds-A6PQ5rhXqMErhMaMOFgiyMgYDxM12/view?usp=sharing) (04/12/2024)
@@ -101,10 +101,10 @@
 # [rektygon_editnov](https://drive.google.com/file/d/1f-PjnpjZb7ZaH7t1xh4uwrI4qF2xZoN3/view?usp=sharing) (17/08/2024) 
 ![screenshot384](https://github.com/user-attachments/assets/2a7dfd6c-a862-4969-9d31-6d8380a17165)
 
-# [tekkito_ietherial (?)](https://drive.google.com/file/d/1xhxKfXCjNTqp8_l-JkaozKkuDF8JEbqS/view?usp=sharing) (17/08/2024) 
+# [tekkito_ietherial](https://drive.google.com/file/d/1xhxKfXCjNTqp8_l-JkaozKkuDF8JEbqS/view?usp=sharing) (17/08/2024) 
 ![screenshot382](https://github.com/user-attachments/assets/69318627-c742-4ad2-a0ff-afd4e0e90417)
 
-# [tekkito_ietherial - kopia](https://drive.google.com/file/d/1LnMkar15_Qf3jB5l-F4DJ2RCjg_52QQZ/view?usp=sharing) (11/08/2024) 
+# [tekkito_ietherial — kopia](https://drive.google.com/file/d/1LnMkar15_Qf3jB5l-F4DJ2RCjg_52QQZ/view?usp=sharing) (11/08/2024) 
 ![screenshot381](https://github.com/user-attachments/assets/36d39e11-0972-4a17-aef8-21712f4fcf0f)
 
 # [boop inne hitsoundy](https://drive.google.com/file/d/11NgTv4rVgZqOORnEM4Dimb3ybMYoHtVu/view?usp=sharing) (10/08/2024) - diff cursor and hitsounds 
@@ -164,7 +164,7 @@
 # [aristia poddymiona](https://drive.google.com/file/d/1caX7X-2HWiNkGTmweZsEmEEv89b_owpZ/view?usp=sharing) (04/06/2024)
 ![screenshot173](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/93bd4cf6-2eb7-4e53-885d-5e0c4964affa)
 
-# [aristia aknzx glizwhite blue (malisz edit) (?)](https://drive.google.com/file/d/1Ye6CgPZH3n-2gVXYlPceq9QPozGpjv3P/view?usp=sharing)  (03/06/2024)
+# [aristia aknzx glizwhite blue](https://drive.google.com/file/d/1Ye6CgPZH3n-2gVXYlPceq9QPozGpjv3P/view?usp=sharing)  (03/06/2024)
 ![screenshot171](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f41563a0-275d-40dd-836f-7044291af5a4)
 
 # [☑swirson michael](https://drive.google.com/file/d/1iGCKozZbqwgYFPCInBhjqDenWEjjztAm/view?usp=sharing) (02/06/2024)
@@ -203,7 +203,7 @@
 # [+GN](https://drive.google.com/file/d/1acEPTXfe_Mg5xn76aCg3aByJym2C-MiC/view?usp=sharing) (05/05/2024)
 ![screenshot360](https://github.com/user-attachments/assets/1dbd2eb0-ee75-4457-a5bb-cab30bdb07f2)
 
-# [azerino stare + iethereal (?)](https://drive.google.com/file/d/1fa5fW3H5u78lNRvHiry8sbfqcyQhB1VK/view?usp=sharing) (04/05/2024)
+# [azerino stare](https://drive.google.com/file/d/1fa5fW3H5u78lNRvHiry8sbfqcyQhB1VK/view?usp=sharing) (04/05/2024)
 ![screenshot135](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/007151ab-4392-4caa-8d2d-3f87dce84baa)
 
 # [azerino stare](https://drive.google.com/file/d/1Af_2_QDmK0rkmxgTXDwA78FZrt5VZsTm/view?usp=sharing) (04/05/2024)
@@ -221,7 +221,7 @@
 # [MISKAMODELKA](https://drive.google.com/file/d/19rAWAXO8jfukVpfSWhu6CmpnC-u228G0/view?usp=sharing) (02/05/2024)
 ![screenshot358](https://github.com/user-attachments/assets/9f8864cf-7fb0-4a89-86cc-314b8c5de405)
 
-# [tkori_r2 (?)](https://drive.google.com/file/d/1uyGKxgZMZedUimyi6Mgxr1t6rJO_DJrU/view?usp=sharing) (29/04/2024)
+# [tkori_r2](https://drive.google.com/file/d/1uyGKxgZMZedUimyi6Mgxr1t6rJO_DJrU/view?usp=sharing) (29/04/2024)
 ![screenshot260](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ae3f03b0-0d95-4f3a-a69f-f0d5677f81b3)
 
 # [tkori_r2](https://drive.google.com/file/d/1Wq0oZVrOHd7EMZcMpbEponoMnJdTe0ml/view?usp=sharing) (29/04/2024)
@@ -290,7 +290,7 @@
 # [tekk kabl](https://drive.google.com/file/d/1qJNQs_2Ebacgr_5siKJfMRoUVjD1M3eN/view?usp=sharing) (02/03/2024)
 ![screenshot253](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/6f200a90-69bb-4f17-aea6-befd377d5a7d)
 
-# [dffd rekty (?) ](https://drive.google.com/file/d/1PgocW1ZfVSmMn8w8sDrBMtsXz9PU-LUz/view?usp=sharing) (22/02/2024)
+# [dffd](https://drive.google.com/file/d/1PgocW1ZfVSmMn8w8sDrBMtsXz9PU-LUz/view?usp=sharing) (22/02/2024)
 ![screenshot211](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ac4e61d6-671a-449a-9473-53906b990a42)
 
 # [dffd](https://drive.google.com/file/d/197C9-QqLhPeZe5va7UIHfSQvB9P-o6Tz/view?usp=sharing) (20/02/2024)
@@ -311,13 +311,13 @@
 # [yebalnixax](https://drive.google.com/file/d/19-lmocb9dLKI5eaON66BzOnC9C1lsIL2/view?usp=sharing) (06/01/2024)
 ![screenshot267](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/fd40f102-157a-471e-b63b-320556013853)
 
-# [yebalnix Nacreous Snowmelt 2 (?)](https://drive.google.com/file/d/118Rw7bRFHwtMBzNquLUazPHhNHhr43VD/view?usp=sharing) (03/01/2024)
+# [yebalnix](https://drive.google.com/file/d/118Rw7bRFHwtMBzNquLUazPHhNHhr43VD/view?usp=sharing) (03/01/2024)
 ![screenshot476](https://github.com/user-attachments/assets/1849d4f5-aaff-43f9-b146-0627aca9acb7)
 
-# [yebalnix Nacreous Snowmelt (?)](https://drive.google.com/file/d/1e6DO7pr7dUHYgjKaA4NruqbR8UKNdIOk/view?usp=sharing) (03/01/2024)
+# [yebalnix](https://drive.google.com/file/d/1e6DO7pr7dUHYgjKaA4NruqbR8UKNdIOk/view?usp=sharing) (03/01/2024)
 ![screenshot266](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/90c8fc7e-41ec-4f75-9c1a-4729222e084a)
 
-# [yebalnix rekty (?)](https://drive.google.com/file/d/1RhxTJyqJFPYE0shldIiH2-ByRGiQc0Fr/view?usp=sharing) (03/01/2024)
+# [yebalnix](https://drive.google.com/file/d/1RhxTJyqJFPYE0shldIiH2-ByRGiQc0Fr/view?usp=sharing) (03/01/2024)
 ![screenshot265](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/058edd18-ec31-4092-9a34-dc78f65a7079)
 
 # [zedytowana Aristia](https://drive.google.com/file/d/1y3tVaQ4pzK610jsLbh8Ew6nnAQZqoW03/view?usp=sharing) (29/12/2023)
@@ -329,7 +329,7 @@
 # [☑yebalnix](https://drive.google.com/file/d/1RY1iofWjfD22XnPkrLzLu4uTUWiNCv7K/view?usp=sharing) (26/12/2023)
 ![screenshot264](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/e51c1364-95ce-491c-af99-273872b96098)
 
-# [zedytowana Aristia2 (?)](https://drive.google.com/file/d/1uDctjxuJqzmUZzWsdlnIe-BR8yibxxex/view?usp=sharing) (21/12/2023)
+# [zedytowana Aristia](https://drive.google.com/file/d/1uDctjxuJqzmUZzWsdlnIe-BR8yibxxex/view?usp=sharing) (21/12/2023)
 ![screenshot494](https://github.com/user-attachments/assets/6cb571fd-7c72-4a17-930a-12aed8fa2580)
 
 # [MonkoGlassTest maliszewski (?)](https://drive.google.com/file/d/12hjzHZ8cWTb2XsRK82OAsllBc3xVf-4T/view?usp=sharing) (17/12/2023)
