@@ -42,7 +42,7 @@
 </details>
 
 # [d](https://drive.google.com/file/d/1xtR-TfmMKJ15VKqN5hp2hGZZd6lPPorP/view?usp=sharing) (08/12/2024)
-![screenshot527](https://github.com/user-attachments/assets/eeeefd33-728b-49b3-8dec-a51197cc4828)
+![screenshot529](https://github.com/user-attachments/assets/efb9e40a-cf70-4733-b1de-b0d925ed71bf)
 
 # [☑malteser](https://drive.google.com/file/d/1Hut1nDYvfWjqGzNjnrSqUfVJx-ReHBzG/view?usp=sharing) (4/12/2024) - diff hitcircleoverlay, ranks and combobreak
 ![screenshot526](https://github.com/user-attachments/assets/dfdb75e3-c40c-4b3e-aabe-7bcefb923ca6)
