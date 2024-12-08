@@ -1,4 +1,4 @@
- # Compilation of 181 skins Maliszewski has used since mid 2022
+ # Compilation of 182 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -7,9 +7,9 @@
  ‎ 
 # - Includes skins malisz used on stream, in youtube videos and in twitter clips
 # - Most skins this doc are remakes
-# - If you see (?) it means the real name of a skin in unknown or just reused the name of another skin
+# - If you see (?) it means the real name of a skin is unknown
 # - Most skins with weird names were named after the title of the yt vid where malisz used them
-# - Needless to say, I can't guarantee every remake is 100% accurate, especially bc the footage i have of some skins is really limited 
+# - Needless to say, I can't guarantee every remake is 100% accurate, especially because the footage i have of some skins is really limited 
 # - Skins tagged with the symbol ☑ were exported by malisz
 # - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
 # - For questions/suggestions/anything else DM me in discord or in game
@@ -40,6 +40,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [d](https://drive.google.com/file/d/1xtR-TfmMKJ15VKqN5hp2hGZZd6lPPorP/view?usp=sharing) (08/12/2024)
+![screenshot527](https://github.com/user-attachments/assets/eeeefd33-728b-49b3-8dec-a51197cc4828)
 
 # [☑malteser](https://drive.google.com/file/d/1Hut1nDYvfWjqGzNjnrSqUfVJx-ReHBzG/view?usp=sharing) (4/12/2024) - diff hitcircleoverlay, ranks and combobreak
 ![screenshot526](https://github.com/user-attachments/assets/dfdb75e3-c40c-4b3e-aabe-7bcefb923ca6)
