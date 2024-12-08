@@ -348,19 +348,19 @@
 ![screenshot176](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f3bf5974-9bfa-4050-b4b3-fe03f98ea687)
 
 # [essaazerino](https://drive.google.com/file/d/1HvHNyFB0eLQvp5iZr21Lja8RdEV5yDf8/view?usp=sharing) (22/11/2023)
-![screenshot512](https://github.com/user-attachments/assets/1d3878c5-5e6a-402b-b530-5f77c86c1b6c)
+![screenshot535](https://github.com/user-attachments/assets/05da8413-46a0-4f46-9df8-491f9e694e9a)
 
 # [essaazerino](https://drive.google.com/file/d/1IhbLpgmdHsG4vI3um1h5VBdFbQRPJCjm/view?usp=sharing) (22/11/2023)
-![screenshot511](https://github.com/user-attachments/assets/4ef2a605-0fd5-45a3-a5a3-e853f2d82bc3)
+![screenshot532](https://github.com/user-attachments/assets/36fcb8a5-f551-4979-be4e-7f9dd6a6d0ff)
 
 # [essaazerino](https://drive.google.com/file/d/1oJ2kEpeU57iDWmzTZmTeYG9Q1JXmfWuO/view?usp=sharing) (22/11/2023)
-![screenshot510](https://github.com/user-attachments/assets/b0bc64b1-31af-4ffc-b473-609513719c50)
+![screenshot531](https://github.com/user-attachments/assets/b23c2a71-607e-4dcb-a144-216724f3c2c8)
 
 # [☑v](https://drive.google.com/file/d/1wDBI7r1FaMdNwCXUk84irTV_mGU7QeJZ/view?usp=sharing) (20/11/2023)
 ![screenshot261](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/341255ed-b50d-4941-b91c-38a9a4335b43)
 
 # [essaazerino](https://drive.google.com/file/d/1-cO6KLVHpWnIHjf4pqQhG0MIWAs_01fM/view?usp=sharing) (19/11/2023)
-![screenshot507](https://github.com/user-attachments/assets/8047b903-a4bd-4618-97e2-509baf23d5d2)
+![screenshot530](https://github.com/user-attachments/assets/01ae7c7b-7409-4195-be56-6d79f379f718)
 
 # [essahaga](https://drive.google.com/file/d/1UY-MJKfPJ7z0yYs50d07h472pR79nCNq/view?usp=sharing) (18/11/2023)
 ![screenshot436](https://github.com/user-attachments/assets/a571c576-2698-436c-bfd0-f3593743116e)
