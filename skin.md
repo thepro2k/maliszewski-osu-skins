@@ -57,7 +57,7 @@
 ![screenshot523](https://github.com/user-attachments/assets/d3b764ad-31fc-42e1-ab13-69e9af3dacab)
 
 # [azerino2024](https://drive.google.com/file/d/19AD-tDJVzfrdN38SJWP_g1I57vlCJVKl/view?usp=sharing) (18/11/2024)
-![screenshot520](https://github.com/user-attachments/assets/0ce689e1-5131-4d78-b7e6-ccaeae9071d0)
+![screenshot528](https://github.com/user-attachments/assets/cb49dd5b-3d95-4df2-aaa4-705faacc7807)
 
 # [AZERINO](https://drive.google.com/file/d/1VXogb7aQo65Ttoy1vTh0mQ40qJBwuG_g/view?usp=drive_link) (12/11/2024)
 ![screenshot516](https://github.com/user-attachments/assets/05f8b706-95df-444c-b77d-ae78554a63b9)
