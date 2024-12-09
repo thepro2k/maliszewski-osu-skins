@@ -60,7 +60,7 @@
 ![screenshot528](https://github.com/user-attachments/assets/cb49dd5b-3d95-4df2-aaa4-705faacc7807)
 
 # [AZERINO](https://drive.google.com/file/d/1VXogb7aQo65Ttoy1vTh0mQ40qJBwuG_g/view?usp=drive_link) (12/11/2024)
-![screenshot516](https://github.com/user-attachments/assets/05f8b706-95df-444c-b77d-ae78554a63b9)
+![screenshot537](https://github.com/user-attachments/assets/4944ec5d-37c4-413a-9290-fcc3bfafa62d)
 
 # [azerino stare A-L-I-E-N SS CHOKE LOL!! 3x100 slow part](https://drive.google.com/file/d/1AiY6d5IMk7cg4Esw2S7j6jExQ5tU1PbE/view?usp=drive_link) (10/11/2024)
 ![screenshot513](https://github.com/user-attachments/assets/8b88afc1-f427-491a-9d91-3230982480a8)
