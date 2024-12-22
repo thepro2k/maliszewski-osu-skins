@@ -42,7 +42,7 @@
 </details>
 
 # [zadymiarz](https://drive.google.com/file/d/12y4eVG-XbpPQHsGj7nEPT2oWKRqMYEMc/view?usp=sharing) (21/12/2024)
-![screenshot545](https://github.com/user-attachments/assets/2dc94d6d-5ef8-4c01-82e8-4b1958675943)
+![screenshot547](https://github.com/user-attachments/assets/0ace0ac9-ae5c-40fe-aa1a-22c6be0f114d)
 
 # [zadymiarz](https://drive.google.com/file/d/1Efw7U-AFfE888R8cqxDTQFPUQljZXdWQ/view?usp=sharing) (13/12/2024) - changed followpoints and followcircle
 ![screenshot543](https://github.com/user-attachments/assets/43947761-0ea7-4408-8285-f511e169a78e)
