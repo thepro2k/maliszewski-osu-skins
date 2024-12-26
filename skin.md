@@ -458,7 +458,7 @@
 # [☑czare](https://drive.google.com/file/d/1gQE9R_NjfWL8R1QuC2zFEtqzmUps-xQs/view?usp=sharing) (14/07/2023)
 ![screenshot199](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9be62e98-f500-46c7-bcf4-d927eb98dd0f)
 
-# [lugia dt](https://drive.google.com/file/d/1uDctjxuJqzmUZzWsdlnIe-BR8yibxxex/view?usp=sharing) (14/07/2023)
+# [lugia dt](https://drive.google.com/file/d/15u5mR45sLRvi3aWQx_RwO6v25ZB7k92M/view?usp=drive_link) (14/07/2023)
 ![screenshot231](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/12da96a8-4d17-483f-a9cf-bb9dc7c3528b)
 
 # [tekkito2](https://drive.google.com/file/d/1D5duU7V_mkFj81vos5xhGkjYSTiwML0A/view?usp=sharing) (13/07/2023)
