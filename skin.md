@@ -399,7 +399,7 @@
 ![screenshot146](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f97fc654-64a8-422f-9baa-2c06ceace626)
  
  # [azerinobombardeditowany](https://drive.google.com/file/d/1GGRBCYQ23uN6vKcXKvDlCZVKtv-U-Hip/view?usp=sharing) (22/10/2023)
-![screenshot189](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9d55b183-de58-4866-a3f6-2cccc7efdeb6)
+![screenshot554](https://github.com/user-attachments/assets/c64ca050-d67f-41a2-8b51-e7884200bdf6)
 
 # [Michni DT Bambique](https://drive.google.com/file/d/1EtcMNRPrioa2pwHfn-WB5VPdvoJ884fr/view?usp=sharing) (22/10/2023)
 ![screenshot236](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/76ccbbec-f0af-4775-970a-4665eaa77e9c)
