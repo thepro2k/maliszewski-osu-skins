@@ -1,4 +1,4 @@
- # Compilation of 187 skins Maliszewski has used since mid 2022
+ # Compilation of 188 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -40,6 +40,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [fukari alt](https://drive.google.com/file/d/1t5AWJ4QYdx6vcxzx92Svk6RC85ww_T7v/view?usp=sharing) (01/01/2025) (played with beatmap combo colors)
+![screenshot557](https://github.com/user-attachments/assets/1bc73fa1-74aa-45d9-8968-30edcb2574f2)
 
 # [tekkito_ietherial](https://drive.google.com/file/d/1UEaOeoXU5LWkGnXm3T6KaH1gf9r78N4h/view?usp=sharing) (27/12/2024)
 ![screenshot550](https://github.com/user-attachments/assets/59a2f9bf-1b9a-457e-bedc-a49f25c5ae9e)
