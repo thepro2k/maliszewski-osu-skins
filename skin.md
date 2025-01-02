@@ -41,6 +41,9 @@
 
 </details>
 
+# [- # # #Aristia# - - kamui 1-2 ygb](https://mega.nz/file/CKZ1xLQS#0VTLEg7ddUK1b4q3SruYyozKhgmigtKm9Sfh_hPdJ4Q) (02/01/2025)
+![screenshot558](https://github.com/user-attachments/assets/8fdf6693-9b79-436a-ad29-9ead7dab5bfe)
+
 # [fukari alt](https://drive.google.com/file/d/1t5AWJ4QYdx6vcxzx92Svk6RC85ww_T7v/view?usp=sharing) (01/01/2025) (played with beatmap combo colors)
 ![screenshot557](https://github.com/user-attachments/assets/1bc73fa1-74aa-45d9-8968-30edcb2574f2)
 
@@ -206,8 +209,6 @@
 # [‎a (splity edit) malisz edit (?)](https://drive.google.com/file/d/1e5vTf923Tw5BYF6ZMdel6A9fhOQJ_IiA/view?usp=sharing) (26/05/2024)
 ![screenshot168](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d44dc47f-60c4-427f-bbcb-64bf1ff60633)
 
-# [‎aristia g (?)](https://drive.google.com/file/d/1jLjdvkomrY4W6OLNk5oY9P5VB23HBPf1/view?usp=sharing) (26/05/2024)
-![screenshot478](https://github.com/user-attachments/assets/198a64f8-8137-47ee-8554-d4cc304858d2)
 
 # [wooz](https://drive.google.com/file/d/1Hzzey7ZOlvU7S2fncGfrz5KA8KuSS5D-/view?usp=sharing) (22/05/2024)
 ![screenshot158](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/98dd7c06-cf74-4aad-96ee-8d6f8ff54165)
@@ -253,6 +254,9 @@
 
 # [bobiakk](https://drive.google.com/file/d/1V6CYjWH79wB9tm9jnA6j7PlgxOIvmy2Y/view?usp=sharing) (27/04/2024)
 ![screenshot193](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/ac331cfc-c264-4b7b-8f40-4bf2b0176be3)
+
+# [‎aristia g (?)](https://drive.google.com/file/d/1jLjdvkomrY4W6OLNk5oY9P5VB23HBPf1/view?usp=sharing) (26/04/2024)
+![screenshot478](https://github.com/user-attachments/assets/198a64f8-8137-47ee-8554-d4cc304858d2)
 
 # [☑cheebull](https://drive.google.com/file/d/118-3lY5UhsAj9BSqdPFt84qCiVT2Hz1Y/view?usp=sharing) (25/04/2024)
 ![screenshot209](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/89bd51de-4ce1-4406-bf28-0aba8ba70a04)
