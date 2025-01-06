@@ -382,7 +382,7 @@
 ![screenshot261](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/341255ed-b50d-4941-b91c-38a9a4335b43)
 
 # [essaazerino](https://drive.google.com/file/d/1-cO6KLVHpWnIHjf4pqQhG0MIWAs_01fM/view?usp=sharing) (19/11/2023)
-![screenshot530](https://github.com/user-attachments/assets/01ae7c7b-7409-4195-be56-6d79f379f718)
+![screenshot559](https://github.com/user-attachments/assets/1332dda9-bebf-4415-95ef-965ef414b856)
 
 # [essahaga](https://drive.google.com/file/d/1UY-MJKfPJ7z0yYs50d07h472pR79nCNq/view?usp=sharing) (18/11/2023)
 ![screenshot436](https://github.com/user-attachments/assets/a571c576-2698-436c-bfd0-f3593743116e)
