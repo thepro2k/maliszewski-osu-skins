@@ -1,4 +1,4 @@
- # Compilation of 189 skins Maliszewski has used since mid 2022
+ # Compilation of 190 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -40,6 +40,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [zadymiarz](https://drive.google.com/file/d/1HmVJT_Zeq0bURzise-ukLNZoWgngUTjq/view?usp=sharing) (02/01/2025)
+![screenshot560](https://github.com/user-attachments/assets/ffb5e988-bbb7-4125-b22e-9961edfcf350)
 
 # [- # # #Aristia# - - kamui 1-2 ygb](https://mega.nz/file/CKZ1xLQS#0VTLEg7ddUK1b4q3SruYyozKhgmigtKm9Sfh_hPdJ4Q) (02/01/2025)
 ![screenshot558](https://github.com/user-attachments/assets/8fdf6693-9b79-436a-ad29-9ead7dab5bfe)
