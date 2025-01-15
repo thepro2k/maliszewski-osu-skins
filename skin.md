@@ -41,6 +41,9 @@
 
 </details>
 
+MALISZ YOUTUBE IS BACK WITH 171 VIDS
+gonna take me a couple weeks to look through everything but im so happy
+
 # [zadymiarz](https://drive.google.com/file/d/1HmVJT_Zeq0bURzise-ukLNZoWgngUTjq/view?usp=sharing) (08/01/2025)
 ![screenshot560](https://github.com/user-attachments/assets/ffb5e988-bbb7-4125-b22e-9961edfcf350)
 
