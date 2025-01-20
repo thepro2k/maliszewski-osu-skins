@@ -1,4 +1,4 @@
- # Compilation of 190 skins Maliszewski has used since mid 2022
+ # Compilation of 193 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -502,14 +502,23 @@
 # [☑azerino2023](https://drive.google.com/file/d/1AGpJchi-45tWSV17RkNsznGPlibSrpzh/view?usp=sharing) (30/05/2023)
  ![screenshot187](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/c69a250d-188f-4304-b346-7ab606dc01e4)
 
-# [tekkito2 vskf 404 (?)](https://drive.google.com/file/d/1aCG0DVS9sXqUSZSWWjwSFXfh1etNpTSy/view?usp=sharing) (14/05/2023) 
+# [tekkito2_vskf](https://drive.google.com/file/d/1aCG0DVS9sXqUSZSWWjwSFXfh1etNpTSy/view?usp=sharing) (14/05/2023) 
 ![screenshot419](https://github.com/user-attachments/assets/8e462683-1f1f-4b16-bde5-492b63075d06)
 
 # [monkomaliszedit](https://drive.google.com/file/d/1RXwKedSjx6-7mBCyqXEFA6HBKj-RVPJw/view?usp=sharing) (14/05/2023) 
 ![screenshot420](https://github.com/user-attachments/assets/6e57dd2b-9989-486c-a3a9-7dc676feca62)
 
-# [tekkito2 vskf](https://drive.google.com/file/d/1f7z1FPcUitEE5EqAk-QMUhNDqdEWu3lc/view?usp=sharing) (2/05/2023) 
-![screenshot296](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/49b1bc8f-9bc3-4952-bf78-0276e2ec54d8)
+# [tekkito2_vskf](https://drive.google.com/file/d/16rQfzOlyxYeK-JEp6Pk_SiOdg6ba-heo/view?usp=sharing) (07/05/2023) 
+![screenshot573](https://github.com/user-attachments/assets/38ea57e9-5e36-4c94-a959-f558e97068fd)
+
+# [tekkito2_vskf](https://drive.google.com/file/d/137epQ8FN5nqfJdmDtYUjeNHuGa0qnKEj/view?usp=sharing) (05/05/2023) 
+![screenshot574](https://github.com/user-attachments/assets/56e7db84-9e32-421f-a5c6-9087d3eafeb6)
+
+# [tekkito2_ryan](https://drive.google.com/file/d/1sZI9ijKVeayuGtdQY96Dq8O49H24mecn/view?usp=sharing) (05/05/2023) 
+![screenshot572](https://github.com/user-attachments/assets/06cf08cb-f030-4bf1-bf46-58b23045f1ae)
+
+# [tekkito2_vskf](https://drive.google.com/file/d/1f7z1FPcUitEE5EqAk-QMUhNDqdEWu3lc/view) (2/05/2023) 
+![screenshot571](https://github.com/user-attachments/assets/cdee8b8c-d9c1-4bbb-a956-8d5015db06fe)
 
 # [MonkoGlass](https://drive.google.com/file/d/1IZBUOvNdU_nDegJYIRNBKKwbWZPYqLbP/view?usp=sharing) (22/4/2023)
 ![screenshot290](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f6c74df8-4d38-4ee8-9e7a-ef3627a9fbcc)
