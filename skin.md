@@ -509,16 +509,16 @@
 ![screenshot420](https://github.com/user-attachments/assets/6e57dd2b-9989-486c-a3a9-7dc676feca62)
 
 # [tekkito2_vskf](https://drive.google.com/file/d/16rQfzOlyxYeK-JEp6Pk_SiOdg6ba-heo/view?usp=sharing) (07/05/2023) 
-![screenshot573](https://github.com/user-attachments/assets/38ea57e9-5e36-4c94-a959-f558e97068fd)
+![screenshot577](https://github.com/user-attachments/assets/a135cb0c-779e-4df6-8c7b-090251a46c1f)
 
 # [tekkito2_vskf](https://drive.google.com/file/d/137epQ8FN5nqfJdmDtYUjeNHuGa0qnKEj/view?usp=sharing) (05/05/2023) 
-![screenshot574](https://github.com/user-attachments/assets/56e7db84-9e32-421f-a5c6-9087d3eafeb6)
+![screenshot576](https://github.com/user-attachments/assets/e46f2900-aba5-4597-86e0-b0881d57addb)
 
 # [tekkito2_ryan](https://drive.google.com/file/d/1sZI9ijKVeayuGtdQY96Dq8O49H24mecn/view?usp=sharing) (05/05/2023) 
-![screenshot572](https://github.com/user-attachments/assets/06cf08cb-f030-4bf1-bf46-58b23045f1ae)
+![screenshot575](https://github.com/user-attachments/assets/228375e9-d72c-44c4-82da-89aca36b1c4c)
 
-# [tekkito2_vskf](https://drive.google.com/file/d/1f7z1FPcUitEE5EqAk-QMUhNDqdEWu3lc/view) (2/05/2023) 
-![screenshot571](https://github.com/user-attachments/assets/cdee8b8c-d9c1-4bbb-a956-8d5015db06fe)
+# [tekkito2_vskf](https://drive.google.com/file/d/1f7z1FPcUitEE5EqAk-QMUhNDqdEWu3lc/view) (2/05/2023)
+![screenshot579](https://github.com/user-attachments/assets/9134ec47-2174-453a-8ca1-3fc7659d6594)
 
 # [MonkoGlass](https://drive.google.com/file/d/1IZBUOvNdU_nDegJYIRNBKKwbWZPYqLbP/view?usp=sharing) (22/4/2023)
 ![screenshot290](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/f6c74df8-4d38-4ee8-9e7a-ef3627a9fbcc)
