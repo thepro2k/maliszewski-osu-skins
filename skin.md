@@ -1,4 +1,4 @@
- # Compilation of 193 skins Maliszewski has used since mid 2022
+ # Compilation of 194 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -41,9 +41,8 @@
 
 </details>
 
-# MALISZ YOUTUBE IS BACK WITH 171 VIDS
-# gonna take me a couple weeks to look through everything but im so happy
-# nvm its gone again XD
+# [☑prezes](https://drive.google.com/file/d/1WWq2IiwsgnTPFy2EEKvAyfwDVMPpQWUH/view?usp=sharing) (24/01/2025) changed sliderb, cursor and ranks
+![screenshot580](https://github.com/user-attachments/assets/4dd7f8db-cabb-4397-bcc6-cfd3becbf8e3)
 
 # [zadymiarz](https://drive.google.com/file/d/1HmVJT_Zeq0bURzise-ukLNZoWgngUTjq/view?usp=sharing) (08/01/2025)
 ![screenshot560](https://github.com/user-attachments/assets/ffb5e988-bbb7-4125-b22e-9961edfcf350)
