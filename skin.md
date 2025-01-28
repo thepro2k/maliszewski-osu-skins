@@ -1,4 +1,4 @@
- # Compilation of 194 skins Maliszewski has used since mid 2022
+ # Compilation of 195 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -21,11 +21,10 @@
 <p align="center">
 
 <strong> 
- 
-#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB: https://github.com/Emejzink/Malisz/blob/main/skins.md
-#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB: https://github.com/Emejzink/Malisz/blob/main/skins.md
-#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL SKINHUB: https://github.com/Emejzink/Malisz/blob/main/skins.md
-
+  
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
+#  NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
  </strong>
 
 
@@ -40,6 +39,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [tk+rekty+jan25](https://drive.google.com/file/d/1S4UAiCqlUSrzUp6i7_Csq2m8YJVIEF0C/view?usp=sharing) (28/01/2025)
+![screenshot581](https://github.com/user-attachments/assets/e0c94bb1-e570-4a55-9c26-28a08d153d52)
 
 # [☑prezes](https://drive.google.com/file/d/1WWq2IiwsgnTPFy2EEKvAyfwDVMPpQWUH/view?usp=sharing) (24/01/2025) changed sliderb, cursor and ranks
 ![screenshot580](https://github.com/user-attachments/assets/4dd7f8db-cabb-4397-bcc6-cfd3becbf8e3)
@@ -215,14 +217,13 @@
 # [‎a (splity edit) malisz edit (?)](https://drive.google.com/file/d/1e5vTf923Tw5BYF6ZMdel6A9fhOQJ_IiA/view?usp=sharing) (26/05/2024)
 ![screenshot168](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/d44dc47f-60c4-427f-bbcb-64bf1ff60633)
 
-
 # [wooz](https://drive.google.com/file/d/1Hzzey7ZOlvU7S2fncGfrz5KA8KuSS5D-/view?usp=sharing) (22/05/2024)
 ![screenshot158](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/98dd7c06-cf74-4aad-96ee-8d6f8ff54165)
 
 # [☑zwykly tekkito](https://drive.google.com/file/d/1OZOC-wdsiJSPqD9pS9Nj1xOsE4Gw72o9/view?usp=sharing ) (18/05/2024)
 ![screenshot152](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/45a16054-d936-4047-b893-42d8dcd5cce9)
 
-# [want u back dt fc 1x100 (?)](https://drive.google.com/file/d/128huM3S9zxOzPG65laj7vN_Weex-id2K/view?usp=sharing) (13/05/2023)
+# [want u back dt fc 1x100 (?)](https://drive.google.com/file/d/128huM3S9zxOzPG65laj7vN_Weex-id2K/view?usp=sharing) (13/05/2024)
 ![screenshot141](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/04fb65d4-1b4c-428b-af74-812ddfac006c)
 
 # [☑misia](https://drive.google.com/file/d/1RYm2yTeZBGkyp-ne83JfQwUCBBXNuhVz/view?usp=sharing) (10/05/2024)
