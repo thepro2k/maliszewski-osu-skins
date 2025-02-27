@@ -1,4 +1,4 @@
- # Compilation of 196 skins Maliszewski has used since mid 2022
+ # Compilation of 197 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -63,6 +63,9 @@
 
 # [☑zadymiarz](https://drive.google.com/file/d/12y4eVG-XbpPQHsGj7nEPT2oWKRqMYEMc/view?usp=sharing) (21/12/2024)
 ![screenshot547](https://github.com/user-attachments/assets/0ace0ac9-ae5c-40fe-aa1a-22c6be0f114d)
+
+# [zadymiarz](https://drive.google.com/file/d/1W_xjoKnHQ0a0MYJJcuhS-bUEcpk4rVq5/view?usp=sharing) (18/12/2024) - changed followpoints
+![screenshot590](https://github.com/user-attachments/assets/9f4ab6d2-ab57-4e58-b834-3d2dd07aa752)
 
 # [zadymiarz](https://drive.google.com/file/d/1Efw7U-AFfE888R8cqxDTQFPUQljZXdWQ/view?usp=sharing) (13/12/2024) - changed followpoints and followcircle
 ![screenshot543](https://github.com/user-attachments/assets/43947761-0ea7-4408-8285-f511e169a78e)
