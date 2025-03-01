@@ -1,4 +1,4 @@
- # Compilation of 197 skins Maliszewski has used since mid 2022
+ # Compilation of 198 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -39,6 +39,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [‎‎Cinnamon_ultra_lite](https://drive.google.com/file/d/1K4PVUE1qLldhN1eJd5wZ3vVXzXTyjy8m/view?usp=sharing) (01/03/2025)
+![screenshot591](https://github.com/user-attachments/assets/f90e907c-a226-43c8-8b57-7853934e8e82)
 
 # [filippu pewdekz](https://2k.lain.ch/skins/dl/----%20filippu%20pewdekz.osk) (28/01/2025)
 ![screenshot584](https://github.com/user-attachments/assets/c22a66a1-f22b-4057-90b4-bf5cfa1720fd)
