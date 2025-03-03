@@ -1,4 +1,4 @@
- # Compilation of 198 skins Maliszewski has used since mid 2022
+ # Compilation of 199 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -39,6 +39,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [‎‎_• zadymiarz bandana 1](https://github.com/Bandana-style/skinhub/blob/main/skins.md) (02/03/2025)
+![screenshot592](https://github.com/user-attachments/assets/a0f42cf1-7d77-4ecb-b6e7-6db8e3f3706c)
 
 # [‎‎Cinnamon_ultra_lite](https://drive.google.com/file/d/1K4PVUE1qLldhN1eJd5wZ3vVXzXTyjy8m/view?usp=sharing) (01/03/2025)
 ![screenshot591](https://github.com/user-attachments/assets/f90e907c-a226-43c8-8b57-7853934e8e82)
