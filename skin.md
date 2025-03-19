@@ -1,4 +1,4 @@
- # Compilation of 199 skins Maliszewski has used since mid 2022
+ # Compilation of 200 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -39,6 +39,9 @@
 # https://streamable.com/95ev6y
 
 </details>
+
+# [‎‎rafis podkrecony](https://drive.google.com/file/d/11RoIAmcM9fVwuUb_nPPGczR041_9dV0c/view?usp=sharing) (19/03/2025) changed sliderb, followcircle and ui
+![screenshot595](https://github.com/user-attachments/assets/1f487ac8-c48e-46aa-97b9-26f945ebad57)
 
 # [‎‎_• zadymiarz bandana 1](https://github.com/Bandana-style/skinhub/blob/main/skins.md) (02/03/2025)
 ![screenshot592](https://github.com/user-attachments/assets/a0f42cf1-7d77-4ecb-b6e7-6db8e3f3706c)
@@ -85,7 +88,7 @@
 # [☑d](https://drive.google.com/file/d/1xtR-TfmMKJ15VKqN5hp2hGZZd6lPPorP/view?usp=sharing) (08/12/2024)
 ![screenshot536](https://github.com/user-attachments/assets/b8c8da96-9fbb-4764-ad09-535c28080966)
 
-# [☑malteser](https://drive.google.com/file/d/1Hut1nDYvfWjqGzNjnrSqUfVJx-ReHBzG/view?usp=sharing) (4/12/2024) - diff hitcircleoverlay, ranks and combobreak
+# [☑malteser](https://drive.google.com/file/d/1Hut1nDYvfWjqGzNjnrSqUfVJx-ReHBzG/view?usp=sharing) (4/12/2024) changed hitcircleoverlay, ranks and combobreak
 ![screenshot526](https://github.com/user-attachments/assets/dfdb75e3-c40c-4b3e-aabe-7bcefb923ca6)
 
 # [Tio Rene](https://drive.google.com/file/d/1Ds-A6PQ5rhXqMErhMaMOFgiyMgYDxM12/view?usp=sharing) (04/12/2024)
@@ -151,7 +154,7 @@
 # [tekkito_ietherial — kopia](https://drive.google.com/file/d/1LnMkar15_Qf3jB5l-F4DJ2RCjg_52QQZ/view?usp=sharing) (11/08/2024) 
 ![screenshot381](https://github.com/user-attachments/assets/36d39e11-0972-4a17-aef8-21712f4fcf0f)
 
-# [boop inne hitsoundy](https://drive.google.com/file/d/11NgTv4rVgZqOORnEM4Dimb3ybMYoHtVu/view?usp=sharing) (10/08/2024) - diff cursor and hitsounds 
+# [boop inne hitsoundy](https://drive.google.com/file/d/11NgTv4rVgZqOORnEM4Dimb3ybMYoHtVu/view?usp=sharing) (10/08/2024) changed cursor and hitsounds 
 ![screenshot375](https://github.com/user-attachments/assets/ef519b56-b52a-48ea-8510-63d5f10bb815)
 
 # [☑‎tekkitoietherialnowy](https://drive.google.com/file/d/1Dwu3Gnv-nnpGrMqywdQ2-PCGexj0VEQG/view?usp=sharing) (10/08/2024)
@@ -166,10 +169,10 @@
 # [whotttt (?)](https://drive.google.com/file/d/1B2qFHbx2CDdlGIHTBVAfWE8aliJ-SZ_-/view?usp=sharing) (06/08/2024)
 ![screenshot363](https://github.com/user-attachments/assets/c0495cde-e49c-458e-a17f-58b174e9a487)
 
-# [gn](https://drive.google.com/file/d/1waK84k02GHrIJIjPSUyr62HyRk2VHn7x/view?usp=sharing) (23/7/2024) - diff ui and hitsounds vs the skin used on 10/7/24
+# [gn](https://drive.google.com/file/d/1waK84k02GHrIJIjPSUyr62HyRk2VHn7x/view?usp=sharing) (23/7/2024) changed ui and hitsounds vs the skin used on 10/7/24
 ![screenshot339](https://github.com/user-attachments/assets/60323a27-2f65-4cfb-aeba-365399defb90)
 
-# [aristia](https://drive.google.com/file/d/1H_r03ilNU5yl7jVux6XZ-r9q7ln56ALm/view?usp=sharing) (23/7/2024) - diff ui and rev. arrow vs the skin used on 6/6/24
+# [aristia](https://drive.google.com/file/d/1H_r03ilNU5yl7jVux6XZ-r9q7ln56ALm/view?usp=sharing) (23/7/2024) changed ui and rev. arrow vs the skin used on 6/6/24
 ![screenshot341](https://github.com/user-attachments/assets/eded4d6f-ed7c-4ed0-bddb-92d4f85278b7)
 
 # [rafis](https://drive.google.com/file/d/1c8cDNX5CdSliVOdVQdEzQ7QgrF9YmD-d/view?usp=sharing) (23/7/2024)
@@ -181,10 +184,10 @@
 # [emo](https://drive.google.com/file/d/1mcmBAUwNWhTrpd9sxTeAWv3_AcD8HB_c/view?usp=sharing)  (10/7/2024) - malisz used this skin with beatmap combo colors
 ![screenshot334](https://github.com/user-attachments/assets/15dc37f8-3534-4580-9177-88c69c87fe30)
 
-# [tekkito_ietherial edit (?)](https://drive.google.com/file/d/1rhEVd0uVHAXyEnAVQYjlP-AWB8FTa2zq/view?usp=sharing)  (08/07/2024) diff numbers and cursor
+# [tekkito_ietherial edit (?)](https://drive.google.com/file/d/1rhEVd0uVHAXyEnAVQYjlP-AWB8FTa2zq/view?usp=sharing)  (08/07/2024) changed numbers and cursor
 ![screenshot371](https://github.com/user-attachments/assets/1647f02f-1752-4641-a91b-641611fe0dbd)
 
-# [Prawilosc vJP edit](https://drive.google.com/file/d/1g_yAoAJK9iHvb1_nbNshYk9Lp9xkqUl4/view?usp=sharing) and [unedited](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view) (5/7/2024) -diff rev arrow and cursor
+# [Prawilosc vJP edit](https://drive.google.com/file/d/1g_yAoAJK9iHvb1_nbNshYk9Lp9xkqUl4/view?usp=sharing) and [unedited](https://drive.google.com/file/d/1epYq8N9ZoyCTBITQ3EFfcFJhBzAGu2KL/view) (5/7/2024) changed rev arrow and cursor
 ![screenshot332](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/40b86763-f222-4ab0-ae7a-fa916e240620)
 
 # [[L] Rafis - DT_OWC [RK]](https://mega.nz/folder/vQM3TRpK#jjUTFAlfvE0NLq97pzT7_g/file/CMt3hLDR) (05/07/2024)
