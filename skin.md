@@ -40,7 +40,7 @@
 
 </details>
 
-# [_• zadymiarz sekine 2](https://drive.google.com/file/d/1PdhBKgWe3Ck_CVP5VJOOeK8SyItQC7zw/view?usp=sharing) (06/04/2025)
+# [_• zadymiarz sekine 2](https://drive.google.com/file/d/1TBWkoCelx3l6N1Ln1mIcg43Y-rbZnDIt/view) (06/04/2025)
 ![screenshot599](https://github.com/user-attachments/assets/6ba88f6d-bfd5-4739-bd6d-4f2a8655f61f)
 
 # [Saraune Leaves](https://drive.google.com/file/d/1PdhBKgWe3Ck_CVP5VJOOeK8SyItQC7zw/view?usp=sharing) (06/04/2025)
