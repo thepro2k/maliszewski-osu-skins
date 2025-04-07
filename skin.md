@@ -1,31 +1,6 @@
+# maliszewski skins - compilation of 203 skins maliszewski has used since mid 2022
 
- # Compilation of 203 skins Maliszewski has used since mid 2022
- # maliszewski skins
-
- <br>
- 
- # My profile: https://osu.ppy.sh/users/16323209
-  
-# - Includes skins malisz used on stream, in youtube videos and in twitter clips
-# - Most skins this doc are remakes
-# - If you see (?) it means the real name of a skin is unknown
-# - Most skins with weird names were named after the title of the yt vid where malisz used them
-# - Needless to say, I can't guarantee every remake is 100% accurate, especially because the footage i have of some skins is really limited 
-# - Skins tagged with the symbol ☑ were exported by malisz
-# - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
-# - For questions/suggestions/anything else DM me in discord or in game
-# - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
-
-<br>
-<br>
-
-## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
-
-## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
-
-## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
-
-### [My profile](https://osu.ppy.sh/users/16323209)
+## [My profile](https://osu.ppy.sh/users/16323209)
 
 - **Includes skins malisz used on stream, in youtube videos and in twitter clips**
 - **Most skins this doc are remakes**
@@ -42,16 +17,18 @@
   <details>
   <summary></summary>
 
-# <https://streamable.com/95ev6y>
+<https://streamable.com/95ev6y>
 
 </details>
  </strong>
 </p>
 
 # [_• zadymiarz sekine 2](https://drive.google.com/file/d/1TBWkoCelx3l6N1Ln1mIcg43Y-rbZnDIt/view) (06/04/2025)
+
 ![screenshot599](https://github.com/user-attachments/assets/6ba88f6d-bfd5-4739-bd6d-4f2a8655f61f)
 
 # [Saraune Leaves](https://drive.google.com/file/d/1PdhBKgWe3Ck_CVP5VJOOeK8SyItQC7zw/view?usp=sharing) (06/04/2025)
+
 ![screenshot598](https://github.com/user-attachments/assets/9ce94b4c-5194-4848-867b-7d33b63d289a)
 
 # [802pp (?)](https://drive.google.com/file/d/1kTU7Ygf0-CA1WDtdTZx4liuBH0_NA74f/view?usp=sharing) (28/03/2025)
@@ -838,7 +815,7 @@
 
 ![screenshot444](https://github.com/user-attachments/assets/36ba57ea-9a42-46fb-a50e-856cce6f18cb)
 
-# [ #dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing) (23/10/2022) and [red_pixel](https://drive.google.com/file/d/13dilcfKyzhhElbk3XnAcdRclFx5EAnuN/view?usp=sharing) (10/11/2022) (just different hs)
+# [#dddx15dt](https://drive.google.com/file/d/1dCNwLhXEccTu9rZrd8VEsBsw8DtIAAva/view?usp=sharing) (23/10/2022) and [red_pixel](https://drive.google.com/file/d/13dilcfKyzhhElbk3XnAcdRclFx5EAnuN/view?usp=sharing) (10/11/2022) (just different hs)
 
 ![screenshot244](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/9bed8c6f-4285-4f47-8b62-02cb81401067)
 
