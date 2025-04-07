@@ -1,23 +1,4 @@
-
- # Compilation of 203 skins Maliszewski has used since mid 2022
- # maliszewski skins
-
- <br>
- 
- # My profile: https://osu.ppy.sh/users/16323209
-  
-# - Includes skins malisz used on stream, in youtube videos and in twitter clips
-# - Most skins this doc are remakes
-# - If you see (?) it means the real name of a skin is unknown
-# - Most skins with weird names were named after the title of the yt vid where malisz used them
-# - Needless to say, I can't guarantee every remake is 100% accurate, especially because the footage i have of some skins is really limited 
-# - Skins tagged with the symbol ☑ were exported by malisz
-# - If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included
-# - For questions/suggestions/anything else DM me in discord or in game
-# - A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch
-
-<br>
-<br>
+# maliszewski skins - compilation of 201 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -36,17 +17,14 @@
 - **If you see any flaws I strongly encourage you to let me know - everyone benefits from better remakes, myself included**
 - **For questions/suggestions/anything else DM me in discord or in game**
 - **A big thank you the people in tekkito's discord server, anytime I dont know an element they always come in clutch**
-
 <p align="center">
-<strong>
-  <details>
+
+ <details>
   <summary></summary>
 
-# <https://streamable.com/95ev6y>
-
+  # https://streamable.com/95ev6y
+  
 </details>
- </strong>
-</p>
 
 # [_• zadymiarz sekine 2](https://drive.google.com/file/d/1TBWkoCelx3l6N1Ln1mIcg43Y-rbZnDIt/view) (06/04/2025)
 ![screenshot599](https://github.com/user-attachments/assets/6ba88f6d-bfd5-4739-bd6d-4f2a8655f61f)
