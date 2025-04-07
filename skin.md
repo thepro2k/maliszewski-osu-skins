@@ -1,4 +1,4 @@
- # Compilation of 202 skins Maliszewski has used since mid 2022
+ # Compilation of 203 skins Maliszewski has used since mid 2022
  # maliszewski skins
 
  <br>
@@ -40,6 +40,9 @@
 
 </details>
 
+# [_• zadymiarz sekine 2](https://drive.google.com/file/d/1PdhBKgWe3Ck_CVP5VJOOeK8SyItQC7zw/view?usp=sharing) (06/04/2025)
+![screenshot599](https://github.com/user-attachments/assets/6ba88f6d-bfd5-4739-bd6d-4f2a8655f61f)
+
 # [Saraune Leaves](https://drive.google.com/file/d/1PdhBKgWe3Ck_CVP5VJOOeK8SyItQC7zw/view?usp=sharing) (06/04/2025)
 ![screenshot598](https://github.com/user-attachments/assets/9ce94b4c-5194-4848-867b-7d33b63d289a)
 
@@ -49,7 +52,7 @@
 # [‎‎rafis podkrecony](https://drive.google.com/file/d/11RoIAmcM9fVwuUb_nPPGczR041_9dV0c/view?usp=sharing) (19/03/2025) changed sliderb, followcircle and ui
 ![screenshot595](https://github.com/user-attachments/assets/1f487ac8-c48e-46aa-97b9-26f945ebad57)
 
-# [‎‎_• zadymiarz bandana 1](https://github.com/Bandana-style/skinhub/blob/main/skins.md) (02/03/2025)
+# [‎‎_• zadymiarz bandana 1](https://drive.google.com/file/d/1A1FliHlv0v2fizDhfC0ltIU7rQhVRwcw/view) (02/03/2025)
 ![screenshot592](https://github.com/user-attachments/assets/a0f42cf1-7d77-4ecb-b6e7-6db8e3f3706c)
 
 # [‎‎Cinnamon_ultra_lite](https://drive.google.com/file/d/1K4PVUE1qLldhN1eJd5wZ3vVXzXTyjy8m/view?usp=sharing) (01/03/2025)
