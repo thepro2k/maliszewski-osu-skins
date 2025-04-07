@@ -1,4 +1,4 @@
-# maliszewski skins - compilation of 201 skins maliszewski has used since mid 2022 
+# maliszewski skins - compilation of 203 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
