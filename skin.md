@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 204 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 207 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -25,6 +25,16 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+
+# [‎adidas instafade yellow](https://drive.google.com/file/d/1tqmsmRUf_r03sF3Nwl29q3Gqgk6nP58x/view?usp=sharing) (07/05/2025)
+![screenshot609](https://github.com/user-attachments/assets/9d3d2117-87f1-4b47-a58c-da2fad8bc61f)
+
+# [adidas for3v3r](https://drive.google.com/file/d/1oFKrBzXyzzQgr35ZlFuIMti8EEx1HVAE/view?usp=sharing) (07/05/2025)
+![screenshot608](https://github.com/user-attachments/assets/a73955e2-f9ea-42d0-89eb-efbfa14909a7)
+
+# [adidas emo](https://drive.google.com/file/d/1zerTLimGByc6m2Vg59-zLObsgsxnKEC0/view?usp=sharing) (07/05/2025)
+![screenshot602](https://github.com/user-attachments/assets/256c5b79-7321-4192-b601-37d29493d470)
 
 # [zadymiarz 2023](https://drive.google.com/file/d/1AZlNL3VrhrmYZfpniwo7MWJtPp9c43iG/view?usp=sharing) (05/05/2025)
 ![screenshot601](https://github.com/user-attachments/assets/37b27f9d-1883-492c-bc75-3544056430e9)
