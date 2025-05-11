@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 207 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 209 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -26,6 +26,8 @@
   
 </details>
 
+# [dziadek](https://drive.google.com/file/d/1iezgtXaqWBJ4nInKMmdFomuoPrJN4OjF/view?usp=sharing) (11/05/2025)
+![screenshot610](https://github.com/user-attachments/assets/2b6f4b57-f90a-4217-86d2-6c922ad22198)
 
 # [‎adidas instafade yellow](https://drive.google.com/file/d/1tqmsmRUf_r03sF3Nwl29q3Gqgk6nP58x/view?usp=sharing) (07/05/2025)
 ![screenshot609](https://github.com/user-attachments/assets/9d3d2117-87f1-4b47-a58c-da2fad8bc61f)
@@ -768,6 +770,10 @@
 # [azerino bomba (?)](https://drive.google.com/file/d/1vP8cR0nZ5ba3j9xedNcdp3XBzqwahC88/view?usp=sharing) (20/01/2023)
 
 ![screenshot402](https://github.com/user-attachments/assets/b6a173c3-472b-4585-9a21-8465a1ff19d7)
+
+# [tekkito2 fd (?)](https://drive.google.com/file/d/1xLGYwSOgnKomDaeaBbd2FWQ4EhyHLdq3/view?usp=sharing) (15/01/2023)
+
+![screenshot613](https://github.com/user-attachments/assets/80b7f561-ee4b-48da-a9ae-de71c9817e19)
 
 # [tekkito2 rrtyui (?)](https://drive.google.com/file/d/1PZISSnmfw8nawJ91m40UTKKQpmCmXpIN/view?usp=sharing) (09/01/2023)
 
