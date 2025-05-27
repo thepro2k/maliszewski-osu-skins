@@ -1,12 +1,12 @@
- # maliszewski skins - compilation of 209 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 210 skins maliszewski has used since mid 2022 
 
-## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
+## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
-## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
+## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
-## NOT ASSOCIATED WITH MALISZEWSKI - HERE IS HIS OFFICIAL [SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
+## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
-### [My profile](https://osu.ppy.sh/users/16323209)
+## [My profile](https://osu.ppy.sh/users/16323209)
 
 - **Includes skins malisz used on stream, in youtube videos and in twitter clips**
 - **Most skins this doc are remakes**
@@ -25,6 +25,9 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [aristia](https://drive.google.com/file/d/1INfRUW93LpNK3TICtCuKTuFw6FgcCkvy/view?usp=sharing) (27/05/2025)
+![screenshot615](https://github.com/user-attachments/assets/962f7994-ac23-4428-9add-cc6cb193c2cc)
 
 # [dziadek](https://drive.google.com/file/d/1iezgtXaqWBJ4nInKMmdFomuoPrJN4OjF/view?usp=sharing) (11/05/2025)
 ![screenshot610](https://github.com/user-attachments/assets/2b6f4b57-f90a-4217-86d2-6c922ad22198)
