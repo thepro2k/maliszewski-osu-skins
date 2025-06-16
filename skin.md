@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 212 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 214 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -608,9 +608,17 @@
 
 ![screenshot192](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/b9e727e3-4ed1-452a-aa0d-d61395bb27ae)
 
-# [czysty do dt](https://drive.google.com/file/d/1FcDscRD-GeUrsgyb7apGLsZwenLNxtRo/view?usp=sharing) (15/09/2023)
+# [czysty do dt](https://drive.google.com/file/d/1y8smmyePF_2UhLeEijtkvkPMFuYLaJ41/view?usp=sharing) (09/09/2023)
 
-![screenshot424](https://github.com/user-attachments/assets/7f99a35f-9b6d-405b-a97e-5d4222b3ccfd)
+![screenshot641](https://github.com/user-attachments/assets/e9690868-51f7-46ee-9850-fd7fd103523b)
+
+# [czysty do readingu](https://drive.google.com/file/d/16Iz11f_hSyXzbYubx1AL6oKk7AhSZ5CC/view?usp=sharing) (09/09/2023)
+
+![screenshot642](https://github.com/user-attachments/assets/42d9ec81-4b40-42e7-99fe-aef0976ad78a)
+
+# [czysty](https://drive.google.com/file/d/196OO05tz5pmW9T_OB2Y4940AlvzdBPvD/view?usp=sharing) (09/09/2023)
+
+![screenshot643](https://github.com/user-attachments/assets/5ed0f7d8-d3a7-497d-917e-e40b5e7337ef)
 
 # [michni ziutek](https://drive.google.com/file/d/150GjP_pp0ZeTlg4TaYXRH8d6qedb4G8n/view?usp=sharing) (26/08/2023)
 
