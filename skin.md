@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 214 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 216 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -25,6 +25,12 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [Rafis elohere mathi Alfie ver](https://drive.google.com/file/d/1pgkbDAUkJFC7dXyGGmKo4dtzLBjy7gmp/view?usp=sharing) (28/06/2025)
+![screenshot647](https://github.com/user-attachments/assets/a04c68f0-11ac-4b23-8759-8b76680f5477)
+
+# [Seoul v11 Asta Edit](https://drive.google.com/file/d/1TmhXQ8zNPeryc1wh1sXikG74BDqrsuAR/view?usp=sharing) (28/06/2025)
+![screenshot648](https://github.com/user-attachments/assets/6d26ae00-f916-4586-b532-f9bce5a342f1)
 
 # [zadymiarz (1)](https://drive.google.com/file/d/12lwb35IobQGuafrskw5HN8UWIHW5qUry/view?usp=sharing) (31/05/2025)
 ![screenshot617](https://github.com/user-attachments/assets/5b62de8d-fb73-46b3-b268-fa46a5d097a0)
