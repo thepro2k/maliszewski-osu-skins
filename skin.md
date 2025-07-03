@@ -26,8 +26,8 @@
   
 </details>
 
-# [stellerino (2)](https://drive.google.com/file/d/1jeKaA7O4Ct3fVEQWtYhxvkP0YTI28UoY/view?usp=sharing) (28/06/2025)
-![screenshot649](https://github.com/user-attachments/assets/87cfc6fa-6b9e-42f9-bc6e-5e829aadd355)
+# [stellerino (2)](https://drive.google.com/file/d/1E7NgWKILwnS0s-QjERv15xKCl50vkrc8/view?usp=sharing) (03/07/2025)
+![screenshot650](https://github.com/user-attachments/assets/94ca1bdc-91df-43d8-80a5-1e6f4d06ce5d)
 
 # [Rafis elohere mathi Alfie ver](https://drive.google.com/file/d/1pgkbDAUkJFC7dXyGGmKo4dtzLBjy7gmp/view?usp=sharing) (28/06/2025)
 ![screenshot647](https://github.com/user-attachments/assets/a04c68f0-11ac-4b23-8759-8b76680f5477)
