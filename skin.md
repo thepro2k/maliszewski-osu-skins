@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 217 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 219 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -25,6 +25,12 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [amanita](https://drive.google.com/file/d/1zWKqn7kbAmgDlXDMtHTWtGQ3HUVZM3MA/view?usp=sharing) - by [sofram](https://osu.ppy.sh/users/32566590) (07/07/2025)
+![screenshot652](https://github.com/user-attachments/assets/3dd6f522-4112-4711-bde4-1841a6e3d8f2)
+
+# [rafisedit](https://drive.google.com/file/d/1xGxr7yqnFBYA_mVycRuf-z3MKxxdNFAa/view?usp=sharing) (07/07/2025) - changed defaults vs old ver
+![screenshot651](https://github.com/user-attachments/assets/dd105fcf-15bf-4aa7-98b6-7cd657d08529)
 
 # [stellerino (2)](https://drive.google.com/file/d/1E7NgWKILwnS0s-QjERv15xKCl50vkrc8/view?usp=sharing) (03/07/2025)
 ![screenshot650](https://github.com/user-attachments/assets/94ca1bdc-91df-43d8-80a5-1e6f4d06ce5d)
@@ -77,7 +83,7 @@
 
 ![screenshot592](https://github.com/user-attachments/assets/a0f42cf1-7d77-4ecb-b6e7-6db8e3f3706c)
 
-# [Cinnamon_ultra_lite](https://drive.google.com/file/d/1K4PVUE1qLldhN1eJd5wZ3vVXzXTyjy8m/view?usp=sharing) (01/03/2025)
+# [Cinnamon_ultra_lite](https://drive.google.com/file/d/1K4PVUE1qLldhN1eJd5wZ3vVXzXTyjy8m/view?usp=sharing) by [mofuries](https://osu.ppy.sh/users/1749607) (01/03/2025)
 
 ![screenshot591](https://github.com/user-attachments/assets/f90e907c-a226-43c8-8b57-7853934e8e82)
 
@@ -101,7 +107,7 @@
 
 ![screenshot558](https://github.com/user-attachments/assets/8fdf6693-9b79-436a-ad29-9ead7dab5bfe)
 
-# [fukari alt](https://drive.google.com/file/d/1t5AWJ4QYdx6vcxzx92Svk6RC85ww_T7v/view?usp=sharing) (01/01/2025) (played with beatmap combo colors)
+# [fukari alt](https://drive.google.com/file/d/1t5AWJ4QYdx6vcxzx92Svk6RC85ww_T7v/view?usp=sharing) by [Fukari-tan](https://osu.ppy.sh/users/13882281) (01/01/2025) - played with beatmap colors
 
 ![screenshot557](https://github.com/user-attachments/assets/1bc73fa1-74aa-45d9-8968-30edcb2574f2)
 
@@ -253,11 +259,11 @@
 
 ![screenshot336](https://github.com/user-attachments/assets/2c0c045e-0abb-4d18-8a95-502e7b847c85)
 
-# [+GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024) - malisz used this skin with beatmap combo colors
+# [+GN](https://drive.google.com/file/d/1_8pUZ4ixIYw_T9-fZDjAz1F5LQ4ywDqo/view?usp=sharing) (10/7/2024) - played with beatmap colors
 
 ![screenshot333](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/08e75fad-ac16-4257-b895-3e23170f2f91)
 
-# [emo](https://drive.google.com/file/d/1mcmBAUwNWhTrpd9sxTeAWv3_AcD8HB_c/view?usp=sharing)  (10/7/2024) - malisz used this skin with beatmap combo colors
+# [emo](https://drive.google.com/file/d/1mcmBAUwNWhTrpd9sxTeAWv3_AcD8HB_c/view?usp=sharing)  (10/7/2024) - played with beatmap colors
 
 ![screenshot334](https://github.com/user-attachments/assets/15dc37f8-3534-4580-9177-88c69c87fe30)
 
@@ -353,11 +359,11 @@
 
 ![screenshot132](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/92427ff2-e780-488c-b33f-bfc00229766e)
 
-# [☑MISKAMODELKA](https://drive.google.com/file/d/1iyTX2H2udNuUklVqKzHItWeT1OSNmUw6/view?usp=sharing) (3/05/2024)
+# [☑MISKAMODELKA](https://drive.google.com/file/d/1iyTX2H2udNuUklVqKzHItWeT1OSNmUw6/view?usp=sharing) (03/05/2024)
 
 ![screenshot325](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8913b2c0-6cf8-4705-b124-827ae466ba4d)
 
-# [fukari alt edit](https://drive.google.com/file/d/1v6lLh7UwU_Tw0IgJXNtWdkJlaTV83DQN/view?usp=sharing) (2/05/2024)
+# [fukari alt edit](https://drive.google.com/file/d/1v6lLh7UwU_Tw0IgJXNtWdkJlaTV83DQN/view?usp=sharing)  - by [Fukari-tan](https://osu.ppy.sh/users/13882281) and [splitty](https://osu.ppy.sh/users/10354591) (02/05/2024)
 
 ![screenshot149](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/34c31797-3018-4bfb-be87-b13f45fa9984)
 
@@ -417,7 +423,7 @@
 
 ![screenshot225](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/907943fa-c023-4f8e-84eb-3be4ac8e5d18)
 
-# [BOGEZ](https://drive.google.com/file/d/1ZO1ieY3GIMqTrj0GyGSJVIwE5NBf-Tc8/view?usp=sharing) (30/03/2024)
+# [BOGEZ](https://drive.google.com/file/d/1ZO1ieY3GIMqTrj0GyGSJVIwE5NBf-Tc8/view?usp=sharing) - by [bog](https://osu.ppy.sh/users/4265261) (30/03/2024)
 
 ![screenshot195](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/8d021aad-cdd8-471a-a5d0-ff1f35f03b10)
 
