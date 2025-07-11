@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 220 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 221 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -26,7 +26,10 @@
   
 </details>
 
-# [stellerino (2)](https://drive.google.com/file/d/1S3wMUjsVDNopUS_0hWEnBzgSHXahg7h5/view?usp=sharing) - changed combo colors (08/07/2025)
+# [dziadek](https://drive.google.com/file/d/1acdUSSAfsIU88G3QByeqHfqm566Zl7QM/view?usp=sharing) (10/07/2025)
+![screenshot656](https://github.com/user-attachments/assets/2ddafcc9-db0a-431c-8324-e54df2d05585)
+
+# [stellerino (2)](https://drive.google.com/file/d/1S3wMUjsVDNopUS_0hWEnBzgSHXahg7h5/view?usp=sharing) (08/07/2025) - changed combo colors 
 ![screenshot655](https://github.com/user-attachments/assets/921d9bdd-839f-4240-87ab-ed542fbccda4)
 
 # [amanita](https://drive.google.com/file/d/1zWKqn7kbAmgDlXDMtHTWtGQ3HUVZM3MA/view?usp=sharing) - by [sofram](https://osu.ppy.sh/users/32566590) (07/07/2025)
