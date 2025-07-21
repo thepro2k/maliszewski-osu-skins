@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 221 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 222 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -25,6 +25,9 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [mordzia](https://drive.google.com/file/d/1HAxL3hXEwrxJHfOFqOIYv2JjV6fkU7Pk/view?usp=sharing) (21/07/2025) - zad 2023 with slightly different song select
+![screenshot659](https://github.com/user-attachments/assets/4f055758-b2a3-4525-9df5-2bb900179915)
 
 # [dziadek](https://drive.google.com/file/d/1acdUSSAfsIU88G3QByeqHfqm566Zl7QM/view?usp=sharing) (10/07/2025)
 ![screenshot656](https://github.com/user-attachments/assets/2ddafcc9-db0a-431c-8324-e54df2d05585)
