@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 223 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 224 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -25,6 +25,12 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [Rafis 2018-03-26 HDDT](https://drive.google.com/file/d/184OeSNHVtKsda6L4OWrXraStHY3kovaj/view?usp=sharing) (02/08/2025) - used at coe lan 1v1
+![screenshot661](https://github.com/user-attachments/assets/cfb44b18-222e-477a-aae6-8d2fa7b03a92)
+
+# [rektygon_editnov](https://drive.google.com/file/d/1f-PjnpjZb7ZaH7t1xh4uwrI4qF2xZoN3/view?usp=sharing) (02/08/2025) - [old skin](https://github.com/thepro2k/maliszewski-osu-skins/blob/main/skin.md#rektygon_editnov-17082024), used again at coe lan 1v1
+![screenshot384](https://github.com/user-attachments/assets/2a7dfd6c-a862-4969-9d31-6d8380a17165)
 
 # [mordzia](https://drive.google.com/file/d/1H_WkZe4d22uTNK-dR8OJWLYB-nB9E9Ds/view?usp=sharing) (22/07/2025) - zad 4 with slightly different song select
 ![screenshot660](https://github.com/user-attachments/assets/46f817cd-0156-43f4-ab81-ca01e28760a6)
