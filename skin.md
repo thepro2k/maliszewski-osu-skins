@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 224 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 225 skins maliszewski has used since mid 2022 
 
 ## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
 
@@ -25,6 +25,9 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [dziaduuu](https://drive.google.com/file/d/1AB32r4KmTxqLaCndYSPwA-qvPqdGELYB/view?usp=sharing) (05/08/2025)
+![screenshot662](https://github.com/user-attachments/assets/a56aa75e-fb42-4e58-9e0a-ac039ff7ce96)
 
 # [Rafis 2018-03-26 HDDT](https://drive.google.com/file/d/184OeSNHVtKsda6L4OWrXraStHY3kovaj/view?usp=sharing) (02/08/2025) - used at coe lan 1v1
 ![screenshot661](https://github.com/user-attachments/assets/cfb44b18-222e-477a-aae6-8d2fa7b03a92)
