@@ -688,7 +688,7 @@
 
 ![screenshot271](https://github.com/thepro2k/Maliszewski-osu-skins/assets/108192718/1d9d942d-1771-4bc9-a53d-baf87098b620)
 
-# [tekkito2lugia rekty(?)](https://drive.google.com/file/d/17UhtcgRYraaYS_UV9cvhZQbi2XUFR-pV/view?usp=sharing) (27/07/2023)
+# [tekkito2lugia rekty(?)](https://drive.google.com/file/d/18BCoXNzFySz8Xb8OfF6yHQA4z9mBa35t/view) (27/07/2023)
 
 ![screenshot465](https://github.com/user-attachments/assets/7e149432-dcdc-44bc-9ec9-d55c6bf37415)
 
