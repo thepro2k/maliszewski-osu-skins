@@ -1,10 +1,10 @@
- # maliszewski skins - compilation of 225 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 226 skins maliszewski has used since mid 2022 
 
-## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
+ 
 
-## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
-
-## NOT ASSOCIATED WITH MALISZEWSKI - [HERE IS HIS OFFICIAL SKINHUB](https://sites.google.com/view/polskapodziemnaskinhub/strona-g%C5%82%C3%B3wna)
+### NOT ASSOCIATED WITH MALISZEWSKI, JUST SOMEONE WHO REMAKES SKINS HE USES
+### NOT ASSOCIATED WITH MALISZEWSKI, JUST SOMEONE WHO REMAKES SKINS HE USES
+### NOT ASSOCIATED WITH MALISZEWSKI, JUST SOMEONE WHO REMAKES SKINS HE USES
 
 ## [My profile](https://osu.ppy.sh/users/16323209)
 
@@ -25,6 +25,9 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [found this replay from 2024 (?)](https://drive.google.com/file/d/1oymyuYRy-xmuwBwCOsI0eE7do9jFt08D/view?usp=sharing) (26/08/2025) changed sliderborder, rev arrow and combo/score
+![screenshot663](https://github.com/user-attachments/assets/792d6927-19c9-44e9-8cc7-a92021c2afc2)
 
 # [dziaduuu](https://drive.google.com/file/d/1AB32r4KmTxqLaCndYSPwA-qvPqdGELYB/view?usp=sharing) (05/08/2025)
 ![screenshot662](https://github.com/user-attachments/assets/a56aa75e-fb42-4e58-9e0a-ac039ff7ce96)
