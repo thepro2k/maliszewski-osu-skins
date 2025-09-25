@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 226 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 227 skins maliszewski has used since mid 2022 
 
  
 
@@ -25,6 +25,9 @@
   # https://streamable.com/95ev6y
   
 </details>
+
+# [wat (?)](https://drive.google.com/file/d/1vi_JjWAqSzH_Fo-PRZC5PrYBoHzBf3T8/view?usp=sharing) (21/09/2025) 
+![screenshot667](https://github.com/user-attachments/assets/0da43a46-6e7d-41c5-8abd-21adf9427d13)
 
 # [found this replay from 2024 (?)](https://drive.google.com/file/d/1oymyuYRy-xmuwBwCOsI0eE7do9jFt08D/view?usp=sharing) (26/08/2025) changed sliderborder, rev arrow and combo/score
 ![screenshot663](https://github.com/user-attachments/assets/792d6927-19c9-44e9-8cc7-a92021c2afc2)
