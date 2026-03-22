@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 229 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 230 skins maliszewski has used since mid 2022 
 
  
 
@@ -29,8 +29,8 @@
 </details>
 
 
-
-Malisz has announced he almost surely won't stream his owc matches this year, and has also made it seem like he won't stream at all in the near future. I find this pretty sad since some of my favorite skins on this doc are from the owc2023 days, and its also really cool to be able to associate certain skins with important matches, as would happen in the many owc streams that i was expecting. That probably means we won't be seeing any new skins for a long time, other than some sparse clips or youtube uploads :( 
+# [2026 03 22 (?)](https://drive.google.com/file/d/10psN9kzqM-5q4iTjpyk7RpIubuH17kPm/view?usp=sharing) (22/03/2026) 
+![screenshot677](https://github.com/user-attachments/assets/3fa1ead7-008a-4613-8fd9-81da084dae50)
 
 # [aristia](https://drive.google.com/file/d/1U8-mSdivv-BODtfzeMNgWSkv0KTwdN4H/view?usp=sharing) (10/12/2025) 
 ![screenshot676](https://github.com/user-attachments/assets/edbc90ed-e789-493a-9f89-804808577b52)
