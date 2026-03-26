@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 230 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 231 skins maliszewski has used since mid 2022 
 
  
 
@@ -28,6 +28,8 @@
   
 </details>
 
+# [Elo320](https://drive.google.com/file/d/1zvfRaCIf4gQEFSfAYl1WZfIxopi7Q_MH/view?usp=drive_link) (25/03/2026) [wat](https://github.com/thepro2k/maliszewski-osu-skins/blob/main/skin.md#wat--21092025) with different hitsounds
+![screenshot678](https://github.com/user-attachments/assets/402e95d9-73e1-4a47-8299-6df02ec23a8d)
 
 # [xishu](https://drive.google.com/file/d/10psN9kzqM-5q4iTjpyk7RpIubuH17kPm/view?usp=sharing) (22/03/2026) 
 ![screenshot677](https://github.com/user-attachments/assets/3fa1ead7-008a-4613-8fd9-81da084dae50)
