@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 234 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 237 skins maliszewski has used since mid 2022 
 
  
 
@@ -28,8 +28,17 @@
   
 </details>
 
+# [dddd](https://drive.google.com/file/d/17dPPPgre_j_FWvNd_KFefgO3luxRer-0/view?usp=drive_link) (07/06/2026)
+<img width="1920" height="1080" alt="screenshot684" src="https://github.com/user-attachments/assets/e4b7a053-8b6d-48b4-a255-c3287cd9ce84" />
+
+# [‎erik24x24](https://drive.google.com/file/d/1NjAM7WdjjOzrUIGw6N5h1oA0ki-ioni8/view?usp=drive_link) (07/06/2026)
+<img width="1920" height="1080" alt="screenshot685" src="https://github.com/user-attachments/assets/7e6b4375-a1f5-4195-b6a3-a21877a75766" />
+
 # [xishu](https://drive.google.com/file/d/1iiMST1LfJEDCWscHugSCUjSH3GJNyCJ1/view?usp=sharing) (02/06/2026) new cursor
 <img width="1920" height="1080" alt="screenshot681" src="https://github.com/user-attachments/assets/5e55012e-bc4b-4ba2-895d-1740fb6070c4" />
+
+# [rafal](https://drive.google.com/file/d/1hRvj2jNfQTUqYUnW4gfoaK48048KXp3D/view?usp=drive_link) (22/05/2026)
+<img width="1920" height="1080" alt="screenshot686" src="https://github.com/user-attachments/assets/a8fb59f6-8e1e-437c-b400-2fe76400b018" />
 
 # [☑marianek](https://drive.google.com/file/d/10jO49NF3ic3hJyUweodcA_csBiazgn5u/view?usp=drive_link) (03/04/2026)
 ![screenshot680](https://github.com/user-attachments/assets/95671584-f994-422d-97f8-8deab0aa9688)
