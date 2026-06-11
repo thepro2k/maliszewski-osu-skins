@@ -1,4 +1,4 @@
- # maliszewski skins - compilation of 237 skins maliszewski has used since mid 2022 
+ # maliszewski skins - compilation of 240 skins maliszewski has used since mid 2022 
 
  
 
@@ -27,6 +27,15 @@
  
   
 </details>
+
+# [teczowyedit](https://drive.google.com/file/d/1O1mbmL9AuWXjPKEPj4jeiDeOOVe5qC4X/view?usp=drive_link) (11/06/2026)
+<img width="1920" height="1080" alt="screenshot696" src="https://github.com/user-attachments/assets/92c26592-7563-448a-b0e5-3e07e7e5c8da" />
+
+# [teczowy](https://drive.google.com/file/d/1we3BiP2Gy5D_vobdVWsb_D7AqwJczlsV/view?usp=sharing) (11/06/2026)
+<img width="1920" height="1080" alt="screenshot692" src="https://github.com/user-attachments/assets/2e0f692f-28c4-4427-ba42-b0d031793c8e" />
+
+# [dddd — kopia](https://drive.google.com/file/d/15Vhwi5JTtePMbrItFtX3OKT1SUaqiTRG/view?usp=drive_link) (11/06/2026)
+<img width="1920" height="1080" alt="screenshot694" src="https://github.com/user-attachments/assets/69398175-8d43-43b1-811f-fc0be7c3e316" />
 
 # [dddd](https://drive.google.com/file/d/17dPPPgre_j_FWvNd_KFefgO3luxRer-0/view?usp=drive_link) (07/06/2026)
 <img width="1920" height="1080" alt="screenshot684" src="https://github.com/user-attachments/assets/e4b7a053-8b6d-48b4-a255-c3287cd9ce84" />
