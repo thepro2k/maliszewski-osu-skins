@@ -28,7 +28,7 @@
   
 </details>
 
-# [kromelek](https://drive.google.com/file/d/1669oypkVZapM5T9J8h-jxPYxmiEEA_qR/view?usp=drive_link) (21/06/2026)
+# [kromelek](https://drive.google.com/file/d/1669oypkVZapM5T9J8h-jxPYxmiEEA_qR/view?usp=drive_link) (20/06/2026)
 <img width="1920" height="1080" alt="screenshot705" src="https://github.com/user-attachments/assets/8175d205-58d0-49ae-9b94-568982baec7a" />
 
 # [teczowyedit](https://drive.google.com/file/d/1O1mbmL9AuWXjPKEPj4jeiDeOOVe5qC4X/view?usp=drive_link) (11/06/2026)
