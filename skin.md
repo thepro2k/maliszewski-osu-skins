@@ -28,7 +28,7 @@
   
 </details>
 
-# [☑blem](https://drive.google.com/file/d/1Kgvtmz9FXrNqANFUTp8ejvrrp6xn-xhA/view?usp=drive_link) (11/10/2026)
+# [☑blem](https://drive.google.com/file/d/1Kgvtmz9FXrNqANFUTp8ejvrrp6xn-xhA/view?usp=drive_link) - original skin by [razzberryleaf](https://osu.ppy.sh/users/36456193) (11/10/2026)
 <img width="1920" height="1080" alt="screenshot718" src="https://github.com/user-attachments/assets/062bdef3-6192-4353-b3cd-9173d4af40bb" />
 
 # [BubbleSkin24-09-08](https://drive.google.com/file/d/1EPm7GcoOyo1xSJ74GpUvj1Z24yZcQRME/view?usp=sharing) (27/08/2026)
